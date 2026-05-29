@@ -1,0 +1,3230 @@
+﻿LocationName,FIPS,County,State,Network,Contractor,HasDialysisFacility
+"Fairfield, CT",9001,Fairfield,CT,1,IPRO,YES
+"Hartford, CT",9003,Hartford,CT,1,IPRO,YES
+"Litchfield, CT",9005,Litchfield,CT,1,IPRO,YES
+"Middlesex, CT",9007,Middlesex,CT,1,IPRO,YES
+"New Haven, CT",9009,New Haven,CT,1,IPRO,YES
+"New London, CT",9011,New London,CT,1,IPRO,YES
+"Tolland, CT",9013,Tolland,CT,1,IPRO,YES
+"Windham, CT",9015,Windham,CT,1,IPRO,YES
+"Barnstable, MA",25001,Barnstable,MA,1,IPRO,YES
+"Berkshire, MA",25003,Berkshire,MA,1,IPRO,YES
+"Bristol, MA",25005,Bristol,MA,1,IPRO,YES
+"Dukes, MA",25007,Dukes,MA,1,IPRO,YES
+"Essex, MA",25009,Essex,MA,1,IPRO,YES
+"Franklin, MA",25011,Franklin,MA,1,IPRO,YES
+"Hampden, MA",25013,Hampden,MA,1,IPRO,YES
+"Hampshire, MA",25015,Hampshire,MA,1,IPRO,YES
+"Middlesex, MA",25017,Middlesex,MA,1,IPRO,YES
+"Nantucket, MA",25019,Nantucket,MA,1,IPRO,YES
+"Norfolk, MA",25021,Norfolk,MA,1,IPRO,YES
+"Plymouth, MA",25023,Plymouth,MA,1,IPRO,YES
+"Suffolk, MA",25025,Suffolk,MA,1,IPRO,YES
+"Worcester, MA",25027,Worcester,MA,1,IPRO,YES
+"Androscoggin, ME",23001,Androscoggin,ME,1,IPRO,YES
+"Aroostook, ME",23003,Aroostook,ME,1,IPRO,YES
+"Cumberland, ME",23005,Cumberland,ME,1,IPRO,YES
+"Franklin, ME",23007,Franklin,ME,1,IPRO,YES
+"Hancock, ME",23009,Hancock,ME,1,IPRO,YES
+"Kennebec, ME",23011,Kennebec,ME,1,IPRO,YES
+"Knox, ME",23013,Knox,ME,1,IPRO,NO
+"Lincoln, ME",23015,Lincoln,ME,1,IPRO,YES
+"Oxford, ME",23017,Oxford,ME,1,IPRO,NO
+"Penobscot, ME",23019,Penobscot,ME,1,IPRO,YES
+"Piscataquis, ME",23021,Piscataquis,ME,1,IPRO,NO
+"Sagadahoc, ME",23023,Sagadahoc,ME,1,IPRO,YES
+"Somerset, ME",23025,Somerset,ME,1,IPRO,YES
+"Waldo, ME",23027,Waldo,ME,1,IPRO,YES
+"Washington, ME",23029,Washington,ME,1,IPRO,YES
+"York, ME",23031,York,ME,1,IPRO,YES
+"Belknap, NH",33001,Belknap,NH,1,IPRO,YES
+"Carroll, NH",33003,Carroll,NH,1,IPRO,YES
+"Cheshire, NH",33005,Cheshire,NH,1,IPRO,YES
+"Coos, NH",33007,Coos,NH,1,IPRO,YES
+"Grafton, NH",33009,Grafton,NH,1,IPRO,YES
+"Hillsborough, NH",33011,Hillsborough,NH,1,IPRO,YES
+"Merrimack, NH",33013,Merrimack,NH,1,IPRO,YES
+"Rockingham, NH",33015,Rockingham,NH,1,IPRO,YES
+"Strafford, NH",33017,Strafford,NH,1,IPRO,YES
+"Sullivan, NH",33019,Sullivan,NH,1,IPRO,YES
+"Bristol, RI",44001,Bristol,RI,1,IPRO,NO
+"Kent, RI",44003,Kent,RI,1,IPRO,YES
+"Newport, RI",44005,Newport,RI,1,IPRO,YES
+"Providence, RI",44007,Providence,RI,1,IPRO,YES
+"Washington, RI",44009,Washington,RI,1,IPRO,YES
+"Addison, VT",50001,Addison,VT,1,IPRO,NO
+"Bennington, VT",50003,Bennington,VT,1,IPRO,YES
+"Caledonia, VT",50005,Caledonia,VT,1,IPRO,YES
+"Chittenden, VT",50007,Chittenden,VT,1,IPRO,YES
+"Essex, VT",50009,Essex,VT,1,IPRO,NO
+"Franklin, VT",50011,Franklin,VT,1,IPRO,YES
+"Grand Isle, VT",50013,Grand Isle,VT,1,IPRO,NO
+"Lamoille, VT",50015,Lamoille,VT,1,IPRO,NO
+"Orange, VT",50017,Orange,VT,1,IPRO,NO
+"Orleans, VT",50019,Orleans,VT,1,IPRO,YES
+"Rutland, VT",50021,Rutland,VT,1,IPRO,YES
+"Washington, VT",50023,Washington,VT,1,IPRO,YES
+"Windham, VT",50025,Windham,VT,1,IPRO,NO
+"Windsor, VT",50027,Windsor,VT,1,Quality Insights,NO
+"Albany, NY",36001,Albany,NY,2,Quality Insights,YES
+"Allegany, NY",36003,Allegany,NY,2,Quality Insights,NO
+"Bronx, NY",36005,Bronx,NY,2,Quality Insights,YES
+"Broome, NY",36007,Broome,NY,2,Quality Insights,YES
+"Cattaraugus, NY",36009,Cattaraugus,NY,2,Quality Insights,YES
+"Cayuga, NY",36011,Cayuga,NY,2,Quality Insights,YES
+"Chautauqua, NY",36013,Chautauqua,NY,2,Quality Insights,YES
+"Chemung, NY",36015,Chemung,NY,2,Quality Insights,YES
+"Chenango, NY",36017,Chenango,NY,2,Quality Insights,YES
+"Clinton, NY",36019,Clinton,NY,2,Quality Insights,YES
+"Columbia, NY",36021,Columbia,NY,2,Quality Insights,YES
+"Cortland, NY",36023,Cortland,NY,2,Quality Insights,YES
+"Delaware, NY",36025,Delaware,NY,2,Quality Insights,NO
+"Dutchess, NY",36027,Dutchess,NY,2,Quality Insights,YES
+"Erie, NY",36029,Erie,NY,2,Quality Insights,YES
+"Essex, NY",36031,Essex,NY,2,Quality Insights,YES
+"Franklin, NY",36033,Franklin,NY,2,Quality Insights,YES
+"Fulton, NY",36035,Fulton,NY,2,Quality Insights,YES
+"Genesee, NY",36037,Genesee,NY,2,Quality Insights,YES
+"Greene, NY",36039,Greene,NY,2,Quality Insights,YES
+"Hamilton, NY",36041,Hamilton,NY,2,Quality Insights,NO
+"Herkimer, NY",36043,Herkimer,NY,2,Quality Insights,YES
+"Jefferson, NY",36045,Jefferson,NY,2,Quality Insights,YES
+"Kings, NY",36047,Kings,NY,2,Quality Insights,YES
+"Lewis, NY",36049,Lewis,NY,2,Quality Insights,YES
+"Livingston, NY",36051,Livingston,NY,2,Quality Insights,YES
+"Madison, NY",36053,Madison,NY,2,Quality Insights,YES
+"Monroe, NY",36055,Monroe,NY,2,Quality Insights,YES
+"Montgomery, NY",36057,Montgomery,NY,2,Quality Insights,YES
+"Nassau, NY",36059,Nassau,NY,2,Quality Insights,YES
+"New York, NY",36061,New York,NY,2,Quality Insights,YES
+"Niagara, NY",36063,Niagara,NY,2,Quality Insights,YES
+"Oneida, NY",36065,Oneida,NY,2,Quality Insights,YES
+"Onondaga, NY",36067,Onondaga,NY,2,Quality Insights,YES
+"Ontario, NY",36069,Ontario,NY,2,Quality Insights,YES
+"Orange, NY",36071,Orange,NY,2,Quality Insights,YES
+"Orleans, NY",36073,Orleans,NY,2,Quality Insights,YES
+"Oswego, NY",36075,Oswego,NY,2,Quality Insights,YES
+"Otsego, NY",36077,Otsego,NY,2,Quality Insights,YES
+"Putnam, NY",36079,Putnam,NY,2,Quality Insights,YES
+"Queens, NY",36081,Queens,NY,2,Quality Insights,YES
+"Rensselaer, NY",36083,Rensselaer,NY,2,Quality Insights,YES
+"Richmond, NY",36085,Richmond,NY,2,Quality Insights,YES
+"Rockland, NY",36087,Rockland,NY,2,Quality Insights,YES
+"Saint Lawrence, NY",36089,Saint Lawrence,NY,2,Quality Insights,YES
+"Saratoga, NY",36091,Saratoga,NY,2,Quality Insights,YES
+"Schenectady, NY",36093,Schenectady,NY,2,Quality Insights,YES
+"Schoharie, NY",36095,Schoharie,NY,2,Quality Insights,NO
+"Schuyler, NY",36097,Schuyler,NY,2,Quality Insights,NO
+"Seneca, NY",36099,Seneca,NY,2,Quality Insights,NO
+"Steuben, NY",36101,Steuben,NY,2,Quality Insights,YES
+"Suffolk, NY",36103,Suffolk,NY,2,Quality Insights,YES
+"Sullivan, NY",36105,Sullivan,NY,2,Quality Insights,YES
+"Tioga, NY",36107,Tioga,NY,2,Quality Insights,NO
+"Tompkins, NY",36109,Tompkins,NY,2,Quality Insights,YES
+"Ulster, NY",36111,Ulster,NY,2,Quality Insights,YES
+"Warren, NY",36113,Warren,NY,2,Quality Insights,YES
+"Washington, NY",36115,Washington,NY,2,Quality Insights,NO
+"Wayne, NY",36117,Wayne,NY,2,Quality Insights,YES
+"Westchester, NY",36119,Westchester,NY,2,Quality Insights,YES
+"Wyoming, NY",36121,Wyoming,NY,2,Quality Insights,NO
+"Yates, NY",36123,Yates,NY,2,Quality Insights,NO
+"Atlantic, NJ",34001,Atlantic,NJ,3,Quality Insights,YES
+"Bergen, NJ",34003,Bergen,NJ,3,Quality Insights,YES
+"Burlington, NJ",34005,Burlington,NJ,3,Quality Insights,YES
+"Camden, NJ",34007,Camden,NJ,3,Quality Insights,YES
+"Cape May, NJ",34009,Cape May,NJ,3,Quality Insights,YES
+"Cumberland, NJ",34011,Cumberland,NJ,3,Quality Insights,YES
+"Essex, NJ",34013,Essex,NJ,3,Quality Insights,YES
+"Gloucester, NJ",34015,Gloucester,NJ,3,Quality Insights,YES
+"Hudson, NJ",34017,Hudson,NJ,3,Quality Insights,YES
+"Hunterdon, NJ",34019,Hunterdon,NJ,3,Quality Insights,YES
+"Mercer, NJ",34021,Mercer,NJ,3,Quality Insights,YES
+"Middlesex, NJ",34023,Middlesex,NJ,3,Quality Insights,YES
+"Monmouth, NJ",34025,Monmouth,NJ,3,Quality Insights,YES
+"Morris, NJ",34027,Morris,NJ,3,Quality Insights,YES
+"Ocean, NJ",34029,Ocean,NJ,3,Quality Insights,YES
+"Passaic, NJ",34031,Passaic,NJ,3,Quality Insights,YES
+"Salem, NJ",34033,Salem,NJ,3,Quality Insights,YES
+"Somerset, NJ",34035,Somerset,NJ,3,Quality Insights,YES
+"Sussex, NJ",34037,Sussex,NJ,3,Quality Insights,YES
+"Union, NJ",34039,Union,NJ,3,Quality Insights,YES
+"Warren, NJ",34041,Warren,NJ,3,Quality Insights,YES
+"Adjuntas, PR",72001,Adjuntas,PR,3,Quality Insights,NO
+"Aguada, PR",72003,Aguada,PR,3,Quality Insights,NO
+"Aguadilla, PR",72005,Aguadilla,PR,3,Quality Insights,YES
+"Aguas Buenas, PR",72007,Aguas Buenas,PR,3,Quality Insights,NO
+"Aibonito, PR",72009,Aibonito,PR,3,Quality Insights,YES
+"Añasco, PR",72011,Añasco,PR,3,Quality Insights,NO
+"Arecibo, PR",72013,Arecibo,PR,3,Quality Insights,YES
+"Arroyo, PR",72015,Arroyo,PR,3,Quality Insights,NO
+"Barceloneta, PR",72017,Barceloneta,PR,3,Quality Insights,NO
+"Barranquitas, PR",72019,Barranquitas,PR,3,Quality Insights,NO
+"Bayamon, PR",72021,Bayamon,PR,3,Quality Insights,YES
+"Cabo Rojo, PR",72023,Cabo Rojo,PR,3,Quality Insights,NO
+"Caguas, PR",72025,Caguas,PR,3,Quality Insights,YES
+"Camuy, PR",72027,Camuy,PR,3,Quality Insights,NO
+"Canovanas, PR",72029,Canovanas,PR,3,Quality Insights,YES
+"Carolina, PR",72031,Carolina,PR,3,Quality Insights,YES
+"Cataño, PR",72033,Cataño,PR,3,Quality Insights,NO
+"Cayey, PR",72035,Cayey,PR,3,Quality Insights,YES
+"Ceiba, PR",72037,Ceiba,PR,3,Quality Insights,NO
+"Ciales, PR",72039,Ciales,PR,3,Quality Insights,NO
+"Cidra, PR",72041,Cidra,PR,3,Quality Insights,NO
+"Coamo, PR",72043,Coamo,PR,3,Quality Insights,NO
+"Comerío, PR",72045,Comerío,PR,3,Quality Insights,NO
+"Corozal, PR",72047,Corozal,PR,3,Quality Insights,NO
+"Culebra, PR",72049,Culebra,PR,3,Quality Insights,NO
+"Dorado, PR",72051,Dorado,PR,3,Quality Insights,YES
+"Fajardo, PR",72053,Fajardo,PR,3,Quality Insights,YES
+"Florida, PR",72054,Florida,PR,3,Quality Insights,NO
+"Guánica, PR",72055,Guánica,PR,3,Quality Insights,NO
+"Guayama, PR",72057,Guayama,PR,3,Quality Insights,YES
+"Guayanilla, PR",72059,Guayanilla,PR,3,Quality Insights,NO
+"Guaynabo, PR",72061,Guaynabo,PR,3,Quality Insights,YES
+"Gurabo, PR",72063,Gurabo,PR,3,Quality Insights,NO
+"Hatillo, PR",72065,Hatillo,PR,3,Quality Insights,NO
+"Hormigueros, PR",72067,Hormigueros,PR,3,Quality Insights,NO
+"Humacao, PR",72069,Humacao,PR,3,Quality Insights,YES
+"Isabela, PR",72071,Isabela,PR,3,Quality Insights,YES
+"Jayuya, PR",72073,Jayuya,PR,3,Quality Insights,NO
+"Juana Diaz, PR",72075,Juana Diaz,PR,3,Quality Insights,YES
+"Juncos, PR",72077,Juncos,PR,3,Quality Insights,YES
+"Lajas, PR",72079,Lajas,PR,3,Quality Insights,NO
+"Lares, PR",72081,Lares,PR,3,Quality Insights,YES
+"Las Marias, PR",72083,Las Marias,PR,3,Quality Insights,NO
+"Las Piedras, PR",72085,Las Piedras,PR,3,Quality Insights,YES
+"Loiza, PR",72087,Loiza,PR,3,Quality Insights,NO
+"Luquillo, PR",72089,Luquillo,PR,3,Quality Insights,NO
+"Manati, PR",72091,Manati,PR,3,Quality Insights,YES
+"Maricao, PR",72093,Maricao,PR,3,Quality Insights,NO
+"Maunabo, PR",72095,Maunabo,PR,3,Quality Insights,NO
+"Mayaguez, PR",72097,Mayaguez,PR,3,Quality Insights,YES
+"Moca, PR",72099,Moca,PR,3,Quality Insights,NO
+"Morovis, PR",72101,Morovis,PR,3,Quality Insights,NO
+"Naguabo, PR",72103,Naguabo,PR,3,Quality Insights,NO
+"Naranjito, PR",72105,Naranjito,PR,3,Quality Insights,YES
+"Orocovis, PR",72107,Orocovis,PR,3,Quality Insights,NO
+"Patillas, PR",72109,Patillas,PR,3,Quality Insights,NO
+"Penuelas, PR",72111,Penuelas,PR,3,Quality Insights,NO
+"Ponce, PR",72113,Ponce,PR,3,Quality Insights,YES
+"Quebradillas, PR",72115,Quebradillas,PR,3,Quality Insights,NO
+"Rincon, PR",72117,Rincon,PR,3,Quality Insights,NO
+"Rio Grande, PR",72119,Rio Grande,PR,3,Quality Insights,YES
+"Sabana Grande, PR",72121,Sabana Grande,PR,3,Quality Insights,NO
+"Salinas, PR",72123,Salinas,PR,3,Quality Insights,NO
+"San German, PR",72125,San German,PR,3,Quality Insights,YES
+"San Juan, PR",72127,San Juan,PR,3,Quality Insights,YES
+"San Lorenzo, PR",72129,San Lorenzo,PR,3,Quality Insights,NO
+"San Sebastian, PR",72131,San Sebastian,PR,3,Quality Insights,YES
+"Santa Isabel, PR",72133,Santa Isabel,PR,3,Quality Insights,NO
+"Toa Alta, PR",72135,Toa Alta,PR,3,Quality Insights,NO
+"Toa Baja, PR",72137,Toa Baja,PR,3,Quality Insights,YES
+"Trujillo Alto, PR",72139,Trujillo Alto,PR,3,Quality Insights,NO
+"Utuado, PR",72141,Utuado,PR,3,Quality Insights,NO
+"Vega Alta, PR",72143,Vega Alta,PR,3,Quality Insights,YES
+"Vega Baja, PR",72145,Vega Baja,PR,3,Quality Insights,YES
+"Vieques, PR",72147,Vieques,PR,3,Quality Insights,NO
+"Villalba, PR",72149,Villalba,PR,3,Quality Insights,NO
+"Yabucoa, PR",72151,Yabucoa,PR,3,Quality Insights,NO
+"Yauco, PR",72153,Yauco,PR,3,Quality Insights,YES
+"Saint Croix, VI",8010,Saint Croix,VI,3,Quality Insights,YES
+"Saint John, VI",78020,Saint John,VI,3,Quality Insights,NO
+"Saint Thomas, VI",78030,Saint Thomas,VI,3,Quality Insights,YES
+"Kent, DE",10001,Kent,DE,4,Quality Insights,YES
+"New Castle, DE",10003,New Castle,DE,4,Quality Insights,YES
+"Sussex, DE",10005,Sussex,DE,4,Quality Insights,YES
+"Adams, PA",42001,Adams,PA,4,Quality Insights,YES
+"Allegheny, PA",42003,Allegheny,PA,4,Quality Insights,YES
+"Armstrong, PA",42005,Armstrong,PA,4,Quality Insights,YES
+"Beaver, PA",42007,Beaver,PA,4,Quality Insights,YES
+"Bedford, PA",42009,Bedford,PA,4,Quality Insights,YES
+"Berks, PA",42011,Berks,PA,4,Quality Insights,YES
+"Blair, PA",42013,Blair,PA,4,Quality Insights,YES
+"Bradford, PA",42015,Bradford,PA,4,Quality Insights,YES
+"Bucks, PA",42017,Bucks,PA,4,Quality Insights,YES
+"Butler, PA",42019,Butler,PA,4,Quality Insights,YES
+"Cambria, PA",42021,Cambria,PA,4,Quality Insights,YES
+"Cameron, PA",42023,Cameron,PA,4,Quality Insights,NO
+"Carbon, PA",42025,Carbon,PA,4,Quality Insights,YES
+"Centre, PA",42027,Centre,PA,4,Quality Insights,YES
+"Chester, PA",42029,Chester,PA,4,Quality Insights,YES
+"Clarion, PA",42031,Clarion,PA,4,Quality Insights,YES
+"Clearfield, PA",42033,Clearfield,PA,4,Quality Insights,YES
+"Clinton, PA",42035,Clinton,PA,4,Quality Insights,YES
+"Columbia, PA",42037,Columbia,PA,4,Quality Insights,YES
+"Crawford, PA",42039,Crawford,PA,4,Quality Insights,YES
+"Cumberland, PA",42041,Cumberland,PA,4,Quality Insights,YES
+"Dauphin, PA",42043,Dauphin,PA,4,Quality Insights,YES
+"Delaware, PA",42045,Delaware,PA,4,Quality Insights,YES
+"Elk, PA",42047,Elk,PA,4,Quality Insights,YES
+"Erie, PA",42049,Erie,PA,4,Quality Insights,YES
+"Fayette, PA",42051,Fayette,PA,4,Quality Insights,YES
+"Forest, PA",42053,Forest,PA,4,Quality Insights,NO
+"Franklin, PA",42055,Franklin,PA,4,Quality Insights,YES
+"Fulton, PA",42057,Fulton,PA,4,Quality Insights,YES
+"Greene, PA",42059,Greene,PA,4,Quality Insights,YES
+"Huntingdon, PA",42061,Huntingdon,PA,4,Quality Insights,YES
+"Indiana, PA",42063,Indiana,PA,4,Quality Insights,YES
+"Jefferson, PA",42065,Jefferson,PA,4,Quality Insights,YES
+"Juniata, PA",42067,Juniata,PA,4,Quality Insights,NO
+"Lackawanna, PA",42069,Lackawanna,PA,4,Quality Insights,YES
+"Lancaster, PA",42071,Lancaster,PA,4,Quality Insights,YES
+"Lawrence, PA",42073,Lawrence,PA,4,Quality Insights,YES
+"Lebanon, PA",42075,Lebanon,PA,4,Quality Insights,YES
+"Lehigh, PA",42077,Lehigh,PA,4,Quality Insights,YES
+"Luzerne, PA",42079,Luzerne,PA,4,Quality Insights,YES
+"Lycoming, PA",42081,Lycoming,PA,4,Quality Insights,YES
+"McKean, PA",42083,McKean,PA,4,Quality Insights,YES
+"Mercer, PA",42085,Mercer,PA,4,Quality Insights,YES
+"Mifflin, PA",42087,Mifflin,PA,4,Quality Insights,YES
+"Monroe, PA",42089,Monroe,PA,4,Quality Insights,YES
+"Montgomery, PA",42091,Montgomery,PA,4,Quality Insights,YES
+"Montour, PA",42093,Montour,PA,4,Quality Insights,YES
+"Northampton, PA",42095,Northampton,PA,4,Quality Insights,YES
+"Northumberland, PA",42097,Northumberland,PA,4,Quality Insights,YES
+"Perry, PA",42099,Perry,PA,4,Quality Insights,YES
+"Philadelphia, PA",42101,Philadelphia,PA,4,Quality Insights,YES
+"Pike, PA",42103,Pike,PA,4,Quality Insights,YES
+"Potter, PA",42105,Potter,PA,4,Quality Insights,NO
+"Schuylkill, PA",42107,Schuylkill,PA,4,Quality Insights,YES
+"Snyder, PA",42109,Snyder,PA,4,Quality Insights,YES
+"Somerset, PA",42111,Somerset,PA,4,Quality Insights,YES
+"Sullivan, PA",42113,Sullivan,PA,4,Quality Insights,NO
+"Susquehanna, PA",42115,Susquehanna,PA,4,Quality Insights,NO
+"Tioga, PA",42117,Tioga,PA,4,Quality Insights,YES
+"Union, PA",42119,Union,PA,4,Quality Insights,YES
+"Venango, PA",42121,Venango,PA,4,Quality Insights,YES
+"Warren, PA",42123,Warren,PA,4,Quality Insights,YES
+"Washington, PA",42125,Washington,PA,4,Quality Insights,YES
+"Wayne, PA",42127,Wayne,PA,4,Quality Insights,YES
+"Westmoreland, PA",42129,Westmoreland,PA,4,Quality Insights,YES
+"Wyoming, PA",42131,Wyoming,PA,4,Quality Insights,YES
+"York, PA",42133,York,PA,4,Quality Insights,YES
+"District of Columbia, DC",11001,District of Columbia,DC,5,Quality Insights,YES
+"Allegany, MD",24001,Allegany,MD,5,Quality Insights,YES
+"Anne Arundel, MD",24003,Anne Arundel,MD,5,Quality Insights,YES
+"Baltimore city, MD",24510,Baltimore city,MD,5,Quality Insights,YES
+"Baltimore, MD",24005,Baltimore,MD,5,Quality Insights,YES
+"Calvert, MD",24009,Calvert,MD,5,Quality Insights,YES
+"Caroline, MD",24011,Caroline,MD,5,Quality Insights,YES
+"Carroll, MD",24013,Carroll,MD,5,Quality Insights,YES
+"Cecil, MD",24015,Cecil,MD,5,Quality Insights,YES
+"Charles, MD",24017,Charles,MD,5,Quality Insights,YES
+"Dorchester, MD",24019,Dorchester,MD,5,Quality Insights,YES
+"Frederick, MD",24021,Frederick,MD,5,Quality Insights,YES
+"Garrett, MD",24023,Garrett,MD,5,Quality Insights,YES
+"Harford, MD",24025,Harford,MD,5,Quality Insights,YES
+"Howard, MD",24027,Howard,MD,5,Quality Insights,YES
+"Kent, MD",24029,Kent,MD,5,Quality Insights,YES
+"Montgomery, MD",24031,Montgomery,MD,5,Quality Insights,YES
+"Prince Georges, MD",24033,Prince Georges,MD,5,Quality Insights,YES
+"Queen Anne's, MD",24035,Queen Anne's,MD,5,Quality Insights,NO
+"Saint Marys, MD",24037,Saint Marys,MD,5,Quality Insights,YES
+"Somerset, MD",24039,Somerset,MD,5,Quality Insights,YES
+"Talbot, MD",24041,Talbot,MD,5,Quality Insights,YES
+"Washington, MD",24043,Washington,MD,5,Quality Insights,YES
+"Wicomico, MD",24045,Wicomico,MD,5,Quality Insights,YES
+"Worcester, MD",24047,Worcester,MD,5,Quality Insights,YES
+"Accomack, VA",51001,Accomack,VA,5,Quality Insights,YES
+"Albemarle, VA",51003,Albemarle,VA,5,Quality Insights,YES
+"Alexandria city, VA",51510,Alexandria city,VA,5,Quality Insights,YES
+"Alleghany, VA",51005,Alleghany,VA,5,Quality Insights,NO
+"Amelia, VA",51007,Amelia,VA,5,Quality Insights,YES
+"Amherst, VA",51009,Amherst,VA,5,Quality Insights,YES
+"Appomattox, VA",51011,Appomattox,VA,5,Quality Insights,YES
+"Arlington, VA",51013,Arlington,VA,5,Quality Insights,YES
+"Augusta, VA",51015,Augusta,VA,5,Quality Insights,YES
+"Bath, VA",51017,Bath,VA,5,Quality Insights,NO
+"Bedford city, VA",51515,Bedford city,VA,5,Quality Insights,NO
+"Bedford, VA",51019,Bedford,VA,5,Quality Insights,YES
+"Bland, VA",51021,Bland,VA,5,Quality Insights,NO
+"Botetourt, VA",51023,Botetourt,VA,5,Quality Insights,YES
+"Bristol city, VA",51520,Bristol city,VA,5,Quality Insights,NO
+"Brunswick, VA",51025,Brunswick,VA,5,Quality Insights,NO
+"Buchanan, VA",51027,Buchanan,VA,5,Quality Insights,YES
+"Buckingham, VA",51029,Buckingham,VA,5,Quality Insights,NO
+"Buena Vista city, VA",51530,Buena Vista city,VA,5,Quality Insights,NO
+"Campbell, VA",51031,Campbell,VA,5,Quality Insights,YES
+"Caroline, VA",51033,Caroline,VA,5,Quality Insights,YES
+"Carroll, VA",51035,Carroll,VA,5,Quality Insights,NO
+"Charles City, VA",51036,Charles City,VA,5,Quality Insights,NO
+"Charlotte, VA",51037,Charlotte,VA,5,Quality Insights,NO
+"Charlottesville city, VA",51540,Charlottesville city,VA,5,Quality Insights,YES
+"Chesapeake city, VA",51550,Chesapeake city,VA,5,Quality Insights,YES
+"Chesterfield, VA",51041,Chesterfield,VA,5,Quality Insights,YES
+"Clarke, VA",51043,Clarke,VA,5,Quality Insights,NO
+"Colonial Heights city, VA",51570,Colonial Heights city,VA,5,Quality Insights,YES
+"Covington city, VA",51580,Covington city,VA,5,Quality Insights,YES
+"Craig, VA",51045,Craig,VA,5,Quality Insights,NO
+"Culpeper, VA",51047,Culpeper,VA,5,Quality Insights,YES
+"Cumberland, VA",51049,Cumberland,VA,5,Quality Insights,NO
+"Danville city, VA",51590,Danville city,VA,5,Quality Insights,YES
+"Dickenson, VA",51051,Dickenson,VA,5,Quality Insights,NO
+"Dinwiddie, VA",51053,Dinwiddie,VA,5,Quality Insights,NO
+"Emporia city, VA",51595,Emporia city,VA,5,Quality Insights,YES
+"Essex, VA",51057,Essex,VA,5,Quality Insights,YES
+"Fairfax city, VA",51600,Fairfax city,VA,5,Quality Insights,NO
+"Fairfax, VA",51059,Fairfax,VA,5,Quality Insights,YES
+"Falls Church city, VA",51610,Falls Church city,VA,5,Quality Insights,YES
+"Fauquier, VA",51061,Fauquier,VA,5,Quality Insights,YES
+"Floyd, VA",51063,Floyd,VA,5,Quality Insights,NO
+"Fluvanna, VA",51065,Fluvanna,VA,5,Quality Insights,NO
+"Franklin city, VA",51620,Franklin city,VA,5,Quality Insights,YES
+"Franklin, VA",51067,Franklin,VA,5,Quality Insights,YES
+"Frederick, VA",51069,Frederick,VA,5,Quality Insights,YES
+"Fredericksburg city, VA",51630,Fredericksburg city,VA,5,Quality Insights,YES
+"Galax city, VA",51640,Galax city,VA,5,Quality Insights,YES
+"Giles, VA",51071,Giles,VA,5,Quality Insights,YES
+"Gloucester, VA",51073,Gloucester,VA,5,Quality Insights,YES
+"Goochland, VA",51075,Goochland,VA,5,Quality Insights,NO
+"Grayson, VA",51077,Grayson,VA,5,Quality Insights,NO
+"Greene, VA",51079,Greene,VA,5,Quality Insights,NO
+"Greensville, VA",51081,Greensville,VA,5,Quality Insights,NO
+"Halifax, VA",51083,Halifax,VA,5,Quality Insights,YES
+"Hampton city, VA",51650,Hampton city,VA,5,Quality Insights,YES
+"Hanover, VA",51085,Hanover,VA,5,Quality Insights,YES
+"Harrisonburg city, VA",51660,Harrisonburg city,VA,5,Quality Insights,YES
+"Henrico, VA",51087,Henrico,VA,5,Quality Insights,YES
+"Henry, VA",51089,Henry,VA,5,Quality Insights,YES
+"Highland, VA",51091,Highland,VA,5,Quality Insights,NO
+"Hopewell city, VA",51670,Hopewell city,VA,5,Quality Insights,YES
+"Isle of Wight, VA",51093,Isle of Wight,VA,5,Quality Insights,NO
+"James City, VA",51095,James City,VA,5,Quality Insights,YES
+"King and Queen, VA",51097,King and Queen,VA,5,Quality Insights,NO
+"King George, VA",51099,King George,VA,5,Quality Insights,YES
+"King William, VA",51101,King William,VA,5,Quality Insights,YES
+"Lancaster, VA",51103,Lancaster,VA,5,Quality Insights,NO
+"Lee, VA",51105,Lee,VA,5,Quality Insights,NO
+"Lexington city, VA",51678,Lexington city,VA,5,Quality Insights,YES
+"Loudoun, VA",51107,Loudoun,VA,5,Quality Insights,YES
+"Louisa, VA",51109,Louisa,VA,5,Quality Insights,YES
+"Lunenburg, VA",51111,Lunenburg,VA,5,Quality Insights,NO
+"Lynchburg city, VA",51680,Lynchburg city,VA,5,Quality Insights,YES
+"Madison, VA",51113,Madison,VA,5,Quality Insights,NO
+"Manassas city, VA",51683,Manassas city,VA,5,Quality Insights,YES
+"Manassas Park city, VA",51685,Manassas Park city,VA,5,Quality Insights,NO
+"Martinsville city, VA",51690,Martinsville city,VA,5,Quality Insights,NO
+"Mathews, VA",51115,Mathews,VA,5,Quality Insights,NO
+"Mecklenburg, VA",51117,Mecklenburg,VA,5,Quality Insights,YES
+"Middlesex, VA",51119,Middlesex,VA,5,Quality Insights,NO
+"Montgomery, VA",51121,Montgomery,VA,5,Quality Insights,YES
+"Nelson, VA",51125,Nelson,VA,5,Quality Insights,NO
+"New Kent, VA",51127,New Kent,VA,5,Quality Insights,NO
+"Newport News city, VA",51700,Newport News city,VA,5,Quality Insights,YES
+"Norfolk city, VA",51710,Norfolk city,VA,5,Quality Insights,YES
+"Northampton, VA",51131,Northampton,VA,5,Quality Insights,YES
+"Northumberland, VA",51133,Northumberland,VA,5,Quality Insights,NO
+"Norton city, VA",51720,Norton city,VA,5,Quality Insights,YES
+"Nottoway, VA",51135,Nottoway,VA,5,Quality Insights,NO
+"Orange, VA",51137,Orange,VA,5,Quality Insights,YES
+"Page, VA",51139,Page,VA,5,Quality Insights,YES
+"Patrick, VA",51141,Patrick,VA,5,Quality Insights,NO
+"Petersburg city, VA",51730,Petersburg city,VA,5,Quality Insights,YES
+"Pittsylvania, VA",51143,Pittsylvania,VA,5,Quality Insights,YES
+"Poquoson city, VA",51735,Poquoson city,VA,5,Quality Insights,NO
+"Portsmouth city, VA",51740,Portsmouth city,VA,5,Quality Insights,YES
+"Powhatan, VA",51145,Powhatan,VA,5,Quality Insights,NO
+"Prince Edward, VA",51147,Prince Edward,VA,5,Quality Insights,YES
+"Prince George, VA",51149,Prince George,VA,5,Quality Insights,YES
+"Prince William, VA",51153,Prince William,VA,5,Quality Insights,YES
+"Pulaski, VA",51155,Pulaski,VA,5,Quality Insights,NO
+"Radford city, VA",51750,Radford city,VA,5,Quality Insights,YES
+"Rappahannock, VA",51157,Rappahannock,VA,5,Quality Insights,NO
+"Richmond city, VA",51760,Richmond city,VA,5,Quality Insights,YES
+"Richmond, VA",51159,Richmond,VA,5,Quality Insights,YES
+"Roanoke city, VA",51770,Roanoke city,VA,5,Quality Insights,YES
+"Roanoke, VA",51161,Roanoke,VA,5,Quality Insights,NO
+"Rockbridge, VA",51163,Rockbridge,VA,5,Quality Insights,NO
+"Rockingham, VA",51165,Rockingham,VA,5,Quality Insights,NO
+"Russell, VA",51167,Russell,VA,5,Quality Insights,YES
+"Salem, VA",51775,Salem,VA,5,Quality Insights,YES
+"Scott, VA",51169,Scott,VA,5,Quality Insights,NO
+"Shenandoah, VA",51171,Shenandoah,VA,5,Quality Insights,NO
+"Smyth, VA",51173,Smyth,VA,5,Quality Insights,YES
+"Southampton, VA",51175,Southampton,VA,5,Quality Insights,NO
+"Spotsylvania, VA",51177,Spotsylvania,VA,5,Quality Insights,YES
+"Stafford, VA",51179,Stafford,VA,5,Quality Insights,YES
+"Staunton city, VA",51790,Staunton city,VA,5,Quality Insights,YES
+"Suffolk city, VA",51800,Suffolk city,VA,5,Quality Insights,YES
+"Surry, VA",51181,Surry,VA,5,Quality Insights,NO
+"Sussex, VA",51183,Sussex,VA,5,Quality Insights,NO
+"Tazewell, VA",51185,Tazewell,VA,5,Quality Insights,NO
+"Virginia Beach city, VA",51810,Virginia Beach city,VA,5,Quality Insights,YES
+"Warren, VA",51187,Warren,VA,5,Quality Insights,YES
+"Washington, VA",51191,Washington,VA,5,Quality Insights,YES
+"Waynesboro city, VA",51820,Waynesboro city,VA,5,Quality Insights,NO
+"Westmoreland, VA",51193,Westmoreland,VA,5,Quality Insights,NO
+"Williamsburg city, VA",51830,Williamsburg city,VA,5,Quality Insights,NO
+"Winchester city, VA",51840,Winchester city,VA,5,Quality Insights,YES
+"Wise, VA",51195,Wise,VA,5,Quality Insights,NO
+"Wythe, VA",51197,Wythe,VA,5,Quality Insights,NO
+"York, VA",51199,York,VA,5,Quality Insights,NO
+"Barbour, WV",54001,Barbour,WV,5,Quality Insights,NO
+"Berkeley, WV",54003,Berkeley,WV,5,Quality Insights,YES
+"Boone, WV",54005,Boone,WV,5,Quality Insights,NO
+"Braxton, WV",54007,Braxton,WV,5,Quality Insights,YES
+"Brooke, WV",54009,Brooke,WV,5,Quality Insights,NO
+"Cabell, WV",54011,Cabell,WV,5,Quality Insights,YES
+"Calhoun, WV",54013,Calhoun,WV,5,Quality Insights,NO
+"Clay, WV",54015,Clay,WV,5,Quality Insights,NO
+"Doddridge, WV",54017,Doddridge,WV,5,Quality Insights,NO
+"Fayette, WV",54019,Fayette,WV,5,Quality Insights,YES
+"Gilmer, WV",54021,Gilmer,WV,5,Quality Insights,NO
+"Grant, WV",54023,Grant,WV,5,Quality Insights,NO
+"Greenbrier, WV",54025,Greenbrier,WV,5,Quality Insights,YES
+"Hampshire, WV",54027,Hampshire,WV,5,Quality Insights,NO
+"Hancock, WV",54029,Hancock,WV,5,Quality Insights,YES
+"Hardy, WV",54031,Hardy,WV,5,Quality Insights,NO
+"Harrison, WV",54033,Harrison,WV,5,Quality Insights,YES
+"Jackson, WV",54035,Jackson,WV,5,Quality Insights,YES
+"Jefferson, WV",54037,Jefferson,WV,5,Quality Insights,YES
+"Kanawha, WV",54039,Kanawha,WV,5,Quality Insights,YES
+"Lewis, WV",54041,Lewis,WV,5,Quality Insights,YES
+"Lincoln, WV",54043,Lincoln,WV,5,Quality Insights,NO
+"Logan, WV",54045,Logan,WV,5,Quality Insights,YES
+"Marion, WV",54049,Marion,WV,5,Quality Insights,YES
+"Marshall, WV",54051,Marshall,WV,5,Quality Insights,NO
+"Mason, WV",54053,Mason,WV,5,Quality Insights,NO
+"McDowell, WV",54047,McDowell,WV,5,Quality Insights,NO
+"Mercer, WV",54055,Mercer,WV,5,Quality Insights,YES
+"Mineral, WV",54057,Mineral,WV,5,Quality Insights,YES
+"Mingo, WV",54059,Mingo,WV,5,Quality Insights,NO
+"Monongalia, WV",54061,Monongalia,WV,5,Quality Insights,YES
+"Monroe, WV",54063,Monroe,WV,5,Quality Insights,NO
+"Morgan, WV",54065,Morgan,WV,5,Quality Insights,YES
+"Nicholas, WV",54067,Nicholas,WV,5,Quality Insights,YES
+"Ohio, WV",54069,Ohio,WV,5,Quality Insights,YES
+"Pendleton, WV",54071,Pendleton,WV,5,Quality Insights,NO
+"Pleasants, WV",54073,Pleasants,WV,5,Quality Insights,NO
+"Pocahontas, WV",54075,Pocahontas,WV,5,Quality Insights,NO
+"Preston, WV",54077,Preston,WV,5,Quality Insights,YES
+"Putnam, WV",54079,Putnam,WV,5,Quality Insights,YES
+"Raleigh, WV",54081,Raleigh,WV,5,Quality Insights,YES
+"Randolph, WV",54083,Randolph,WV,5,Quality Insights,YES
+"Ritchie, WV",54085,Ritchie,WV,5,Quality Insights,NO
+"Roane, WV",54087,Roane,WV,5,Quality Insights,NO
+"Summers, WV",54089,Summers,WV,5,Quality Insights,NO
+"Taylor, WV",54091,Taylor,WV,5,Quality Insights,YES
+"Tucker, WV",54093,Tucker,WV,5,Quality Insights,NO
+"Tyler, WV",54095,Tyler,WV,5,Quality Insights,NO
+"Upshur, WV",54097,Upshur,WV,5,Quality Insights,YES
+"Wayne, WV",54099,Wayne,WV,5,Quality Insights,NO
+"Webster, WV",54101,Webster,WV,5,Quality Insights,NO
+"Wetzel, WV",54103,Wetzel,WV,5,Quality Insights,YES
+"Wirt, WV",54105,Wirt,WV,5,Quality Insights,NO
+"Wood, WV",54107,Wood,WV,5,Quality Insights,YES
+"Wyoming, WV",54109,Wyoming,WV,5,Quality Insights,YES
+"Appling, GA",13001,Appling,GA,6,IPRO,YES
+"Atkinson, GA",13003,Atkinson,GA,6,IPRO,NO
+"Bacon, GA",13005,Bacon,GA,6,IPRO,YES
+"Baker, GA",13007,Baker,GA,6,IPRO,NO
+"Baldwin, GA",13009,Baldwin,GA,6,IPRO,YES
+"Banks, GA",13011,Banks,GA,6,IPRO,NO
+"Barrow, GA",13013,Barrow,GA,6,IPRO,YES
+"Bartow, GA",13015,Bartow,GA,6,IPRO,YES
+"Ben Hill, GA",13017,Ben Hill,GA,6,IPRO,NO
+"Berrien, GA",13019,Berrien,GA,6,IPRO,NO
+"Bibb, GA",13021,Bibb,GA,6,IPRO,YES
+"Bleckley, GA",13023,Bleckley,GA,6,IPRO,NO
+"Brantley, GA",13025,Brantley,GA,6,IPRO,NO
+"Brooks, GA",13027,Brooks,GA,6,IPRO,YES
+"Bryan, GA",13029,Bryan,GA,6,IPRO,NO
+"Bulloch, GA",13031,Bulloch,GA,6,IPRO,YES
+"Burke, GA",13033,Burke,GA,6,IPRO,YES
+"Butts, GA",13035,Butts,GA,6,IPRO,YES
+"Calhoun, GA",13037,Calhoun,GA,6,IPRO,NO
+"Camden, GA",13039,Camden,GA,6,IPRO,YES
+"Candler, GA",13043,Candler,GA,6,IPRO,YES
+"Carroll, GA",13045,Carroll,GA,6,IPRO,YES
+"Catoosa, GA",13047,Catoosa,GA,6,IPRO,YES
+"Charlton, GA",13049,Charlton,GA,6,IPRO,NO
+"Chatham, GA",13051,Chatham,GA,6,IPRO,YES
+"Chattahoochee, GA",13053,Chattahoochee,GA,6,IPRO,NO
+"Chattooga, GA",13055,Chattooga,GA,6,IPRO,YES
+"Cherokee, GA",13057,Cherokee,GA,6,IPRO,YES
+"Clarke, GA",13059,Clarke,GA,6,IPRO,YES
+"Clay, GA",13061,Clay,GA,6,IPRO,NO
+"Clayton, GA",13063,Clayton,GA,6,IPRO,YES
+"Clinch, GA",13065,Clinch,GA,6,IPRO,NO
+"Cobb, GA",13067,Cobb,GA,6,IPRO,YES
+"Coffee, GA",13069,Coffee,GA,6,IPRO,YES
+"Colquitt, GA",13071,Colquitt,GA,6,IPRO,YES
+"Columbia, GA",13073,Columbia,GA,6,IPRO,YES
+"Cook, GA",13075,Cook,GA,6,IPRO,YES
+"Coweta, GA",13077,Coweta,GA,6,IPRO,YES
+"Crawford, GA",13079,Crawford,GA,6,IPRO,NO
+"Crisp, GA",13081,Crisp,GA,6,IPRO,YES
+"Dade, GA",13083,Dade,GA,6,IPRO,NO
+"Dawson, GA",13085,Dawson,GA,6,IPRO,NO
+"Decatur, GA",13087,Decatur,GA,6,IPRO,YES
+"DeKalb, GA",13089,DeKalb,GA,6,IPRO,YES
+"Dodge, GA",13091,Dodge,GA,6,IPRO,YES
+"Dooly, GA",13093,Dooly,GA,6,IPRO,NO
+"Dougherty, GA",13095,Dougherty,GA,6,IPRO,YES
+"Douglas, GA",13097,Douglas,GA,6,IPRO,YES
+"Early, GA",13099,Early,GA,6,IPRO,YES
+"Echols, GA",13101,Echols,GA,6,IPRO,NO
+"Effingham, GA",13103,Effingham,GA,6,IPRO,YES
+"Elbert, GA",13105,Elbert,GA,6,IPRO,YES
+"Emanuel, GA",13107,Emanuel,GA,6,IPRO,YES
+"Evans, GA",13109,Evans,GA,6,IPRO,YES
+"Fannin, GA",13111,Fannin,GA,6,IPRO,NO
+"Fayette, GA",13113,Fayette,GA,6,IPRO,YES
+"Floyd, GA",13115,Floyd,GA,6,IPRO,YES
+"Forsyth, GA",13117,Forsyth,GA,6,IPRO,YES
+"Franklin, GA",13119,Franklin,GA,6,IPRO,YES
+"Fulton, GA",13121,Fulton,GA,6,IPRO,YES
+"Gilmer, GA",13123,Gilmer,GA,6,IPRO,NO
+"Glascock, GA",13125,Glascock,GA,6,IPRO,NO
+"Glynn, GA",13127,Glynn,GA,6,IPRO,YES
+"Gordon, GA",13129,Gordon,GA,6,IPRO,YES
+"Grady, GA",13131,Grady,GA,6,IPRO,NO
+"Greene, GA",13133,Greene,GA,6,IPRO,YES
+"Gwinnett, GA",13135,Gwinnett,GA,6,IPRO,YES
+"Habersham, GA",13137,Habersham,GA,6,IPRO,YES
+"Hall, GA",13139,Hall,GA,6,IPRO,YES
+"Hancock, GA",13141,Hancock,GA,6,IPRO,NO
+"Haralson, GA",13143,Haralson,GA,6,IPRO,YES
+"Harris, GA",13145,Harris,GA,6,IPRO,NO
+"Hart, GA",13147,Hart,GA,6,IPRO,YES
+"Heard, GA",13149,Heard,GA,6,IPRO,NO
+"Henry, GA",13151,Henry,GA,6,IPRO,YES
+"Houston, GA",13153,Houston,GA,6,IPRO,YES
+"Irwin, GA",13155,Irwin,GA,6,IPRO,NO
+"Jackson, GA",13157,Jackson,GA,6,IPRO,YES
+"Jasper, GA",13159,Jasper,GA,6,IPRO,NO
+"Jeff Davis, GA",13161,Jeff Davis,GA,6,IPRO,NO
+"Jefferson, GA",13163,Jefferson,GA,6,IPRO,YES
+"Jenkins, GA",13165,Jenkins,GA,6,IPRO,NO
+"Johnson, GA",13167,Johnson,GA,6,IPRO,NO
+"Jones, GA",13169,Jones,GA,6,IPRO,YES
+"Lamar, GA",13171,Lamar,GA,6,IPRO,NO
+"Lanier, GA",13173,Lanier,GA,6,IPRO,NO
+"Laurens, GA",13175,Laurens,GA,6,IPRO,YES
+"Lee, GA",13177,Lee,GA,6,IPRO,YES
+"Liberty, GA",13179,Liberty,GA,6,IPRO,YES
+"Lincoln, GA",13181,Lincoln,GA,6,IPRO,NO
+"Long, GA",13183,Long,GA,6,IPRO,NO
+"Lowndes, GA",13185,Lowndes,GA,6,IPRO,YES
+"Lumpkin, GA",13187,Lumpkin,GA,6,IPRO,NO
+"Macon, GA",13193,Macon,GA,6,IPRO,NO
+"Madison, GA",13195,Madison,GA,6,IPRO,NO
+"Marion, GA",13197,Marion,GA,6,IPRO,NO
+"McDuffie, GA",13189,McDuffie,GA,6,IPRO,YES
+"McIntosh, GA",13191,McIntosh,GA,6,IPRO,NO
+"Meriwether, GA",13199,Meriwether,GA,6,IPRO,YES
+"Miller, GA",13201,Miller,GA,6,IPRO,NO
+"Mitchell, GA",13205,Mitchell,GA,6,IPRO,YES
+"Monroe, GA",13207,Monroe,GA,6,IPRO,YES
+"Montgomery, GA",13209,Montgomery,GA,6,IPRO,NO
+"Morgan, GA",13211,Morgan,GA,6,IPRO,YES
+"Murray, GA",13213,Murray,GA,6,IPRO,YES
+"Muscogee, GA",13215,Muscogee,GA,6,IPRO,YES
+"Newton, GA",13217,Newton,GA,6,IPRO,YES
+"Oconee, GA",13219,Oconee,GA,6,IPRO,YES
+"Oglethorpe, GA",13221,Oglethorpe,GA,6,IPRO,NO
+"Paulding, GA",13223,Paulding,GA,6,IPRO,YES
+"Peach, GA",13225,Peach,GA,6,IPRO,YES
+"Pickens, GA",13227,Pickens,GA,6,IPRO,YES
+"Pierce, GA",13229,Pierce,GA,6,IPRO,NO
+"Pike, GA",13231,Pike,GA,6,IPRO,NO
+"Polk, GA",13233,Polk,GA,6,IPRO,YES
+"Pulaski, GA",13235,Pulaski,GA,6,IPRO,YES
+"Putnam, GA",13237,Putnam,GA,6,IPRO,YES
+"Quitman, GA",13239,Quitman,GA,6,IPRO,NO
+"Rabun, GA",13241,Rabun,GA,6,IPRO,NO
+"Randolph, GA",13243,Randolph,GA,6,IPRO,NO
+"Richmond, GA",13245,Richmond,GA,6,IPRO,YES
+"Rockdale, GA",13247,Rockdale,GA,6,IPRO,YES
+"Schley, GA",13249,Schley,GA,6,IPRO,NO
+"Screven, GA",13251,Screven,GA,6,IPRO,NO
+"Seminole, GA",13253,Seminole,GA,6,IPRO,NO
+"Spalding, GA",13255,Spalding,GA,6,IPRO,YES
+"Stephens, GA",13257,Stephens,GA,6,IPRO,YES
+"Stewart, GA",13259,Stewart,GA,6,IPRO,NO
+"Sumter, GA",13261,Sumter,GA,6,IPRO,YES
+"Talbot, GA",13263,Talbot,GA,6,IPRO,NO
+"Taliaferro, GA",13265,Taliaferro,GA,6,IPRO,NO
+"Tattnall, GA",13267,Tattnall,GA,6,IPRO,NO
+"Taylor, GA",13269,Taylor,GA,6,IPRO,NO
+"Telfair, GA",13271,Telfair,GA,6,IPRO,NO
+"Terrell, GA",13273,Terrell,GA,6,IPRO,YES
+"Thomas, GA",13275,Thomas,GA,6,IPRO,YES
+"Tift, GA",13277,Tift,GA,6,IPRO,YES
+"Toombs, GA",13279,Toombs,GA,6,IPRO,YES
+"Towns, GA",13281,Towns,GA,6,IPRO,NO
+"Treutlen, GA",13283,Treutlen,GA,6,IPRO,NO
+"Troup, GA",13285,Troup,GA,6,IPRO,YES
+"Turner, GA",13287,Turner,GA,6,IPRO,NO
+"Twiggs, GA",13289,Twiggs,GA,6,IPRO,NO
+"Union, GA",13291,Union,GA,6,IPRO,YES
+"Upson, GA",13293,Upson,GA,6,IPRO,YES
+"Walker, GA",13295,Walker,GA,6,IPRO,YES
+"Walton, GA",13297,Walton,GA,6,IPRO,YES
+"Ware, GA",13299,Ware,GA,6,IPRO,YES
+"Warren, GA",13301,Warren,GA,6,IPRO,NO
+"Washington, GA",13303,Washington,GA,6,IPRO,YES
+"Wayne, GA",13305,Wayne,GA,6,IPRO,YES
+"Webster, GA",13307,Webster,GA,6,IPRO,NO
+"Wheeler, GA",13309,Wheeler,GA,6,IPRO,NO
+"White, GA",13311,White,GA,6,IPRO,NO
+"Whitfield, GA",13313,Whitfield,GA,6,IPRO,YES
+"Wilcox, GA",13315,Wilcox,GA,6,IPRO,NO
+"Wilkes, GA",13317,Wilkes,GA,6,IPRO,NO
+"Wilkinson, GA",13319,Wilkinson,GA,6,IPRO,NO
+"Worth, GA",13321,Worth,GA,6,IPRO,YES
+"Alamance, NC",37001,Alamance,NC,6,IPRO,YES
+"Alexander, NC",37003,Alexander,NC,6,IPRO,YES
+"Alleghany, NC",37005,Alleghany,NC,6,IPRO,NO
+"Anson, NC",37007,Anson,NC,6,IPRO,YES
+"Ashe, NC",37009,Ashe,NC,6,IPRO,NO
+"Avery, NC",37011,Avery,NC,6,IPRO,NO
+"Beaufort, NC",37013,Beaufort,NC,6,IPRO,YES
+"Bertie, NC",37015,Bertie,NC,6,IPRO,YES
+"Bladen, NC",37017,Bladen,NC,6,IPRO,YES
+"Brunswick, NC",37019,Brunswick,NC,6,IPRO,YES
+"Buncombe, NC",37021,Buncombe,NC,6,IPRO,YES
+"Burke, NC",37023,Burke,NC,6,IPRO,YES
+"Cabarrus, NC",37025,Cabarrus,NC,6,IPRO,YES
+"Caldwell, NC",37027,Caldwell,NC,6,IPRO,YES
+"Camden, NC",37029,Camden,NC,6,IPRO,NO
+"Carteret, NC",37031,Carteret,NC,6,IPRO,YES
+"Caswell, NC",37033,Caswell,NC,6,IPRO,YES
+"Catawba, NC",37035,Catawba,NC,6,IPRO,YES
+"Chatham, NC",37037,Chatham,NC,6,IPRO,YES
+"Cherokee, NC",37039,Cherokee,NC,6,IPRO,YES
+"Chowan, NC",37041,Chowan,NC,6,IPRO,YES
+"Clay, NC",37043,Clay,NC,6,IPRO,NO
+"Cleveland, NC",37045,Cleveland,NC,6,IPRO,YES
+"Columbus, NC",37047,Columbus,NC,6,IPRO,YES
+"Craven, NC",37049,Craven,NC,6,IPRO,YES
+"Cumberland, NC",37051,Cumberland,NC,6,IPRO,YES
+"Currituck, NC",37053,Currituck,NC,6,IPRO,NO
+"Dare, NC",37055,Dare,NC,6,IPRO,YES
+"Davidson, NC",37057,Davidson,NC,6,IPRO,YES
+"Davie, NC",37059,Davie,NC,6,IPRO,YES
+"Duplin, NC",37061,Duplin,NC,6,IPRO,YES
+"Durham, NC",37063,Durham,NC,6,IPRO,YES
+"Edgecombe, NC",37065,Edgecombe,NC,6,IPRO,YES
+"Forsyth, NC",37067,Forsyth,NC,6,IPRO,YES
+"Franklin, NC",37069,Franklin,NC,6,IPRO,YES
+"Gaston, NC",37071,Gaston,NC,6,IPRO,YES
+"Gates, NC",37073,Gates,NC,6,IPRO,NO
+"Graham, NC",37075,Graham,NC,6,IPRO,NO
+"Granville, NC",37077,Granville,NC,6,IPRO,YES
+"Greene, NC",37079,Greene,NC,6,IPRO,YES
+"Guilford, NC",37081,Guilford,NC,6,IPRO,YES
+"Halifax, NC",37083,Halifax,NC,6,IPRO,YES
+"Harnett, NC",37085,Harnett,NC,6,IPRO,YES
+"Haywood, NC",37087,Haywood,NC,6,IPRO,YES
+"Henderson, NC",37089,Henderson,NC,6,IPRO,YES
+"Hertford, NC",37091,Hertford,NC,6,IPRO,YES
+"Hoke, NC",37093,Hoke,NC,6,IPRO,YES
+"Hyde, NC",37095,Hyde,NC,6,IPRO,NO
+"Iredell, NC",37097,Iredell,NC,6,IPRO,YES
+"Jackson, NC",37099,Jackson,NC,6,IPRO,YES
+"Johnston, NC",37101,Johnston,NC,6,IPRO,YES
+"Jones, NC",37103,Jones,NC,6,IPRO,YES
+"Lee, NC",37105,Lee,NC,6,IPRO,YES
+"Lenoir, NC",37107,Lenoir,NC,6,IPRO,YES
+"Lincoln, NC",37109,Lincoln,NC,6,IPRO,YES
+"Macon, NC",37113,Macon,NC,6,IPRO,YES
+"Madison, NC",37115,Madison,NC,6,IPRO,NO
+"Martin, NC",37117,Martin,NC,6,IPRO,YES
+"McDowell, NC",37111,McDowell,NC,6,IPRO,YES
+"Mecklenburg, NC",37119,Mecklenburg,NC,6,IPRO,YES
+"Mitchell, NC",37121,Mitchell,NC,6,IPRO,YES
+"Montgomery, NC",37123,Montgomery,NC,6,IPRO,YES
+"Moore, NC",37125,Moore,NC,6,IPRO,YES
+"Nash, NC",37127,Nash,NC,6,IPRO,YES
+"New Hanover, NC",37129,New Hanover,NC,6,IPRO,YES
+"Northampton, NC",37131,Northampton,NC,6,IPRO,YES
+"Onslow, NC",37133,Onslow,NC,6,IPRO,YES
+"Orange, NC",37135,Orange,NC,6,IPRO,YES
+"Pamlico, NC",37137,Pamlico,NC,6,IPRO,NO
+"Pasquotank, NC",37139,Pasquotank,NC,6,IPRO,YES
+"Pender, NC",37141,Pender,NC,6,IPRO,YES
+"Perquimans, NC",37143,Perquimans,NC,6,IPRO,YES
+"Person, NC",37145,Person,NC,6,IPRO,YES
+"Pitt, NC",37147,Pitt,NC,6,IPRO,YES
+"Polk, NC",37149,Polk,NC,6,IPRO,NO
+"Randolph, NC",37151,Randolph,NC,6,IPRO,YES
+"Richmond, NC",37153,Richmond,NC,6,IPRO,YES
+"Robeson, NC",37155,Robeson,NC,6,IPRO,YES
+"Rockingham, NC",37157,Rockingham,NC,6,IPRO,YES
+"Rowan, NC",37159,Rowan,NC,6,IPRO,YES
+"Rutherford, NC",37161,Rutherford,NC,6,IPRO,YES
+"Sampson, NC",37163,Sampson,NC,6,IPRO,YES
+"Scotland, NC",37165,Scotland,NC,6,IPRO,YES
+"Stanly, NC",37167,Stanly,NC,6,IPRO,YES
+"Stokes, NC",37169,Stokes,NC,6,IPRO,YES
+"Surry, NC",37171,Surry,NC,6,IPRO,YES
+"Swain, NC",37173,Swain,NC,6,IPRO,YES
+"Transylvania, NC",37175,Transylvania,NC,6,IPRO,YES
+"Tyrrell, NC",37177,Tyrrell,NC,6,IPRO,NO
+"Union, NC",37179,Union,NC,6,IPRO,YES
+"Vance, NC",37181,Vance,NC,6,IPRO,YES
+"Wake, NC",37183,Wake,NC,6,IPRO,YES
+"Warren, NC",37185,Warren,NC,6,IPRO,YES
+"Washington, NC",37187,Washington,NC,6,IPRO,YES
+"Watauga, NC",37189,Watauga,NC,6,IPRO,YES
+"Wayne, NC",37191,Wayne,NC,6,IPRO,YES
+"Wilkes, NC",37193,Wilkes,NC,6,IPRO,YES
+"Wilson, NC",37195,Wilson,NC,6,IPRO,YES
+"Yadkin, NC",37197,Yadkin,NC,6,IPRO,YES
+"Yancey, NC",37199,Yancey,NC,6,IPRO,NO
+"Abbeville, SC",45001,Abbeville,SC,6,IPRO,NO
+"Aiken, SC",45003,Aiken,SC,6,IPRO,YES
+"Allendale, SC",45005,Allendale,SC,6,IPRO,YES
+"Anderson, SC",45007,Anderson,SC,6,IPRO,YES
+"Bamberg, SC",45009,Bamberg,SC,6,IPRO,YES
+"Barnwell, SC",45011,Barnwell,SC,6,IPRO,YES
+"Beaufort, SC",45013,Beaufort,SC,6,IPRO,YES
+"Berkeley, SC",45015,Berkeley,SC,6,IPRO,YES
+"Calhoun, SC",45017,Calhoun,SC,6,IPRO,NO
+"Charleston, SC",45019,Charleston,SC,6,IPRO,YES
+"Cherokee, SC",45021,Cherokee,SC,6,IPRO,YES
+"Chester, SC",45023,Chester,SC,6,IPRO,YES
+"Chesterfield, SC",45025,Chesterfield,SC,6,IPRO,YES
+"Clarendon, SC",45027,Clarendon,SC,6,IPRO,YES
+"Colleton, SC",45029,Colleton,SC,6,IPRO,YES
+"Darlington, SC",45031,Darlington,SC,6,IPRO,YES
+"Dillon, SC",45033,Dillon,SC,6,IPRO,YES
+"Dorchester, SC",45035,Dorchester,SC,6,IPRO,YES
+"Edgefield, SC",45037,Edgefield,SC,6,IPRO,YES
+"Fairfield, SC",45039,Fairfield,SC,6,IPRO,YES
+"Florence, SC",45041,Florence,SC,6,IPRO,YES
+"Georgetown, SC",45043,Georgetown,SC,6,IPRO,YES
+"Greenville, SC",45045,Greenville,SC,6,IPRO,YES
+"Greenwood, SC",45047,Greenwood,SC,6,IPRO,YES
+"Hampton, SC",45049,Hampton,SC,6,IPRO,NO
+"Horry, SC",45051,Horry,SC,6,IPRO,YES
+"Jasper, SC",45053,Jasper,SC,6,IPRO,YES
+"Kershaw, SC",45055,Kershaw,SC,6,IPRO,YES
+"Lancaster, SC",45057,Lancaster,SC,6,IPRO,YES
+"Laurens, SC",45059,Laurens,SC,6,IPRO,YES
+"Lee, SC",45061,Lee,SC,6,IPRO,YES
+"Lexington, SC",45063,Lexington,SC,6,IPRO,YES
+"Marion, SC",45067,Marion,SC,6,IPRO,YES
+"Marlboro, SC",45069,Marlboro,SC,6,IPRO,YES
+"McCormick, SC",45065,McCormick,SC,6,IPRO,NO
+"Newberry, SC",45071,Newberry,SC,6,IPRO,YES
+"Oconee, SC",45073,Oconee,SC,6,IPRO,YES
+"Orangeburg, SC",45075,Orangeburg,SC,6,IPRO,YES
+"Pickens, SC",45077,Pickens,SC,6,IPRO,YES
+"Richland, SC",45079,Richland,SC,6,IPRO,YES
+"Saluda, SC",45081,Saluda,SC,6,IPRO,YES
+"Spartanburg, SC",45083,Spartanburg,SC,6,IPRO,YES
+"Sumter, SC",45085,Sumter,SC,6,IPRO,YES
+"Union, SC",45087,Union,SC,6,IPRO,YES
+"Williamsburg, SC",45089,Williamsburg,SC,6,IPRO,YES
+"York, SC",45091,York,SC,6,IPRO,YES
+"Alachua, FL",12001,Alachua,FL,7,Alliant,YES
+"Baker, FL",12003,Baker,FL,7,Alliant,YES
+"Bay, FL",12005,Bay,FL,7,Alliant,YES
+"Bradford, FL",12007,Bradford,FL,7,Alliant,YES
+"Brevard, FL",12009,Brevard,FL,7,Alliant,YES
+"Broward, FL",12011,Broward,FL,7,Alliant,YES
+"Calhoun, FL",12013,Calhoun,FL,7,Alliant,NO
+"Charlotte, FL",12015,Charlotte,FL,7,Alliant,YES
+"Citrus, FL",12017,Citrus,FL,7,Alliant,YES
+"Clay, FL",12019,Clay,FL,7,Alliant,YES
+"Collier, FL",12021,Collier,FL,7,Alliant,YES
+"Columbia, FL",12023,Columbia,FL,7,Alliant,YES
+"DeSoto, FL",12027,DeSoto,FL,7,Alliant,YES
+"Dixie, FL",12029,Dixie,FL,7,Alliant,NO
+"Duval, FL",12031,Duval,FL,7,Alliant,YES
+"Escambia, FL",12033,Escambia,FL,7,Alliant,YES
+"Flagler, FL",12035,Flagler,FL,7,Alliant,YES
+"Franklin, FL",12037,Franklin,FL,7,Alliant,NO
+"Gadsden, FL",12039,Gadsden,FL,7,Alliant,YES
+"Gilchrist, FL",12041,Gilchrist,FL,7,Alliant,YES
+"Glades, FL",12043,Glades,FL,7,Alliant,NO
+"Gulf, FL",12045,Gulf,FL,7,Alliant,YES
+"Hamilton, FL",12047,Hamilton,FL,7,Alliant,NO
+"Hardee, FL",12049,Hardee,FL,7,Alliant,YES
+"Hendry, FL",12051,Hendry,FL,7,Alliant,YES
+"Hernando, FL",12053,Hernando,FL,7,Alliant,YES
+"Highlands, FL",12055,Highlands,FL,7,Alliant,YES
+"Hillsborough, FL",12057,Hillsborough,FL,7,Alliant,YES
+"Holmes, FL",12059,Holmes,FL,7,Alliant,NO
+"Indian River, FL",12061,Indian River,FL,7,Alliant,YES
+"Jackson, FL",12063,Jackson,FL,7,Alliant,YES
+"Jefferson, FL",12065,Jefferson,FL,7,Alliant,NO
+"Lafayette, FL",12067,Lafayette,FL,7,Alliant,NO
+"Lake, FL",12069,Lake,FL,7,Alliant,YES
+"Lee, FL",12071,Lee,FL,7,Alliant,YES
+"Leon, FL",12073,Leon,FL,7,Alliant,YES
+"Levy, FL",12075,Levy,FL,7,Alliant,NO
+"Liberty, FL",12077,Liberty,FL,7,Alliant,NO
+"Madison, FL",12079,Madison,FL,7,Alliant,YES
+"Manatee, FL",12081,Manatee,FL,7,Alliant,YES
+"Marion, FL",12083,Marion,FL,7,Alliant,YES
+"Martin, FL",12085,Martin,FL,7,Alliant,YES
+"Miami-Dade, FL",12086,Miami-Dade,FL,7,Alliant,YES
+"Monroe, FL",12087,Monroe,FL,7,Alliant,YES
+"Nassau, FL",12089,Nassau,FL,7,Alliant,YES
+"Okaloosa, FL",12091,Okaloosa,FL,7,Alliant,YES
+"Okeechobee, FL",12093,Okeechobee,FL,7,Alliant,YES
+"Orange, FL",12095,Orange,FL,7,Alliant,YES
+"Osceola, FL",12097,Osceola,FL,7,Alliant,YES
+"Palm Beach, FL",12099,Palm Beach,FL,7,Alliant,YES
+"Pasco, FL",12101,Pasco,FL,7,Alliant,YES
+"Pinellas, FL",12103,Pinellas,FL,7,Alliant,YES
+"Polk, FL",12105,Polk,FL,7,Alliant,YES
+"Putnam, FL",12107,Putnam,FL,7,Alliant,YES
+"Saint Johns, FL",12109,Saint Johns,FL,7,Alliant,YES
+"Saint Lucie, FL",12111,Saint Lucie,FL,7,Alliant,YES
+"Santa Rosa, FL",12113,Santa Rosa,FL,7,Alliant,YES
+"Sarasota, FL",12115,Sarasota,FL,7,Alliant,YES
+"Seminole, FL",12117,Seminole,FL,7,Alliant,YES
+"Sumter, FL",12119,Sumter,FL,7,Alliant,YES
+"Suwannee, FL",12121,Suwannee,FL,7,Alliant,YES
+"Taylor, FL",12123,Taylor,FL,7,Alliant,NO
+"Union, FL",12125,Union,FL,7,Alliant,NO
+"Volusia, FL",12127,Volusia,FL,7,Alliant,YES
+"Wakulla, FL",12129,Wakulla,FL,7,Alliant,NO
+"Walton, FL",12131,Walton,FL,7,Alliant,YES
+"Washington, FL",12133,Washington,FL,7,Alliant,YES
+"Autauga, AL",1001,Autauga,AL,8,Alliant,YES
+"Baldwin, AL",1003,Baldwin,AL,8,Alliant,YES
+"Barbour, AL",1005,Barbour,AL,8,Alliant,YES
+"Bibb, AL",1007,Bibb,AL,8,Alliant,NO
+"Blount, AL",1009,Blount,AL,8,Alliant,YES
+"Bullock, AL",1011,Bullock,AL,8,Alliant,YES
+"Butler, AL",1013,Butler,AL,8,Alliant,YES
+"Calhoun, AL",1015,Calhoun,AL,8,Alliant,YES
+"Chambers, AL",1017,Chambers,AL,8,Alliant,YES
+"Cherokee, AL",1019,Cherokee,AL,8,Alliant,YES
+"Chilton, AL",1021,Chilton,AL,8,Alliant,YES
+"Choctaw, AL",1023,Choctaw,AL,8,Alliant,NO
+"Clarke, AL",1025,Clarke,AL,8,Alliant,YES
+"Clay, AL",1027,Clay,AL,8,Alliant,NO
+"Cleburne, AL",1029,Cleburne,AL,8,Alliant,NO
+"Coffee, AL",1031,Coffee,AL,8,Alliant,YES
+"Colbert, AL",1033,Colbert,AL,8,Alliant,YES
+"Conecuh, AL",1035,Conecuh,AL,8,Alliant,YES
+"Coosa, AL",1037,Coosa,AL,8,Alliant,NO
+"Covington, AL",1039,Covington,AL,8,Alliant,YES
+"Crenshaw, AL",1041,Crenshaw,AL,8,Alliant,NO
+"Cullman, AL",1043,Cullman,AL,8,Alliant,YES
+"Dale, AL",1045,Dale,AL,8,Alliant,YES
+"Dallas, AL",1047,Dallas,AL,8,Alliant,YES
+"DeKalb, AL",1049,DeKalb,AL,8,Alliant,YES
+"Elmore, AL",1051,Elmore,AL,8,Alliant,YES
+"Escambia, AL",1053,Escambia,AL,8,Alliant,YES
+"Etowah, AL",1055,Etowah,AL,8,Alliant,YES
+"Fayette, AL",1057,Fayette,AL,8,Alliant,YES
+"Franklin, AL",1059,Franklin,AL,8,Alliant,YES
+"Geneva, AL",1061,Geneva,AL,8,Alliant,NO
+"Greene, AL",1063,Greene,AL,8,Alliant,YES
+"Hale, AL",1065,Hale,AL,8,Alliant,NO
+"Henry, AL",1067,Henry,AL,8,Alliant,NO
+"Houston, AL",1069,Houston,AL,8,Alliant,YES
+"Jackson, AL",1071,Jackson,AL,8,Alliant,YES
+"Jefferson, AL",1073,Jefferson,AL,8,Alliant,YES
+"Lamar, AL",1075,Lamar,AL,8,Alliant,NO
+"Lauderdale, AL",1077,Lauderdale,AL,8,Alliant,YES
+"Lawrence, AL",1079,Lawrence,AL,8,Alliant,YES
+"Lee, AL",1081,Lee,AL,8,Alliant,YES
+"Limestone, AL",1083,Limestone,AL,8,Alliant,YES
+"Lowndes, AL",1085,Lowndes,AL,8,Alliant,NO
+"Macon, AL",1087,Macon,AL,8,Alliant,YES
+"Madison, AL",1089,Madison,AL,8,Alliant,YES
+"Marengo, AL",1091,Marengo,AL,8,Alliant,YES
+"Marion, AL",1093,Marion,AL,8,Alliant,NO
+"Marshall, AL",1095,Marshall,AL,8,Alliant,YES
+"Mobile, AL",1097,Mobile,AL,8,Alliant,YES
+"Monroe, AL",1099,Monroe,AL,8,Alliant,YES
+"Montgomery, AL",1101,Montgomery,AL,8,Alliant,YES
+"Morgan, AL",1103,Morgan,AL,8,Alliant,YES
+"Perry, AL",1105,Perry,AL,8,Alliant,YES
+"Pickens, AL",1107,Pickens,AL,8,Alliant,YES
+"Pike, AL",1109,Pike,AL,8,Alliant,YES
+"Randolph, AL",1111,Randolph,AL,8,Alliant,YES
+"Russell, AL",1113,Russell,AL,8,Alliant,YES
+"Saint Clair, AL",1115,Saint Clair,AL,8,Alliant,YES
+"Shelby, AL",1117,Shelby,AL,8,Alliant,YES
+"Sumter, AL",1119,Sumter,AL,8,Alliant,NO
+"Talladega, AL",1121,Talladega,AL,8,Alliant,YES
+"Tallapoosa, AL",1123,Tallapoosa,AL,8,Alliant,YES
+"Tuscaloosa, AL",1125,Tuscaloosa,AL,8,Alliant,YES
+"Walker, AL",1127,Walker,AL,8,Alliant,YES
+"Washington, AL",1129,Washington,AL,8,Alliant,NO
+"Wilcox, AL",1131,Wilcox,AL,8,Alliant,YES
+"Winston, AL",1133,Winston,AL,8,Alliant,NO
+"Adams, MS",28001,Adams,MS,8,Alliant,YES
+"Alcorn, MS",28003,Alcorn,MS,8,Alliant,YES
+"Amite, MS",28005,Amite,MS,8,Alliant,NO
+"Attala, MS",28007,Attala,MS,8,Alliant,YES
+"Benton, MS",28009,Benton,MS,8,Alliant,NO
+"Bolivar, MS",28011,Bolivar,MS,8,Alliant,YES
+"Calhoun, MS",28013,Calhoun,MS,8,Alliant,NO
+"Carroll, MS",28015,Carroll,MS,8,Alliant,NO
+"Chickasaw, MS",28017,Chickasaw,MS,8,Alliant,NO
+"Choctaw, MS",28019,Choctaw,MS,8,Alliant,NO
+"Claiborne, MS",28021,Claiborne,MS,8,Alliant,YES
+"Clarke, MS",28023,Clarke,MS,8,Alliant,NO
+"Clay, MS",28025,Clay,MS,8,Alliant,YES
+"Coahoma, MS",28027,Coahoma,MS,8,Alliant,YES
+"Copiah, MS",28029,Copiah,MS,8,Alliant,YES
+"Covington, MS",28031,Covington,MS,8,Alliant,YES
+"DeSoto, MS",28033,DeSoto,MS,8,Alliant,YES
+"Forrest, MS",28035,Forrest,MS,8,Alliant,YES
+"Franklin, MS",28037,Franklin,MS,8,Alliant,NO
+"George, MS",28039,George,MS,8,Alliant,YES
+"Greene, MS",28041,Greene,MS,8,Alliant,YES
+"Grenada, MS",28043,Grenada,MS,8,Alliant,YES
+"Hancock, MS",28045,Hancock,MS,8,Alliant,YES
+"Harrison, MS",28047,Harrison,MS,8,Alliant,YES
+"Hinds, MS",28049,Hinds,MS,8,Alliant,YES
+"Holmes, MS",28051,Holmes,MS,8,Alliant,YES
+"Humphreys, MS",28053,Humphreys,MS,8,Alliant,YES
+"Issaquena, MS",28055,Issaquena,MS,8,Alliant,NO
+"Itawamba, MS",28057,Itawamba,MS,8,Alliant,NO
+"Jackson, MS",28059,Jackson,MS,8,Alliant,YES
+"Jasper, MS",28061,Jasper,MS,8,Alliant,YES
+"Jefferson Davis, MS",28065,Jefferson Davis,MS,8,Alliant,NO
+"Jefferson, MS",28063,Jefferson,MS,8,Alliant,YES
+"Jones, MS",28067,Jones,MS,8,Alliant,YES
+"Kemper, MS",28069,Kemper,MS,8,Alliant,NO
+"Lafayette, MS",28071,Lafayette,MS,8,Alliant,YES
+"Lamar, MS",28073,Lamar,MS,8,Alliant,YES
+"Lauderdale, MS",28075,Lauderdale,MS,8,Alliant,YES
+"Lawrence, MS",28077,Lawrence,MS,8,Alliant,YES
+"Leake, MS",28079,Leake,MS,8,Alliant,YES
+"Lee, MS",28081,Lee,MS,8,Alliant,YES
+"Leflore, MS",28083,Leflore,MS,8,Alliant,YES
+"Lincoln, MS",28085,Lincoln,MS,8,Alliant,YES
+"Lowndes, MS",28087,Lowndes,MS,8,Alliant,YES
+"Madison, MS",28089,Madison,MS,8,Alliant,YES
+"Marion, MS",28091,Marion,MS,8,Alliant,YES
+"Marshall, MS",28093,Marshall,MS,8,Alliant,YES
+"Monroe, MS",28095,Monroe,MS,8,Alliant,YES
+"Montgomery, MS",28097,Montgomery,MS,8,Alliant,YES
+"Neshoba, MS",28099,Neshoba,MS,8,Alliant,YES
+"Newton, MS",28101,Newton,MS,8,Alliant,YES
+"Noxubee, MS",28103,Noxubee,MS,8,Alliant,YES
+"Oktibbeha, MS",28105,Oktibbeha,MS,8,Alliant,YES
+"Panola, MS",28107,Panola,MS,8,Alliant,YES
+"Pearl River, MS",28109,Pearl River,MS,8,Alliant,NO
+"Perry, MS",28111,Perry,MS,8,Alliant,NO
+"Pike, MS",28113,Pike,MS,8,Alliant,YES
+"Pontotoc, MS",28115,Pontotoc,MS,8,Alliant,NO
+"Prentiss, MS",28117,Prentiss,MS,8,Alliant,NO
+"Quitman, MS",28119,Quitman,MS,8,Alliant,NO
+"Rankin, MS",28121,Rankin,MS,8,Alliant,YES
+"Scott, MS",28123,Scott,MS,8,Alliant,YES
+"Sharkey, MS",28125,Sharkey,MS,8,Alliant,YES
+"Simpson, MS",28127,Simpson,MS,8,Alliant,YES
+"Smith, MS",28129,Smith,MS,8,Alliant,NO
+"Stone, MS",28131,Stone,MS,8,Alliant,YES
+"Sunflower, MS",28133,Sunflower,MS,8,Alliant,YES
+"Tallahatchie, MS",28135,Tallahatchie,MS,8,Alliant,NO
+"Tate, MS",28137,Tate,MS,8,Alliant,YES
+"Tippah, MS",28139,Tippah,MS,8,Alliant,NO
+"Tishomingo, MS",28141,Tishomingo,MS,8,Alliant,NO
+"Tunica, MS",28143,Tunica,MS,8,Alliant,YES
+"Union, MS",28145,Union,MS,8,Alliant,YES
+"Walthall, MS",28147,Walthall,MS,8,Alliant,YES
+"Warren, MS",28149,Warren,MS,8,Alliant,YES
+"Washington, MS",28151,Washington,MS,8,Alliant,YES
+"Wayne, MS",28153,Wayne,MS,8,Alliant,YES
+"Webster, MS",28155,Webster,MS,8,Alliant,YES
+"Wilkinson, MS",28157,Wilkinson,MS,8,Alliant,YES
+"Winston, MS",28159,Winston,MS,8,Alliant,YES
+"Yalobusha, MS",28161,Yalobusha,MS,8,Alliant,NO
+"Yazoo, MS",28163,Yazoo,MS,8,Alliant,YES
+"Anderson, TN",47001,Anderson,TN,8,Alliant,YES
+"Bedford, TN",47003,Bedford,TN,8,Alliant,YES
+"Benton, TN",47005,Benton,TN,8,Alliant,NO
+"Bledsoe, TN",47007,Bledsoe,TN,8,Alliant,NO
+"Blount, TN",47009,Blount,TN,8,Alliant,YES
+"Bradley, TN",47011,Bradley,TN,8,Alliant,YES
+"Campbell, TN",47013,Campbell,TN,8,Alliant,YES
+"Cannon, TN",47015,Cannon,TN,8,Alliant,NO
+"Carroll, TN",47017,Carroll,TN,8,Alliant,YES
+"Carter, TN",47019,Carter,TN,8,Alliant,YES
+"Cheatham, TN",47021,Cheatham,TN,8,Alliant,NO
+"Chester, TN",47023,Chester,TN,8,Alliant,YES
+"Claiborne, TN",47025,Claiborne,TN,8,Alliant,YES
+"Clay, TN",47027,Clay,TN,8,Alliant,NO
+"Cocke, TN",47029,Cocke,TN,8,Alliant,YES
+"Coffee, TN",47031,Coffee,TN,8,Alliant,YES
+"Crockett, TN",47033,Crockett,TN,8,Alliant,NO
+"Cumberland, TN",47035,Cumberland,TN,8,Alliant,YES
+"Davidson, TN",47037,Davidson,TN,8,Alliant,YES
+"Decatur, TN",47039,Decatur,TN,8,Alliant,NO
+"DeKalb, TN",47041,DeKalb,TN,8,Alliant,NO
+"Dickson, TN",47043,Dickson,TN,8,Alliant,YES
+"Dyer, TN",47045,Dyer,TN,8,Alliant,YES
+"Fayette, TN",47047,Fayette,TN,8,Alliant,NO
+"Fentress, TN",47049,Fentress,TN,8,Alliant,NO
+"Franklin, TN",47051,Franklin,TN,8,Alliant,YES
+"Gibson, TN",47053,Gibson,TN,8,Alliant,YES
+"Giles, TN",47055,Giles,TN,8,Alliant,YES
+"Grainger, TN",47057,Grainger,TN,8,Alliant,NO
+"Greene, TN",47059,Greene,TN,8,Alliant,YES
+"Grundy, TN",47061,Grundy,TN,8,Alliant,NO
+"Hamblen, TN",47063,Hamblen,TN,8,Alliant,YES
+"Hamilton, TN",47065,Hamilton,TN,8,Alliant,YES
+"Hancock, TN",47067,Hancock,TN,8,Alliant,NO
+"Hardeman, TN",47069,Hardeman,TN,8,Alliant,YES
+"Hardin, TN",47071,Hardin,TN,8,Alliant,NO
+"Hawkins, TN",47073,Hawkins,TN,8,Alliant,NO
+"Haywood, TN",47075,Haywood,TN,8,Alliant,YES
+"Henderson, TN",47077,Henderson,TN,8,Alliant,YES
+"Henry, TN",47079,Henry,TN,8,Alliant,YES
+"Hickman, TN",47081,Hickman,TN,8,Alliant,YES
+"Houston, TN",47083,Houston,TN,8,Alliant,NO
+"Humphreys, TN",47085,Humphreys,TN,8,Alliant,YES
+"Jackson, TN",47087,Jackson,TN,8,Alliant,NO
+"Jefferson, TN",47089,Jefferson,TN,8,Alliant,YES
+"Johnson, TN",47091,Johnson,TN,8,Alliant,YES
+"Knox, TN",47093,Knox,TN,8,Alliant,YES
+"Lake, TN",47095,Lake,TN,8,Alliant,NO
+"Lauderdale, TN",47097,Lauderdale,TN,8,Alliant,YES
+"Lawrence, TN",47099,Lawrence,TN,8,Alliant,YES
+"Lewis, TN",47101,Lewis,TN,8,Alliant,NO
+"Lincoln, TN",47103,Lincoln,TN,8,Alliant,YES
+"Loudon, TN",47105,Loudon,TN,8,Alliant,YES
+"Macon, TN",47111,Macon,TN,8,Alliant,NO
+"Madison, TN",47113,Madison,TN,8,Alliant,YES
+"Marion, TN",47115,Marion,TN,8,Alliant,YES
+"Marshall, TN",47117,Marshall,TN,8,Alliant,YES
+"Maury, TN",47119,Maury,TN,8,Alliant,YES
+"McMinn, TN",47107,McMinn,TN,8,Alliant,YES
+"McNairy, TN",47109,McNairy,TN,8,Alliant,YES
+"Meigs, TN",47121,Meigs,TN,8,Alliant,NO
+"Monroe, TN",47123,Monroe,TN,8,Alliant,YES
+"Montgomery, TN",47125,Montgomery,TN,8,Alliant,YES
+"Moore, TN",47127,Moore,TN,8,Alliant,NO
+"Morgan, TN",47129,Morgan,TN,8,Alliant,NO
+"Obion, TN",47131,Obion,TN,8,Alliant,YES
+"Overton, TN",47133,Overton,TN,8,Alliant,YES
+"Perry, TN",47135,Perry,TN,8,Alliant,NO
+"Pickett, TN",47137,Pickett,TN,8,Alliant,NO
+"Polk, TN",47139,Polk,TN,8,Alliant,NO
+"Putnam, TN",47141,Putnam,TN,8,Alliant,YES
+"Rhea, TN",47143,Rhea,TN,8,Alliant,YES
+"Roane, TN",47145,Roane,TN,8,Alliant,YES
+"Robertson, TN",47147,Robertson,TN,8,Alliant,YES
+"Rutherford, TN",47149,Rutherford,TN,8,Alliant,YES
+"Scott, TN",47151,Scott,TN,8,Alliant,NO
+"Sequatchie, TN",47153,Sequatchie,TN,8,Alliant,NO
+"Sevier, TN",47155,Sevier,TN,8,Alliant,YES
+"Shelby, TN",47157,Shelby,TN,8,Alliant,YES
+"Smith, TN",47159,Smith,TN,8,Alliant,NO
+"Stewart, TN",47161,Stewart,TN,8,Alliant,NO
+"Sullivan, TN",47163,Sullivan,TN,8,Alliant,YES
+"Sumner, TN",47165,Sumner,TN,8,Alliant,YES
+"Tipton, TN",47167,Tipton,TN,8,Alliant,YES
+"Trousdale, TN",47169,Trousdale,TN,8,Alliant,NO
+"Unicoi, TN",47171,Unicoi,TN,8,Alliant,NO
+"Union, TN",47173,Union,TN,8,Alliant,NO
+"Van Buren, TN",47175,Van Buren,TN,8,Alliant,NO
+"Warren, TN",47177,Warren,TN,8,Alliant,YES
+"Washington, TN",47179,Washington,TN,8,Alliant,YES
+"Wayne, TN",47181,Wayne,TN,8,Alliant,NO
+"Weakley, TN",47183,Weakley,TN,8,Alliant,YES
+"White, TN",47185,White,TN,8,Alliant,YES
+"Williamson, TN",47187,Williamson,TN,8,Alliant,YES
+"Wilson, TN",47189,Wilson,TN,8,Alliant,YES
+"Adams, IN",18001,Adams,IN,9,IPRO,YES
+"Allen, IN",18003,Allen,IN,9,IPRO,YES
+"Bartholomew, IN",18005,Bartholomew,IN,9,IPRO,YES
+"Benton, IN",18007,Benton,IN,9,IPRO,NO
+"Blackford, IN",18009,Blackford,IN,9,IPRO,NO
+"Boone, IN",18011,Boone,IN,9,IPRO,YES
+"Brown, IN",18013,Brown,IN,9,IPRO,NO
+"Carroll, IN",18015,Carroll,IN,9,IPRO,NO
+"Cass, IN",18017,Cass,IN,9,IPRO,YES
+"Clark, IN",18019,Clark,IN,9,IPRO,YES
+"Clay, IN",18021,Clay,IN,9,IPRO,YES
+"Clinton, IN",18023,Clinton,IN,9,IPRO,NO
+"Crawford, IN",18025,Crawford,IN,9,IPRO,NO
+"Daviess, IN",18027,Daviess,IN,9,IPRO,NO
+"Dearborn, IN",18029,Dearborn,IN,9,IPRO,YES
+"Decatur, IN",18031,Decatur,IN,9,IPRO,YES
+"DeKalb, IN",18033,DeKalb,IN,9,IPRO,YES
+"Delaware, IN",18035,Delaware,IN,9,IPRO,YES
+"Dubois, IN",18037,Dubois,IN,9,IPRO,YES
+"Elkhart, IN",18039,Elkhart,IN,9,IPRO,YES
+"Fayette, IN",18041,Fayette,IN,9,IPRO,YES
+"Floyd, IN",18043,Floyd,IN,9,IPRO,YES
+"Fountain, IN",18045,Fountain,IN,9,IPRO,NO
+"Franklin, IN",18047,Franklin,IN,9,IPRO,NO
+"Fulton, IN",18049,Fulton,IN,9,IPRO,NO
+"Gibson, IN",18051,Gibson,IN,9,IPRO,YES
+"Grant, IN",18053,Grant,IN,9,IPRO,YES
+"Greene, IN",18055,Greene,IN,9,IPRO,YES
+"Hamilton, IN",18057,Hamilton,IN,9,IPRO,YES
+"Hancock, IN",18059,Hancock,IN,9,IPRO,YES
+"Harrison, IN",18061,Harrison,IN,9,IPRO,YES
+"Hendricks, IN",18063,Hendricks,IN,9,IPRO,YES
+"Henry, IN",18065,Henry,IN,9,IPRO,YES
+"Howard, IN",18067,Howard,IN,9,IPRO,YES
+"Huntington, IN",18069,Huntington,IN,9,IPRO,YES
+"Jackson, IN",18071,Jackson,IN,9,IPRO,YES
+"Jasper, IN",18073,Jasper,IN,9,IPRO,NO
+"Jay, IN",18075,Jay,IN,9,IPRO,NO
+"Jefferson, IN",18077,Jefferson,IN,9,IPRO,YES
+"Jennings, IN",18079,Jennings,IN,9,IPRO,YES
+"Johnson, IN",18081,Johnson,IN,9,IPRO,YES
+"Knox, IN",18083,Knox,IN,9,IPRO,YES
+"Kosciusko, IN",18085,Kosciusko,IN,9,IPRO,YES
+"LaGrange, IN",18087,LaGrange,IN,9,IPRO,NO
+"Lake, IN",18089,Lake,IN,9,IPRO,YES
+"LaPorte, IN",18091,LaPorte,IN,9,IPRO,YES
+"Lawrence, IN",18093,Lawrence,IN,9,IPRO,YES
+"Madison, IN",18095,Madison,IN,9,IPRO,YES
+"Marion, IN",18097,Marion,IN,9,IPRO,YES
+"Marshall, IN",18099,Marshall,IN,9,IPRO,YES
+"Martin, IN",18101,Martin,IN,9,IPRO,NO
+"Miami, IN",18103,Miami,IN,9,IPRO,YES
+"Monroe, IN",18105,Monroe,IN,9,IPRO,YES
+"Montgomery, IN",18107,Montgomery,IN,9,IPRO,YES
+"Morgan, IN",18109,Morgan,IN,9,IPRO,YES
+"Newton, IN",18111,Newton,IN,9,IPRO,NO
+"Noble, IN",18113,Noble,IN,9,IPRO,YES
+"Ohio, IN",18115,Ohio,IN,9,IPRO,NO
+"Orange, IN",18117,Orange,IN,9,IPRO,YES
+"Owen, IN",18119,Owen,IN,9,IPRO,YES
+"Parke, IN",18121,Parke,IN,9,IPRO,NO
+"Perry, IN",18123,Perry,IN,9,IPRO,YES
+"Pike, IN",18125,Pike,IN,9,IPRO,NO
+"Porter, IN",18127,Porter,IN,9,IPRO,YES
+"Posey, IN",18129,Posey,IN,9,IPRO,NO
+"Pulaski, IN",18131,Pulaski,IN,9,IPRO,NO
+"Putnam, IN",18133,Putnam,IN,9,IPRO,NO
+"Randolph, IN",18135,Randolph,IN,9,IPRO,YES
+"Ripley, IN",18137,Ripley,IN,9,IPRO,NO
+"Rush, IN",18139,Rush,IN,9,IPRO,NO
+"Scott, IN",18143,Scott,IN,9,IPRO,YES
+"Shelby, IN",18145,Shelby,IN,9,IPRO,YES
+"Spencer, IN",18147,Spencer,IN,9,IPRO,NO
+"St Joseph, IN",18141,St Joseph,IN,9,IPRO,YES
+"Starke, IN",18149,Starke,IN,9,IPRO,YES
+"Steuben, IN",18151,Steuben,IN,9,IPRO,NO
+"Sullivan, IN",18153,Sullivan,IN,9,IPRO,YES
+"Switzerland, IN",18155,Switzerland,IN,9,IPRO,NO
+"Tippecanoe, IN",18157,Tippecanoe,IN,9,IPRO,YES
+"Tipton, IN",18159,Tipton,IN,9,IPRO,NO
+"Union, IN",18161,Union,IN,9,IPRO,NO
+"Vanderburgh, IN",18163,Vanderburgh,IN,9,IPRO,YES
+"Vermillion, IN",18165,Vermillion,IN,9,IPRO,NO
+"Vigo, IN",18167,Vigo,IN,9,IPRO,YES
+"Wabash, IN",18169,Wabash,IN,9,IPRO,NO
+"Warren, IN",18171,Warren,IN,9,IPRO,NO
+"Warrick, IN",18173,Warrick,IN,9,IPRO,YES
+"Washington, IN",18175,Washington,IN,9,IPRO,NO
+"Wayne, IN",18177,Wayne,IN,9,IPRO,YES
+"Wells, IN",18179,Wells,IN,9,IPRO,NO
+"White, IN",18181,White,IN,9,IPRO,NO
+"Whitley, IN",18183,Whitley,IN,9,IPRO,NO
+"Adair, KY",21001,Adair,KY,9,IPRO,NO
+"Allen, KY",21003,Allen,KY,9,IPRO,NO
+"Anderson, KY",21005,Anderson,KY,9,IPRO,NO
+"Ballard, KY",21007,Ballard,KY,9,IPRO,NO
+"Barren, KY",21009,Barren,KY,9,IPRO,YES
+"Bath, KY",21011,Bath,KY,9,IPRO,NO
+"Bell, KY",21013,Bell,KY,9,IPRO,YES
+"Boone, KY",21015,Boone,KY,9,IPRO,YES
+"Bourbon, KY",21017,Bourbon,KY,9,IPRO,YES
+"Boyd, KY",21019,Boyd,KY,9,IPRO,YES
+"Boyle, KY",21021,Boyle,KY,9,IPRO,YES
+"Bracken, KY",21023,Bracken,KY,9,IPRO,NO
+"Breathitt, KY",21025,Breathitt,KY,9,IPRO,YES
+"Breckinridge, KY",21027,Breckinridge,KY,9,IPRO,NO
+"Bullitt, KY",21029,Bullitt,KY,9,IPRO,YES
+"Butler, KY",21031,Butler,KY,9,IPRO,NO
+"Caldwell, KY",21033,Caldwell,KY,9,IPRO,NO
+"Calloway, KY",21035,Calloway,KY,9,IPRO,YES
+"Campbell, KY",21037,Campbell,KY,9,IPRO,YES
+"Carlisle, KY",21039,Carlisle,KY,9,IPRO,NO
+"Carroll, KY",21041,Carroll,KY,9,IPRO,YES
+"Carter, KY",21043,Carter,KY,9,IPRO,YES
+"Casey, KY",21045,Casey,KY,9,IPRO,NO
+"Christian, KY",21047,Christian,KY,9,IPRO,YES
+"Clark, KY",21049,Clark,KY,9,IPRO,YES
+"Clay, KY",21051,Clay,KY,9,IPRO,NO
+"Clinton, KY",21053,Clinton,KY,9,IPRO,NO
+"Crittenden, KY",21055,Crittenden,KY,9,IPRO,NO
+"Cumberland, KY",21057,Cumberland,KY,9,IPRO,NO
+"Daviess, KY",21059,Daviess,KY,9,IPRO,YES
+"Edmonson, KY",21061,Edmonson,KY,9,IPRO,NO
+"Elliott, KY",21063,Elliott,KY,9,IPRO,NO
+"Estill, KY",21065,Estill,KY,9,IPRO,NO
+"Fayette, KY",21067,Fayette,KY,9,IPRO,YES
+"Fleming, KY",21069,Fleming,KY,9,IPRO,NO
+"Floyd, KY",21071,Floyd,KY,9,IPRO,YES
+"Franklin, KY",21073,Franklin,KY,9,IPRO,YES
+"Fulton, KY",21075,Fulton,KY,9,IPRO,NO
+"Gallatin, KY",21077,Gallatin,KY,9,IPRO,NO
+"Garrard, KY",21079,Garrard,KY,9,IPRO,NO
+"Grant, KY",21081,Grant,KY,9,IPRO,YES
+"Graves, KY",21083,Graves,KY,9,IPRO,YES
+"Grayson, KY",21085,Grayson,KY,9,IPRO,YES
+"Green, KY",21087,Green,KY,9,IPRO,NO
+"Greenup, KY",21089,Greenup,KY,9,IPRO,NO
+"Hancock, KY",21091,Hancock,KY,9,IPRO,NO
+"Hardin, KY",21093,Hardin,KY,9,IPRO,YES
+"Harlan, KY",21095,Harlan,KY,9,IPRO,YES
+"Harrison, KY",21097,Harrison,KY,9,IPRO,NO
+"Hart, KY",21099,Hart,KY,9,IPRO,NO
+"Henderson, KY",21101,Henderson,KY,9,IPRO,YES
+"Henry, KY",21103,Henry,KY,9,IPRO,NO
+"Hickman, KY",21105,Hickman,KY,9,IPRO,NO
+"Hopkins, KY",21107,Hopkins,KY,9,IPRO,YES
+"Jackson, KY",21109,Jackson,KY,9,IPRO,NO
+"Jefferson, KY",21111,Jefferson,KY,9,IPRO,YES
+"Jessamine, KY",21113,Jessamine,KY,9,IPRO,YES
+"Johnson, KY",21115,Johnson,KY,9,IPRO,YES
+"Kenton, KY",21117,Kenton,KY,9,IPRO,YES
+"Knott, KY",21119,Knott,KY,9,IPRO,NO
+"Knox, KY",21121,Knox,KY,9,IPRO,NO
+"Larue, KY",21123,Larue,KY,9,IPRO,NO
+"Laurel, KY",21125,Laurel,KY,9,IPRO,YES
+"Lawrence, KY",21127,Lawrence,KY,9,IPRO,YES
+"Lee, KY",21129,Lee,KY,9,IPRO,NO
+"Leslie, KY",21131,Leslie,KY,9,IPRO,NO
+"Letcher, KY",21133,Letcher,KY,9,IPRO,YES
+"Lewis, KY",21135,Lewis,KY,9,IPRO,NO
+"Lincoln, KY",21137,Lincoln,KY,9,IPRO,YES
+"Livingston, KY",21139,Livingston,KY,9,IPRO,NO
+"Logan, KY",21141,Logan,KY,9,IPRO,NO
+"Lyon, KY",21143,Lyon,KY,9,IPRO,YES
+"Madison, KY",21151,Madison,KY,9,IPRO,YES
+"Magoffin, KY",21153,Magoffin,KY,9,IPRO,NO
+"Marion, KY",21155,Marion,KY,9,IPRO,YES
+"Marshall, KY",21157,Marshall,KY,9,IPRO,NO
+"Martin, KY",21159,Martin,KY,9,IPRO,NO
+"Mason, KY",21161,Mason,KY,9,IPRO,YES
+"McCracken, KY",21145,McCracken,KY,9,IPRO,YES
+"McCreary, KY",21147,McCreary,KY,9,IPRO,NO
+"McLean, KY",21149,McLean,KY,9,IPRO,NO
+"Meade, KY",21163,Meade,KY,9,IPRO,NO
+"Menifee, KY",21165,Menifee,KY,9,IPRO,NO
+"Mercer, KY",21167,Mercer,KY,9,IPRO,NO
+"Metcalfe, KY",21169,Metcalfe,KY,9,IPRO,NO
+"Monroe, KY",21171,Monroe,KY,9,IPRO,NO
+"Montgomery, KY",21173,Montgomery,KY,9,IPRO,YES
+"Morgan, KY",21175,Morgan,KY,9,IPRO,NO
+"Muhlenberg, KY",21177,Muhlenberg,KY,9,IPRO,YES
+"Nelson, KY",21179,Nelson,KY,9,IPRO,YES
+"Nicholas, KY",21181,Nicholas,KY,9,IPRO,NO
+"Ohio, KY",21183,Ohio,KY,9,IPRO,NO
+"Oldham, KY",21185,Oldham,KY,9,IPRO,YES
+"Owen, KY",21187,Owen,KY,9,IPRO,NO
+"Owsley, KY",21189,Owsley,KY,9,IPRO,NO
+"Pendleton, KY",21191,Pendleton,KY,9,IPRO,NO
+"Perry, KY",21193,Perry,KY,9,IPRO,YES
+"Pike, KY",21195,Pike,KY,9,IPRO,YES
+"Powell, KY",21197,Powell,KY,9,IPRO,NO
+"Pulaski, KY",21199,Pulaski,KY,9,IPRO,YES
+"Robertson, KY",21201,Robertson,KY,9,IPRO,NO
+"Rockcastle, KY",21203,Rockcastle,KY,9,IPRO,YES
+"Rowan, KY",21205,Rowan,KY,9,IPRO,YES
+"Russell, KY",21207,Russell,KY,9,IPRO,NO
+"Scott, KY",21209,Scott,KY,9,IPRO,YES
+"Shelby, KY",21211,Shelby,KY,9,IPRO,YES
+"Simpson, KY",21213,Simpson,KY,9,IPRO,YES
+"Spencer, KY",21215,Spencer,KY,9,IPRO,NO
+"Taylor, KY",21217,Taylor,KY,9,IPRO,YES
+"Todd, KY",21219,Todd,KY,9,IPRO,NO
+"Trigg, KY",21221,Trigg,KY,9,IPRO,YES
+"Trimble, KY",21223,Trimble,KY,9,IPRO,NO
+"Union, KY",21225,Union,KY,9,IPRO,NO
+"Warren, KY",21227,Warren,KY,9,IPRO,YES
+"Washington, KY",21229,Washington,KY,9,IPRO,NO
+"Wayne, KY",21231,Wayne,KY,9,IPRO,YES
+"Webster, KY",21233,Webster,KY,9,IPRO,NO
+"Whitley, KY",21235,Whitley,KY,9,IPRO,YES
+"Wolfe, KY",21237,Wolfe,KY,9,IPRO,NO
+"Woodford, KY",21239,Woodford,KY,9,IPRO,NO
+"Adams, OH",39001,Adams,OH,9,IPRO,YES
+"Allen, OH",39003,Allen,OH,9,IPRO,YES
+"Ashland, OH",39005,Ashland,OH,9,IPRO,YES
+"Ashtabula, OH",39007,Ashtabula,OH,9,IPRO,YES
+"Athens, OH",39009,Athens,OH,9,IPRO,YES
+"Auglaize, OH",39011,Auglaize,OH,9,IPRO,NO
+"Belmont, OH",39013,Belmont,OH,9,IPRO,YES
+"Brown, OH",39015,Brown,OH,9,IPRO,YES
+"Butler, OH",39017,Butler,OH,9,IPRO,YES
+"Carroll, OH",39019,Carroll,OH,9,IPRO,NO
+"Champaign, OH",39021,Champaign,OH,9,IPRO,YES
+"Clark, OH",39023,Clark,OH,9,IPRO,YES
+"Clermont, OH",39025,Clermont,OH,9,IPRO,YES
+"Clinton, OH",39027,Clinton,OH,9,IPRO,YES
+"Columbiana, OH",39029,Columbiana,OH,9,IPRO,YES
+"Coshocton, OH",39031,Coshocton,OH,9,IPRO,YES
+"Crawford, OH",39033,Crawford,OH,9,IPRO,YES
+"Cuyahoga, OH",39035,Cuyahoga,OH,9,IPRO,YES
+"Darke, OH",39037,Darke,OH,9,IPRO,YES
+"Defiance, OH",39039,Defiance,OH,9,IPRO,YES
+"Delaware, OH",39041,Delaware,OH,9,IPRO,YES
+"Erie, OH",39043,Erie,OH,9,IPRO,YES
+"Fairfield, OH",39045,Fairfield,OH,9,IPRO,YES
+"Fayette, OH",39047,Fayette,OH,9,IPRO,YES
+"Franklin, OH",39049,Franklin,OH,9,IPRO,YES
+"Fulton, OH",39051,Fulton,OH,9,IPRO,YES
+"Gallia, OH",39053,Gallia,OH,9,IPRO,YES
+"Geauga, OH",39055,Geauga,OH,9,IPRO,YES
+"Greene, OH",39057,Greene,OH,9,IPRO,YES
+"Guernsey, OH",39059,Guernsey,OH,9,IPRO,YES
+"Hamilton, OH",39061,Hamilton,OH,9,IPRO,YES
+"Hancock, OH",39063,Hancock,OH,9,IPRO,YES
+"Hardin, OH",39065,Hardin,OH,9,IPRO,YES
+"Harrison, OH",39067,Harrison,OH,9,IPRO,NO
+"Henry, OH",39069,Henry,OH,9,IPRO,NO
+"Highland, OH",39071,Highland,OH,9,IPRO,NO
+"Hocking, OH",39073,Hocking,OH,9,IPRO,YES
+"Holmes, OH",39075,Holmes,OH,9,IPRO,YES
+"Huron, OH",39077,Huron,OH,9,IPRO,YES
+"Jackson, OH",39079,Jackson,OH,9,IPRO,YES
+"Jefferson, OH",39081,Jefferson,OH,9,IPRO,YES
+"Knox, OH",39083,Knox,OH,9,IPRO,YES
+"Lake, OH",39085,Lake,OH,9,IPRO,YES
+"Lawrence, OH",39087,Lawrence,OH,9,IPRO,YES
+"Licking, OH",39089,Licking,OH,9,IPRO,YES
+"Logan, OH",39091,Logan,OH,9,IPRO,YES
+"Lorain, OH",39093,Lorain,OH,9,IPRO,YES
+"Lucas, OH",39095,Lucas,OH,9,IPRO,YES
+"Madison, OH",39097,Madison,OH,9,IPRO,YES
+"Mahoning, OH",39099,Mahoning,OH,9,IPRO,YES
+"Marion, OH",39101,Marion,OH,9,IPRO,YES
+"Medina, OH",39103,Medina,OH,9,IPRO,YES
+"Meigs, OH",39105,Meigs,OH,9,IPRO,NO
+"Mercer, OH",39107,Mercer,OH,9,IPRO,YES
+"Miami, OH",39109,Miami,OH,9,IPRO,YES
+"Monroe, OH",39111,Monroe,OH,9,IPRO,NO
+"Montgomery, OH",39113,Montgomery,OH,9,IPRO,YES
+"Morgan, OH",39115,Morgan,OH,9,IPRO,NO
+"Morrow, OH",39117,Morrow,OH,9,IPRO,NO
+"Muskingum, OH",39119,Muskingum,OH,9,IPRO,YES
+"Noble, OH",39121,Noble,OH,9,IPRO,NO
+"Ottawa, OH",39123,Ottawa,OH,9,IPRO,NO
+"Paulding, OH",39125,Paulding,OH,9,IPRO,NO
+"Perry, OH",39127,Perry,OH,9,IPRO,NO
+"Pickaway, OH",39129,Pickaway,OH,9,IPRO,YES
+"Pike, OH",39131,Pike,OH,9,IPRO,YES
+"Portage, OH",39133,Portage,OH,9,IPRO,YES
+"Preble, OH",39135,Preble,OH,9,IPRO,YES
+"Putnam, OH",39137,Putnam,OH,9,IPRO,YES
+"Richland, OH",39139,Richland,OH,9,IPRO,YES
+"Ross, OH",39141,Ross,OH,9,IPRO,YES
+"Sandusky, OH",39143,Sandusky,OH,9,IPRO,YES
+"Scioto, OH",39145,Scioto,OH,9,IPRO,YES
+"Seneca, OH",39147,Seneca,OH,9,IPRO,YES
+"Shelby, OH",39149,Shelby,OH,9,IPRO,YES
+"Stark, OH",39151,Stark,OH,9,IPRO,YES
+"Summit, OH",39153,Summit,OH,9,IPRO,YES
+"Trumbull, OH",39155,Trumbull,OH,9,IPRO,YES
+"Tuscarawas, OH",39157,Tuscarawas,OH,9,IPRO,YES
+"Union, OH",39159,Union,OH,9,IPRO,YES
+"Van Wert, OH",39161,Van Wert,OH,9,IPRO,YES
+"Vinton, OH",39163,Vinton,OH,9,IPRO,NO
+"Warren, OH",39165,Warren,OH,9,IPRO,YES
+"Washington, OH",39167,Washington,OH,9,IPRO,YES
+"Wayne, OH",39169,Wayne,OH,9,IPRO,YES
+"Williams, OH",39171,Williams,OH,9,IPRO,YES
+"Wood, OH",39173,Wood,OH,9,IPRO,YES
+"Wyandot, OH",39175,Wyandot,OH,9,IPRO,YES
+"Adams, IL",17001,Adams,IL,10,Quality Insights,YES
+"Alexander, IL",17003,Alexander,IL,10,Quality Insights,NO
+"Bond, IL",17005,Bond,IL,10,Quality Insights,NO
+"Boone, IL",17007,Boone,IL,10,Quality Insights,YES
+"Brown, IL",17009,Brown,IL,10,Quality Insights,NO
+"Bureau, IL",17011,Bureau,IL,10,Quality Insights,YES
+"Calhoun, IL",17013,Calhoun,IL,10,Quality Insights,NO
+"Carroll, IL",17015,Carroll,IL,10,Quality Insights,NO
+"Cass, IL",17017,Cass,IL,10,Quality Insights,NO
+"Champaign, IL",17019,Champaign,IL,10,Quality Insights,YES
+"Christian, IL",17021,Christian,IL,10,Quality Insights,YES
+"Clark, IL",17023,Clark,IL,10,Quality Insights,NO
+"Clay, IL",17025,Clay,IL,10,Quality Insights,NO
+"Clinton, IL",17027,Clinton,IL,10,Quality Insights,YES
+"Coles, IL",17029,Coles,IL,10,Quality Insights,YES
+"Cook, IL",17031,Cook,IL,10,Quality Insights,YES
+"Crawford, IL",17033,Crawford,IL,10,Quality Insights,YES
+"Cumberland, IL",17035,Cumberland,IL,10,Quality Insights,NO
+"De Witt, IL",17039,De Witt,IL,10,Quality Insights,NO
+"DeKalb, IL",17037,DeKalb,IL,10,Quality Insights,YES
+"Douglas, IL",17041,Douglas,IL,10,Quality Insights,NO
+"DuPage, IL",17043,DuPage,IL,10,Quality Insights,YES
+"Edgar, IL",17045,Edgar,IL,10,Quality Insights,YES
+"Edwards, IL",17047,Edwards,IL,10,Quality Insights,NO
+"Effingham, IL",17049,Effingham,IL,10,Quality Insights,YES
+"Fayette, IL",17051,Fayette,IL,10,Quality Insights,NO
+"Ford, IL",17053,Ford,IL,10,Quality Insights,NO
+"Franklin, IL",17055,Franklin,IL,10,Quality Insights,YES
+"Fulton, IL",17057,Fulton,IL,10,Quality Insights,YES
+"Gallatin, IL",17059,Gallatin,IL,10,Quality Insights,NO
+"Greene, IL",17061,Greene,IL,10,Quality Insights,NO
+"Grundy, IL",17063,Grundy,IL,10,Quality Insights,YES
+"Hamilton, IL",17065,Hamilton,IL,10,Quality Insights,NO
+"Hancock, IL",17067,Hancock,IL,10,Quality Insights,NO
+"Hardin, IL",17069,Hardin,IL,10,Quality Insights,NO
+"Henderson, IL",17071,Henderson,IL,10,Quality Insights,NO
+"Henry, IL",17073,Henry,IL,10,Quality Insights,YES
+"Iroquois, IL",17075,Iroquois,IL,10,Quality Insights,YES
+"Jackson, IL",17077,Jackson,IL,10,Quality Insights,YES
+"Jasper, IL",17079,Jasper,IL,10,Quality Insights,NO
+"Jefferson, IL",17081,Jefferson,IL,10,Quality Insights,YES
+"Jersey, IL",17083,Jersey,IL,10,Quality Insights,YES
+"Jo Daviess, IL",17085,Jo Daviess,IL,10,Quality Insights,NO
+"Johnson, IL",17087,Johnson,IL,10,Quality Insights,NO
+"Kane, IL",17089,Kane,IL,10,Quality Insights,YES
+"Kankakee, IL",17091,Kankakee,IL,10,Quality Insights,YES
+"Kendall, IL",17093,Kendall,IL,10,Quality Insights,YES
+"Knox, IL",17095,Knox,IL,10,Quality Insights,YES
+"La Salle, IL",17099,La Salle,IL,10,Quality Insights,YES
+"Lake, IL",17097,Lake,IL,10,Quality Insights,YES
+"Lawrence, IL",17101,Lawrence,IL,10,Quality Insights,NO
+"Lee, IL",17103,Lee,IL,10,Quality Insights,YES
+"Livingston, IL",17105,Livingston,IL,10,Quality Insights,YES
+"Logan, IL",17107,Logan,IL,10,Quality Insights,YES
+"Macon, IL",17115,Macon,IL,10,Quality Insights,YES
+"Macoupin, IL",17117,Macoupin,IL,10,Quality Insights,NO
+"Madison, IL",17119,Madison,IL,10,Quality Insights,YES
+"Marion, IL",17121,Marion,IL,10,Quality Insights,YES
+"Marshall, IL",17123,Marshall,IL,10,Quality Insights,NO
+"Mason, IL",17125,Mason,IL,10,Quality Insights,NO
+"Massac, IL",17127,Massac,IL,10,Quality Insights,YES
+"McDonough, IL",17109,McDonough,IL,10,Quality Insights,YES
+"McHenry, IL",17111,McHenry,IL,10,Quality Insights,YES
+"McLean, IL",17113,McLean,IL,10,Quality Insights,YES
+"Menard, IL",17129,Menard,IL,10,Quality Insights,NO
+"Mercer, IL",17131,Mercer,IL,10,Quality Insights,NO
+"Monroe, IL",17133,Monroe,IL,10,Quality Insights,NO
+"Montgomery, IL",17135,Montgomery,IL,10,Quality Insights,YES
+"Morgan, IL",17137,Morgan,IL,10,Quality Insights,YES
+"Moultrie, IL",17139,Moultrie,IL,10,Quality Insights,NO
+"Ogle, IL",17141,Ogle,IL,10,Quality Insights,NO
+"Peoria, IL",17143,Peoria,IL,10,Quality Insights,YES
+"Perry, IL",17145,Perry,IL,10,Quality Insights,YES
+"Piatt, IL",17147,Piatt,IL,10,Quality Insights,NO
+"Pike, IL",17149,Pike,IL,10,Quality Insights,NO
+"Pope, IL",17151,Pope,IL,10,Quality Insights,NO
+"Pulaski, IL",17153,Pulaski,IL,10,Quality Insights,NO
+"Putnam, IL",17155,Putnam,IL,10,Quality Insights,NO
+"Randolph, IL",17157,Randolph,IL,10,Quality Insights,YES
+"Richland, IL",17159,Richland,IL,10,Quality Insights,NO
+"Rock Island, IL",17161,Rock Island,IL,10,Quality Insights,YES
+"Saint Clair, IL",17163,Saint Clair,IL,10,Quality Insights,YES
+"Saline, IL",17165,Saline,IL,10,Quality Insights,YES
+"Sangamon, IL",17167,Sangamon,IL,10,Quality Insights,YES
+"Schuyler, IL",17169,Schuyler,IL,10,Quality Insights,YES
+"Scott, IL",17171,Scott,IL,10,Quality Insights,NO
+"Shelby, IL",17173,Shelby,IL,10,Quality Insights,YES
+"Stark, IL",17175,Stark,IL,10,Quality Insights,NO
+"Stephenson, IL",17177,Stephenson,IL,10,Quality Insights,YES
+"Tazewell, IL",17179,Tazewell,IL,10,Quality Insights,YES
+"Union, IL",17181,Union,IL,10,Quality Insights,NO
+"Vermilion, IL",17183,Vermilion,IL,10,Quality Insights,YES
+"Wabash, IL",17185,Wabash,IL,10,Quality Insights,NO
+"Warren, IL",17187,Warren,IL,10,Quality Insights,NO
+"Washington, IL",17189,Washington,IL,10,Quality Insights,NO
+"Wayne, IL",17191,Wayne,IL,10,Quality Insights,YES
+"White, IL",17193,White,IL,10,Quality Insights,NO
+"Whiteside, IL",17195,Whiteside,IL,10,Quality Insights,YES
+"Will, IL",17197,Will,IL,10,Quality Insights,YES
+"Williamson, IL",17199,Williamson,IL,10,Quality Insights,YES
+"Winnebago, IL",17201,Winnebago,IL,10,Quality Insights,YES
+"Woodford, IL",17203,Woodford,IL,10,Quality Insights,NO
+"Alcona, MI",26001,Alcona,MI,11,Quality Insights,NO
+"Alger, MI",26003,Alger,MI,11,Quality Insights,NO
+"Allegan, MI",26005,Allegan,MI,11,Quality Insights,YES
+"Alpena, MI",26007,Alpena,MI,11,Quality Insights,YES
+"Antrim, MI",26009,Antrim,MI,11,Quality Insights,NO
+"Arenac, MI",26011,Arenac,MI,11,Quality Insights,NO
+"Baraga, MI",26013,Baraga,MI,11,Quality Insights,NO
+"Barry, MI",26015,Barry,MI,11,Quality Insights,YES
+"Bay, MI",26017,Bay,MI,11,Quality Insights,YES
+"Benzie, MI",26019,Benzie,MI,11,Quality Insights,YES
+"Berrien, MI",26021,Berrien,MI,11,Quality Insights,YES
+"Branch, MI",26023,Branch,MI,11,Quality Insights,YES
+"Calhoun, MI",26025,Calhoun,MI,11,Quality Insights,YES
+"Cass, MI",26027,Cass,MI,11,Quality Insights,NO
+"Charlevoix, MI",26029,Charlevoix,MI,11,Quality Insights,NO
+"Cheboygan, MI",26031,Cheboygan,MI,11,Quality Insights,NO
+"Chippewa, MI",26033,Chippewa,MI,11,Quality Insights,YES
+"Clare, MI",26035,Clare,MI,11,Quality Insights,NO
+"Clinton, MI",26037,Clinton,MI,11,Quality Insights,YES
+"Crawford, MI",26039,Crawford,MI,11,Quality Insights,YES
+"Delta, MI",26041,Delta,MI,11,Quality Insights,YES
+"Dickinson, MI",26043,Dickinson,MI,11,Quality Insights,YES
+"Eaton, MI",26045,Eaton,MI,11,Quality Insights,YES
+"Emmet, MI",26047,Emmet,MI,11,Quality Insights,YES
+"Genesee, MI",26049,Genesee,MI,11,Quality Insights,YES
+"Gladwin, MI",26051,Gladwin,MI,11,Quality Insights,YES
+"Gogebic, MI",26053,Gogebic,MI,11,Quality Insights,NO
+"Grand Traverse, MI",26055,Grand Traverse,MI,11,Quality Insights,YES
+"Gratiot, MI",26057,Gratiot,MI,11,Quality Insights,YES
+"Hillsdale, MI",26059,Hillsdale,MI,11,Quality Insights,YES
+"Houghton, MI",26061,Houghton,MI,11,Quality Insights,YES
+"Huron, MI",26063,Huron,MI,11,Quality Insights,YES
+"Ingham, MI",26065,Ingham,MI,11,Quality Insights,YES
+"Ionia, MI",26067,Ionia,MI,11,Quality Insights,YES
+"Iosco, MI",26069,Iosco,MI,11,Quality Insights,YES
+"Iron, MI",26071,Iron,MI,11,Quality Insights,NO
+"Isabella, MI",26073,Isabella,MI,11,Quality Insights,YES
+"Jackson, MI",26075,Jackson,MI,11,Quality Insights,YES
+"Kalamazoo, MI",26077,Kalamazoo,MI,11,Quality Insights,YES
+"Kalkaska, MI",26079,Kalkaska,MI,11,Quality Insights,YES
+"Kent, MI",26081,Kent,MI,11,Quality Insights,YES
+"Keweenaw, MI",26083,Keweenaw,MI,11,Quality Insights,NO
+"Lake, MI",26085,Lake,MI,11,Quality Insights,NO
+"Lapeer, MI",26087,Lapeer,MI,11,Quality Insights,YES
+"Leelanau, MI",26089,Leelanau,MI,11,Quality Insights,NO
+"Lenawee, MI",26091,Lenawee,MI,11,Quality Insights,YES
+"Livingston, MI",26093,Livingston,MI,11,Quality Insights,YES
+"Luce, MI",26095,Luce,MI,11,Quality Insights,NO
+"Mackinac, MI",26097,Mackinac,MI,11,Quality Insights,NO
+"Macomb, MI",26099,Macomb,MI,11,Quality Insights,YES
+"Manistee, MI",26101,Manistee,MI,11,Quality Insights,YES
+"Marquette, MI",26103,Marquette,MI,11,Quality Insights,YES
+"Mason, MI",26105,Mason,MI,11,Quality Insights,YES
+"Mecosta, MI",26107,Mecosta,MI,11,Quality Insights,YES
+"Menominee, MI",26109,Menominee,MI,11,Quality Insights,NO
+"Midland, MI",26111,Midland,MI,11,Quality Insights,YES
+"Missaukee, MI",26113,Missaukee,MI,11,Quality Insights,NO
+"Monroe, MI",26115,Monroe,MI,11,Quality Insights,YES
+"Montcalm, MI",26117,Montcalm,MI,11,Quality Insights,YES
+"Montmorency, MI",26119,Montmorency,MI,11,Quality Insights,NO
+"Muskegon, MI",26121,Muskegon,MI,11,Quality Insights,YES
+"Newaygo, MI",26123,Newaygo,MI,11,Quality Insights,YES
+"Oakland, MI",26125,Oakland,MI,11,Quality Insights,YES
+"Oceana, MI",26127,Oceana,MI,11,Quality Insights,NO
+"Ogemaw, MI",26129,Ogemaw,MI,11,Quality Insights,YES
+"Ontonagon, MI",26131,Ontonagon,MI,11,Quality Insights,NO
+"Osceola, MI",26133,Osceola,MI,11,Quality Insights,NO
+"Oscoda, MI",26135,Oscoda,MI,11,Quality Insights,NO
+"Otsego, MI",26137,Otsego,MI,11,Quality Insights,YES
+"Ottawa, MI",26139,Ottawa,MI,11,Quality Insights,YES
+"Presque Isle, MI",26141,Presque Isle,MI,11,Quality Insights,NO
+"Roscommon, MI",26143,Roscommon,MI,11,Quality Insights,YES
+"Saginaw, MI",26145,Saginaw,MI,11,Quality Insights,YES
+"Saint Clair, MI",26147,Saint Clair,MI,11,Quality Insights,YES
+"Saint Joseph, MI",26149,Saint Joseph,MI,11,Quality Insights,YES
+"Sanilac, MI",26151,Sanilac,MI,11,Quality Insights,YES
+"Schoolcraft, MI",26153,Schoolcraft,MI,11,Quality Insights,NO
+"Shiawassee, MI",26155,Shiawassee,MI,11,Quality Insights,YES
+"Tuscola, MI",26157,Tuscola,MI,11,Quality Insights,YES
+"Van Buren, MI",26159,Van Buren,MI,11,Quality Insights,YES
+"Washtenaw, MI",26161,Washtenaw,MI,11,Quality Insights,YES
+"Wayne, MI",26163,Wayne,MI,11,Quality Insights,YES
+"Wexford, MI",26165,Wexford,MI,11,Quality Insights,YES
+"Aitkin, MN",27001,Aitkin,MN,11,Quality Insights,YES
+"Anoka, MN",27003,Anoka,MN,11,Quality Insights,YES
+"Becker, MN",27005,Becker,MN,11,Quality Insights,YES
+"Beltrami, MN",27007,Beltrami,MN,11,Quality Insights,YES
+"Benton, MN",27009,Benton,MN,11,Quality Insights,NO
+"Big Stone, MN",27011,Big Stone,MN,11,Quality Insights,NO
+"Blue Earth, MN",27013,Blue Earth,MN,11,Quality Insights,YES
+"Brown, MN",27015,Brown,MN,11,Quality Insights,YES
+"Carlton, MN",27017,Carlton,MN,11,Quality Insights,YES
+"Carver, MN",27019,Carver,MN,11,Quality Insights,YES
+"Cass, MN",27021,Cass,MN,11,Quality Insights,YES
+"Chippewa, MN",27023,Chippewa,MN,11,Quality Insights,NO
+"Chisago, MN",27025,Chisago,MN,11,Quality Insights,YES
+"Clay, MN",27027,Clay,MN,11,Quality Insights,YES
+"Clearwater, MN",27029,Clearwater,MN,11,Quality Insights,NO
+"Cook, MN",27031,Cook,MN,11,Quality Insights,NO
+"Cottonwood, MN",27033,Cottonwood,MN,11,Quality Insights,NO
+"Crow Wing, MN",27035,Crow Wing,MN,11,Quality Insights,YES
+"Dakota, MN",27037,Dakota,MN,11,Quality Insights,YES
+"Dodge, MN",27039,Dodge,MN,11,Quality Insights,NO
+"Douglas, MN",27041,Douglas,MN,11,Quality Insights,YES
+"Faribault, MN",27043,Faribault,MN,11,Quality Insights,NO
+"Fillmore, MN",27045,Fillmore,MN,11,Quality Insights,NO
+"Freeborn, MN",27047,Freeborn,MN,11,Quality Insights,YES
+"Goodhue, MN",27049,Goodhue,MN,11,Quality Insights,NO
+"Grant, MN",27051,Grant,MN,11,Quality Insights,NO
+"Hennepin, MN",27053,Hennepin,MN,11,Quality Insights,YES
+"Houston, MN",27055,Houston,MN,11,Quality Insights,NO
+"Hubbard, MN",27057,Hubbard,MN,11,Quality Insights,NO
+"Isanti, MN",27059,Isanti,MN,11,Quality Insights,YES
+"Itasca, MN",27061,Itasca,MN,11,Quality Insights,YES
+"Jackson, MN",27063,Jackson,MN,11,Quality Insights,NO
+"Kanabec, MN",27065,Kanabec,MN,11,Quality Insights,YES
+"Kandiyohi, MN",27067,Kandiyohi,MN,11,Quality Insights,YES
+"Kittson, MN",27069,Kittson,MN,11,Quality Insights,NO
+"Koochiching, MN",27071,Koochiching,MN,11,Quality Insights,NO
+"Lac qui Parle, MN",27073,Lac qui Parle,MN,11,Quality Insights,NO
+"Lake of the Woods, MN",27077,Lake of the Woods,MN,11,Quality Insights,NO
+"Lake, MN",27075,Lake,MN,11,Quality Insights,NO
+"Le Sueur, MN",27079,Le Sueur,MN,11,Quality Insights,NO
+"Lincoln, MN",27081,Lincoln,MN,11,Quality Insights,NO
+"Lyon, MN",27083,Lyon,MN,11,Quality Insights,YES
+"Mahnomen, MN",27087,Mahnomen,MN,11,Quality Insights,NO
+"Marshall, MN",27089,Marshall,MN,11,Quality Insights,NO
+"Martin, MN",27091,Martin,MN,11,Quality Insights,YES
+"McLeod, MN",27085,McLeod,MN,11,Quality Insights,YES
+"Meeker, MN",27093,Meeker,MN,11,Quality Insights,YES
+"Mille Lacs, MN",27095,Mille Lacs,MN,11,Quality Insights,YES
+"Morrison, MN",27097,Morrison,MN,11,Quality Insights,YES
+"Mower, MN",27099,Mower,MN,11,Quality Insights,NO
+"Murray, MN",27101,Murray,MN,11,Quality Insights,NO
+"Nicollet, MN",27103,Nicollet,MN,11,Quality Insights,YES
+"Nobles, MN",27105,Nobles,MN,11,Quality Insights,YES
+"Norman, MN",27107,Norman,MN,11,Quality Insights,NO
+"Olmsted, MN",27109,Olmsted,MN,11,Quality Insights,YES
+"Otter Tail, MN",27111,Otter Tail,MN,11,Quality Insights,YES
+"Pennington, MN",27113,Pennington,MN,11,Quality Insights,YES
+"Pine, MN",27115,Pine,MN,11,Quality Insights,NO
+"Pipestone, MN",27117,Pipestone,MN,11,Quality Insights,YES
+"Polk, MN",27119,Polk,MN,11,Quality Insights,YES
+"Pope, MN",27121,Pope,MN,11,Quality Insights,NO
+"Ramsey, MN",27123,Ramsey,MN,11,Quality Insights,YES
+"Red Lake, MN",27125,Red Lake,MN,11,Quality Insights,NO
+"Redwood, MN",27127,Redwood,MN,11,Quality Insights,YES
+"Renville, MN",27129,Renville,MN,11,Quality Insights,YES
+"Rice, MN",27131,Rice,MN,11,Quality Insights,YES
+"Rock, MN",27133,Rock,MN,11,Quality Insights,NO
+"Roseau, MN",27135,Roseau,MN,11,Quality Insights,YES
+"Saint Louis, MN",27137,Saint Louis,MN,11,Quality Insights,YES
+"Scott, MN",27139,Scott,MN,11,Quality Insights,YES
+"Sherburne, MN",27141,Sherburne,MN,11,Quality Insights,YES
+"Sibley, MN",27143,Sibley,MN,11,Quality Insights,NO
+"Stearns, MN",27145,Stearns,MN,11,Quality Insights,YES
+"Steele, MN",27147,Steele,MN,11,Quality Insights,YES
+"Stevens, MN",27149,Stevens,MN,11,Quality Insights,YES
+"Swift, MN",27151,Swift,MN,11,Quality Insights,NO
+"Todd, MN",27153,Todd,MN,11,Quality Insights,YES
+"Traverse, MN",27155,Traverse,MN,11,Quality Insights,NO
+"Wabasha, MN",27157,Wabasha,MN,11,Quality Insights,YES
+"Wadena, MN",27159,Wadena,MN,11,Quality Insights,NO
+"Waseca, MN",27161,Waseca,MN,11,Quality Insights,NO
+"Washington, MN",27163,Washington,MN,11,Quality Insights,YES
+"Watonwan, MN",27165,Watonwan,MN,11,Quality Insights,NO
+"Wilkin, MN",27167,Wilkin,MN,11,Quality Insights,NO
+"Winona, MN",27169,Winona,MN,11,Quality Insights,YES
+"Wright, MN",27171,Wright,MN,11,Quality Insights,YES
+"Yellow Medicine, MN",27173,Yellow Medicine,MN,11,Quality Insights,YES
+"Adams, ND",38001,Adams,ND,11,Quality Insights,NO
+"Barnes, ND",38003,Barnes,ND,11,Quality Insights,NO
+"Benson, ND",38005,Benson,ND,11,Quality Insights,NO
+"Billings, ND",38007,Billings,ND,11,Quality Insights,NO
+"Bottineau, ND",38009,Bottineau,ND,11,Quality Insights,NO
+"Bowman, ND",38011,Bowman,ND,11,Quality Insights,NO
+"Burke, ND",38013,Burke,ND,11,Quality Insights,NO
+"Burleigh, ND",38015,Burleigh,ND,11,Quality Insights,YES
+"Cass, ND",38017,Cass,ND,11,Quality Insights,YES
+"Cavalier, ND",38019,Cavalier,ND,11,Quality Insights,NO
+"Dickey, ND",38021,Dickey,ND,11,Quality Insights,NO
+"Divide, ND",38023,Divide,ND,11,Quality Insights,NO
+"Dunn, ND",38025,Dunn,ND,11,Quality Insights,NO
+"Eddy, ND",38027,Eddy,ND,11,Quality Insights,NO
+"Emmons, ND",38029,Emmons,ND,11,Quality Insights,NO
+"Foster, ND",38031,Foster,ND,11,Quality Insights,NO
+"Golden Valley, ND",38033,Golden Valley,ND,11,Quality Insights,NO
+"Grand Forks, ND",38035,Grand Forks,ND,11,Quality Insights,YES
+"Grant, ND",38037,Grant,ND,11,Quality Insights,NO
+"Griggs, ND",38039,Griggs,ND,11,Quality Insights,NO
+"Hettinger, ND",38041,Hettinger,ND,11,Quality Insights,NO
+"Kidder, ND",38043,Kidder,ND,11,Quality Insights,NO
+"LaMoure, ND",38045,LaMoure,ND,11,Quality Insights,NO
+"Logan, ND",38047,Logan,ND,11,Quality Insights,NO
+"McHenry, ND",38049,McHenry,ND,11,Quality Insights,NO
+"McIntosh, ND",38051,McIntosh,ND,11,Quality Insights,NO
+"McKenzie, ND",38053,McKenzie,ND,11,Quality Insights,NO
+"McLean, ND",38055,McLean,ND,11,Quality Insights,NO
+"Mercer, ND",38057,Mercer,ND,11,Quality Insights,NO
+"Morton, ND",38059,Morton,ND,11,Quality Insights,NO
+"Mountrail, ND",38061,Mountrail,ND,11,Quality Insights,YES
+"Nelson, ND",38063,Nelson,ND,11,Quality Insights,NO
+"Oliver, ND",38065,Oliver,ND,11,Quality Insights,NO
+"Pembina, ND",38067,Pembina,ND,11,Quality Insights,NO
+"Pierce, ND",38069,Pierce,ND,11,Quality Insights,NO
+"Ramsey, ND",38071,Ramsey,ND,11,Quality Insights,YES
+"Ransom, ND",38073,Ransom,ND,11,Quality Insights,NO
+"Renville, ND",38075,Renville,ND,11,Quality Insights,NO
+"Richland, ND",38077,Richland,ND,11,Quality Insights,NO
+"Rolette, ND",38079,Rolette,ND,11,Quality Insights,NO
+"Sargent, ND",38081,Sargent,ND,11,Quality Insights,NO
+"Sheridan, ND",38083,Sheridan,ND,11,Quality Insights,NO
+"Sioux, ND",38085,Sioux,ND,11,Quality Insights,YES
+"Slope, ND",38087,Slope,ND,11,Quality Insights,NO
+"Stark, ND",38089,Stark,ND,11,Quality Insights,YES
+"Steele, ND",38091,Steele,ND,11,Quality Insights,NO
+"Stutsman, ND",38093,Stutsman,ND,11,Quality Insights,YES
+"Towner, ND",38095,Towner,ND,11,Quality Insights,NO
+"Traill, ND",38097,Traill,ND,11,Quality Insights,NO
+"Walsh, ND",38099,Walsh,ND,11,Quality Insights,NO
+"Ward, ND",38101,Ward,ND,11,Quality Insights,YES
+"Wells, ND",38103,Wells,ND,11,Quality Insights,NO
+"Williams, ND",38105,Williams,ND,11,Quality Insights,YES
+"Aurora, SD",46003,Aurora,SD,11,Quality Insights,NO
+"Beadle, SD",46005,Beadle,SD,11,Quality Insights,YES
+"Bennett, SD",46007,Bennett,SD,11,Quality Insights,NO
+"Bon Homme, SD",46009,Bon Homme,SD,11,Quality Insights,NO
+"Brookings, SD",46011,Brookings,SD,11,Quality Insights,YES
+"Brown, SD",46013,Brown,SD,11,Quality Insights,YES
+"Brule, SD",46015,Brule,SD,11,Quality Insights,YES
+"Buffalo, SD",46017,Buffalo,SD,11,Quality Insights,NO
+"Butte, SD",46019,Butte,SD,11,Quality Insights,NO
+"Campbell, SD",46021,Campbell,SD,11,Quality Insights,NO
+"Charles Mix, SD",46023,Charles Mix,SD,11,Quality Insights,YES
+"Clark, SD",46025,Clark,SD,11,Quality Insights,NO
+"Clay, SD",46027,Clay,SD,11,Quality Insights,NO
+"Codington, SD",46029,Codington,SD,11,Quality Insights,YES
+"Corson, SD",46031,Corson,SD,11,Quality Insights,NO
+"Custer, SD",46033,Custer,SD,11,Quality Insights,NO
+"Davison, SD",46035,Davison,SD,11,Quality Insights,YES
+"Day, SD",46037,Day,SD,11,Quality Insights,NO
+"Deuel, SD",46039,Deuel,SD,11,Quality Insights,NO
+"Dewey, SD",46041,Dewey,SD,11,Quality Insights,YES
+"Douglas, SD",46043,Douglas,SD,11,Quality Insights,NO
+"Edmunds, SD",46045,Edmunds,SD,11,Quality Insights,NO
+"Fall River, SD",46047,Fall River,SD,11,Quality Insights,YES
+"Faulk, SD",46049,Faulk,SD,11,Quality Insights,NO
+"Grant, SD",46051,Grant,SD,11,Quality Insights,YES
+"Gregory, SD",46053,Gregory,SD,11,Quality Insights,YES
+"Haakon, SD",46055,Haakon,SD,11,Quality Insights,NO
+"Hamlin, SD",46057,Hamlin,SD,11,Quality Insights,NO
+"Hand, SD",46059,Hand,SD,11,Quality Insights,NO
+"Hanson, SD",46061,Hanson,SD,11,Quality Insights,NO
+"Harding, SD",46063,Harding,SD,11,Quality Insights,NO
+"Hughes, SD",46065,Hughes,SD,11,Quality Insights,YES
+"Hutchinson, SD",46067,Hutchinson,SD,11,Quality Insights,NO
+"Hyde, SD",46069,Hyde,SD,11,Quality Insights,NO
+"Jackson, SD",46071,Jackson,SD,11,Quality Insights,NO
+"Jerauld, SD",46073,Jerauld,SD,11,Quality Insights,NO
+"Jones, SD",46075,Jones,SD,11,Quality Insights,NO
+"Kingsbury, SD",46077,Kingsbury,SD,11,Quality Insights,NO
+"Lake, SD",46079,Lake,SD,11,Quality Insights,YES
+"Lawrence, SD",46081,Lawrence,SD,11,Quality Insights,YES
+"Lincoln, SD",46083,Lincoln,SD,11,Quality Insights,YES
+"Lyman, SD",46085,Lyman,SD,11,Quality Insights,NO
+"Marshall, SD",46091,Marshall,SD,11,Quality Insights,NO
+"McCook, SD",46087,McCook,SD,11,Quality Insights,NO
+"McPherson, SD",46089,McPherson,SD,11,Quality Insights,NO
+"Meade, SD",46093,Meade,SD,11,Quality Insights,NO
+"Mellette, SD",46095,Mellette,SD,11,Quality Insights,NO
+"Miner, SD",46097,Miner,SD,11,Quality Insights,NO
+"Minnehaha, SD",46099,Minnehaha,SD,11,Quality Insights,YES
+"Moody, SD",46101,Moody,SD,11,Quality Insights,NO
+"Oglala Lakota, SD",46102,Oglala Lakota,SD,11,Quality Insights,YES
+"Pennington, SD",46103,Pennington,SD,11,Quality Insights,YES
+"Perkins, SD",46105,Perkins,SD,11,Quality Insights,NO
+"Potter, SD",46107,Potter,SD,11,Quality Insights,NO
+"Roberts, SD",46109,Roberts,SD,11,Quality Insights,YES
+"Sanborn, SD",46111,Sanborn,SD,11,Quality Insights,NO
+"Shannon, SD",46113,Shannon,SD,11,Quality Insights,NO
+"Spink, SD",46115,Spink,SD,11,Quality Insights,NO
+"Stanley, SD",46117,Stanley,SD,11,Quality Insights,NO
+"Sully, SD",46119,Sully,SD,11,Quality Insights,NO
+"Todd, SD",46121,Todd,SD,11,Quality Insights,YES
+"Tripp, SD",46123,Tripp,SD,11,Quality Insights,NO
+"Turner, SD",46125,Turner,SD,11,Quality Insights,NO
+"Union, SD",46127,Union,SD,11,Quality Insights,YES
+"Walworth, SD",46129,Walworth,SD,11,Quality Insights,NO
+"Yankton, SD",46135,Yankton,SD,11,Quality Insights,YES
+"Ziebach, SD",46137,Ziebach,SD,11,Quality Insights,NO
+"Adams, WI",55001,Adams,WI,11,Quality Insights,NO
+"Ashland, WI",55003,Ashland,WI,11,Quality Insights,YES
+"Barron, WI",55005,Barron,WI,11,Quality Insights,YES
+"Bayfield, WI",55007,Bayfield,WI,11,Quality Insights,NO
+"Brown, WI",55009,Brown,WI,11,Quality Insights,YES
+"Buffalo, WI",55011,Buffalo,WI,11,Quality Insights,NO
+"Burnett, WI",55013,Burnett,WI,11,Quality Insights,NO
+"Calumet, WI",55015,Calumet,WI,11,Quality Insights,YES
+"Chippewa, WI",55017,Chippewa,WI,11,Quality Insights,YES
+"Clark, WI",55019,Clark,WI,11,Quality Insights,NO
+"Columbia, WI",55021,Columbia,WI,11,Quality Insights,YES
+"Crawford, WI",55023,Crawford,WI,11,Quality Insights,YES
+"Dane, WI",55025,Dane,WI,11,Quality Insights,YES
+"Dodge, WI",55027,Dodge,WI,11,Quality Insights,YES
+"Door, WI",55029,Door,WI,11,Quality Insights,YES
+"Douglas, WI",55031,Douglas,WI,11,Quality Insights,NO
+"Dunn, WI",55033,Dunn,WI,11,Quality Insights,YES
+"Eau Claire, WI",55035,Eau Claire,WI,11,Quality Insights,YES
+"Florence, WI",55037,Florence,WI,11,Quality Insights,NO
+"Fond du Lac, WI",55039,Fond du Lac,WI,11,Quality Insights,YES
+"Forest, WI",55041,Forest,WI,11,Quality Insights,NO
+"Grant, WI",55043,Grant,WI,11,Quality Insights,YES
+"Green Lake, WI",55047,Green Lake,WI,11,Quality Insights,YES
+"Green, WI",55045,Green,WI,11,Quality Insights,YES
+"Iowa, WI",55049,Iowa,WI,11,Quality Insights,YES
+"Iron, WI",55051,Iron,WI,11,Quality Insights,NO
+"Jackson, WI",55053,Jackson,WI,11,Quality Insights,NO
+"Jefferson, WI",55055,Jefferson,WI,11,Quality Insights,YES
+"Juneau, WI",55057,Juneau,WI,11,Quality Insights,YES
+"Kenosha, WI",55059,Kenosha,WI,11,Quality Insights,YES
+"Kewaunee, WI",55061,Kewaunee,WI,11,Quality Insights,NO
+"La Crosse, WI",55063,La Crosse,WI,11,Quality Insights,YES
+"Lafayette, WI",55065,Lafayette,WI,11,Quality Insights,NO
+"Langlade, WI",55067,Langlade,WI,11,Quality Insights,YES
+"Lincoln, WI",55069,Lincoln,WI,11,Quality Insights,NO
+"Manitowoc, WI",55071,Manitowoc,WI,11,Quality Insights,YES
+"Marathon, WI",55073,Marathon,WI,11,Quality Insights,YES
+"Marinette, WI",55075,Marinette,WI,11,Quality Insights,YES
+"Marquette, WI",55077,Marquette,WI,11,Quality Insights,NO
+"Menominee, WI",55078,Menominee,WI,11,Quality Insights,NO
+"Milwaukee, WI",55079,Milwaukee,WI,11,Quality Insights,YES
+"Monroe, WI",55081,Monroe,WI,11,Quality Insights,YES
+"Oconto, WI",55083,Oconto,WI,11,Quality Insights,NO
+"Oneida, WI",55085,Oneida,WI,11,Quality Insights,YES
+"Outagamie, WI",55087,Outagamie,WI,11,Quality Insights,YES
+"Ozaukee, WI",55089,Ozaukee,WI,11,Quality Insights,YES
+"Pepin, WI",55091,Pepin,WI,11,Quality Insights,NO
+"Pierce, WI",55093,Pierce,WI,11,Quality Insights,NO
+"Polk, WI",55095,Polk,WI,11,Quality Insights,YES
+"Portage, WI",55097,Portage,WI,11,Quality Insights,YES
+"Price, WI",55099,Price,WI,11,Quality Insights,NO
+"Racine, WI",55101,Racine,WI,11,Quality Insights,YES
+"Richland, WI",55103,Richland,WI,11,Quality Insights,YES
+"Rock, WI",55105,Rock,WI,11,Quality Insights,YES
+"Rusk, WI",55107,Rusk,WI,11,Quality Insights,NO
+"Saint Croix, WI",55109,Saint Croix,WI,11,Quality Insights,YES
+"Sauk, WI",55111,Sauk,WI,11,Quality Insights,YES
+"Sawyer, WI",55113,Sawyer,WI,11,Quality Insights,YES
+"Shawano, WI",55115,Shawano,WI,11,Quality Insights,YES
+"Sheboygan, WI",55117,Sheboygan,WI,11,Quality Insights,YES
+"Taylor, WI",55119,Taylor,WI,11,Quality Insights,YES
+"Trempealeau, WI",55121,Trempealeau,WI,11,Quality Insights,NO
+"Vernon, WI",55123,Vernon,WI,11,Quality Insights,YES
+"Vilas, WI",55125,Vilas,WI,11,Quality Insights,NO
+"Walworth, WI",55127,Walworth,WI,11,Quality Insights,YES
+"Washburn, WI",55129,Washburn,WI,11,Quality Insights,NO
+"Washington, WI",55131,Washington,WI,11,Quality Insights,YES
+"Waukesha, WI",55133,Waukesha,WI,11,Quality Insights,YES
+"Waupaca, WI",55135,Waupaca,WI,11,Quality Insights,YES
+"Waushara, WI",55137,Waushara,WI,11,Quality Insights,NO
+"Winnebago, WI",55139,Winnebago,WI,11,Quality Insights,YES
+"Wood, WI",55141,Wood,WI,11,Quality Insights,YES
+"Adair, IA",19001,Adair,IA,12,Quality Insights,NO
+"Adams, IA",19003,Adams,IA,12,Quality Insights,NO
+"Allamakee, IA",19005,Allamakee,IA,12,Quality Insights,NO
+"Appanoose, IA",19007,Appanoose,IA,12,Quality Insights,NO
+"Audubon, IA",19009,Audubon,IA,12,Quality Insights,NO
+"Benton, IA",19011,Benton,IA,12,Quality Insights,NO
+"Black Hawk, IA",19013,Black Hawk,IA,12,Quality Insights,YES
+"Boone, IA",19015,Boone,IA,12,Quality Insights,NO
+"Bremer, IA",19017,Bremer,IA,12,Quality Insights,YES
+"Buchanan, IA",19019,Buchanan,IA,12,Quality Insights,NO
+"Buena Vista, IA",19021,Buena Vista,IA,12,Quality Insights,YES
+"Butler, IA",19023,Butler,IA,12,Quality Insights,NO
+"Calhoun, IA",19025,Calhoun,IA,12,Quality Insights,NO
+"Carroll, IA",19027,Carroll,IA,12,Quality Insights,YES
+"Cass, IA",19029,Cass,IA,12,Quality Insights,NO
+"Cedar, IA",19031,Cedar,IA,12,Quality Insights,NO
+"Cerro Gordo, IA",19033,Cerro Gordo,IA,12,Quality Insights,YES
+"Cherokee, IA",19035,Cherokee,IA,12,Quality Insights,NO
+"Chickasaw, IA",19037,Chickasaw,IA,12,Quality Insights,NO
+"Clarke, IA",19039,Clarke,IA,12,Quality Insights,NO
+"Clay, IA",19041,Clay,IA,12,Quality Insights,YES
+"Clayton, IA",19043,Clayton,IA,12,Quality Insights,NO
+"Clinton, IA",19045,Clinton,IA,12,Quality Insights,YES
+"Crawford, IA",19047,Crawford,IA,12,Quality Insights,NO
+"Dallas, IA",19049,Dallas,IA,12,Quality Insights,NO
+"Davis, IA",19051,Davis,IA,12,Quality Insights,NO
+"Decatur, IA",19053,Decatur,IA,12,Quality Insights,NO
+"Delaware, IA",19055,Delaware,IA,12,Quality Insights,YES
+"Des Moines, IA",19057,Des Moines,IA,12,Quality Insights,YES
+"Dickinson, IA",19059,Dickinson,IA,12,Quality Insights,YES
+"Dubuque, IA",19061,Dubuque,IA,12,Quality Insights,YES
+"Emmet, IA",19063,Emmet,IA,12,Quality Insights,NO
+"Fayette, IA",19065,Fayette,IA,12,Quality Insights,YES
+"Floyd, IA",19067,Floyd,IA,12,Quality Insights,YES
+"Franklin, IA",19069,Franklin,IA,12,Quality Insights,NO
+"Fremont, IA",19071,Fremont,IA,12,Quality Insights,NO
+"Greene, IA",19073,Greene,IA,12,Quality Insights,NO
+"Grundy, IA",19075,Grundy,IA,12,Quality Insights,NO
+"Guthrie, IA",19077,Guthrie,IA,12,Quality Insights,NO
+"Hamilton, IA",19079,Hamilton,IA,12,Quality Insights,NO
+"Hancock, IA",19081,Hancock,IA,12,Quality Insights,NO
+"Hardin, IA",19083,Hardin,IA,12,Quality Insights,YES
+"Harrison, IA",19085,Harrison,IA,12,Quality Insights,NO
+"Henry, IA",19087,Henry,IA,12,Quality Insights,YES
+"Howard, IA",19089,Howard,IA,12,Quality Insights,NO
+"Humboldt, IA",19091,Humboldt,IA,12,Quality Insights,NO
+"Ida, IA",19093,Ida,IA,12,Quality Insights,NO
+"Iowa, IA",19095,Iowa,IA,12,Quality Insights,NO
+"Jackson, IA",19097,Jackson,IA,12,Quality Insights,NO
+"Jasper, IA",19099,Jasper,IA,12,Quality Insights,YES
+"Jefferson, IA",19101,Jefferson,IA,12,Quality Insights,YES
+"Johnson, IA",19103,Johnson,IA,12,Quality Insights,YES
+"Jones, IA",19105,Jones,IA,12,Quality Insights,NO
+"Keokuk, IA",19107,Keokuk,IA,12,Quality Insights,NO
+"Kossuth, IA",19109,Kossuth,IA,12,Quality Insights,YES
+"Lee, IA",19111,Lee,IA,12,Quality Insights,YES
+"Linn, IA",19113,Linn,IA,12,Quality Insights,YES
+"Louisa, IA",19115,Louisa,IA,12,Quality Insights,NO
+"Lucas, IA",19117,Lucas,IA,12,Quality Insights,NO
+"Lyon, IA",19119,Lyon,IA,12,Quality Insights,NO
+"Madison, IA",19121,Madison,IA,12,Quality Insights,NO
+"Mahaska, IA",19123,Mahaska,IA,12,Quality Insights,NO
+"Marion, IA",19125,Marion,IA,12,Quality Insights,YES
+"Marshall, IA",19127,Marshall,IA,12,Quality Insights,YES
+"Mills, IA",19129,Mills,IA,12,Quality Insights,NO
+"Mitchell, IA",19131,Mitchell,IA,12,Quality Insights,NO
+"Monona, IA",19133,Monona,IA,12,Quality Insights,YES
+"Monroe, IA",19135,Monroe,IA,12,Quality Insights,NO
+"Montgomery, IA",19137,Montgomery,IA,12,Quality Insights,NO
+"Muscatine, IA",19139,Muscatine,IA,12,Quality Insights,YES
+"O'Brien, IA",19141,O'Brien,IA,12,Quality Insights,NO
+"Osceola, IA",19143,Osceola,IA,12,Quality Insights,NO
+"Page, IA",19145,Page,IA,12,Quality Insights,YES
+"Palo Alto, IA",19147,Palo Alto,IA,12,Quality Insights,NO
+"Plymouth, IA",19149,Plymouth,IA,12,Quality Insights,YES
+"Pocahontas, IA",19151,Pocahontas,IA,12,Quality Insights,NO
+"Polk, IA",19153,Polk,IA,12,Quality Insights,YES
+"Pottawattamie, IA",19155,Pottawattamie,IA,12,Quality Insights,YES
+"Poweshiek, IA",19157,Poweshiek,IA,12,Quality Insights,YES
+"Ringgold, IA",19159,Ringgold,IA,12,Quality Insights,NO
+"Sac, IA",19161,Sac,IA,12,Quality Insights,NO
+"Scott, IA",19163,Scott,IA,12,Quality Insights,YES
+"Shelby, IA",19165,Shelby,IA,12,Quality Insights,YES
+"Sioux, IA",19167,Sioux,IA,12,Quality Insights,YES
+"Story, IA",19169,Story,IA,12,Quality Insights,YES
+"Tama, IA",19171,Tama,IA,12,Quality Insights,NO
+"Taylor, IA",19173,Taylor,IA,12,Quality Insights,NO
+"Union, IA",19175,Union,IA,12,Quality Insights,YES
+"Van Buren, IA",19177,Van Buren,IA,12,Quality Insights,NO
+"Wapello, IA",19179,Wapello,IA,12,Quality Insights,YES
+"Warren, IA",19181,Warren,IA,12,Quality Insights,NO
+"Washington, IA",19183,Washington,IA,12,Quality Insights,YES
+"Wayne, IA",19185,Wayne,IA,12,Quality Insights,YES
+"Webster, IA",19187,Webster,IA,12,Quality Insights,YES
+"Winnebago, IA",19189,Winnebago,IA,12,Quality Insights,NO
+"Winneshiek, IA",19191,Winneshiek,IA,12,Quality Insights,YES
+"Woodbury, IA",19193,Woodbury,IA,12,Quality Insights,YES
+"Worth, IA",19195,Worth,IA,12,Quality Insights,NO
+"Wright, IA",19197,Wright,IA,12,Quality Insights,NO
+"Allen, KS",20001,Allen,KS,12,Quality Insights,NO
+"Anderson, KS",20003,Anderson,KS,12,Quality Insights,NO
+"Atchison, KS",20005,Atchison,KS,12,Quality Insights,NO
+"Barber, KS",20007,Barber,KS,12,Quality Insights,NO
+"Barton, KS",20009,Barton,KS,12,Quality Insights,YES
+"Bourbon, KS",20011,Bourbon,KS,12,Quality Insights,NO
+"Brown, KS",20013,Brown,KS,12,Quality Insights,NO
+"Butler, KS",20015,Butler,KS,12,Quality Insights,YES
+"Chase, KS",20017,Chase,KS,12,Quality Insights,NO
+"Chautauqua, KS",20019,Chautauqua,KS,12,Quality Insights,NO
+"Cherokee, KS",20021,Cherokee,KS,12,Quality Insights,NO
+"Cheyenne, KS",20023,Cheyenne,KS,12,Quality Insights,NO
+"Clark, KS",20025,Clark,KS,12,Quality Insights,NO
+"Clay, KS",20027,Clay,KS,12,Quality Insights,NO
+"Cloud, KS",20029,Cloud,KS,12,Quality Insights,NO
+"Coffey, KS",20031,Coffey,KS,12,Quality Insights,NO
+"Comanche, KS",20033,Comanche,KS,12,Quality Insights,NO
+"Cowley, KS",20035,Cowley,KS,12,Quality Insights,YES
+"Crawford, KS",20037,Crawford,KS,12,Quality Insights,YES
+"Decatur, KS",20039,Decatur,KS,12,Quality Insights,NO
+"Dickinson, KS",20041,Dickinson,KS,12,Quality Insights,NO
+"Doniphan, KS",20043,Doniphan,KS,12,Quality Insights,NO
+"Douglas, KS",20045,Douglas,KS,12,Quality Insights,YES
+"Edwards, KS",20047,Edwards,KS,12,Quality Insights,NO
+"Elk, KS",20049,Elk,KS,12,Quality Insights,NO
+"Ellis, KS",20051,Ellis,KS,12,Quality Insights,YES
+"Ellsworth, KS",20053,Ellsworth,KS,12,Quality Insights,NO
+"Finney, KS",20055,Finney,KS,12,Quality Insights,YES
+"Ford, KS",20057,Ford,KS,12,Quality Insights,YES
+"Franklin, KS",20059,Franklin,KS,12,Quality Insights,YES
+"Geary, KS",20061,Geary,KS,12,Quality Insights,NO
+"Gove, KS",20063,Gove,KS,12,Quality Insights,NO
+"Graham, KS",20065,Graham,KS,12,Quality Insights,NO
+"Grant, KS",20067,Grant,KS,12,Quality Insights,NO
+"Gray, KS",20069,Gray,KS,12,Quality Insights,NO
+"Greeley, KS",20071,Greeley,KS,12,Quality Insights,NO
+"Greenwood, KS",20073,Greenwood,KS,12,Quality Insights,NO
+"Hamilton, KS",20075,Hamilton,KS,12,Quality Insights,NO
+"Harper, KS",20077,Harper,KS,12,Quality Insights,NO
+"Harvey, KS",20079,Harvey,KS,12,Quality Insights,YES
+"Haskell, KS",20081,Haskell,KS,12,Quality Insights,NO
+"Hodgeman, KS",20083,Hodgeman,KS,12,Quality Insights,NO
+"Jackson, KS",20085,Jackson,KS,12,Quality Insights,NO
+"Jefferson, KS",20087,Jefferson,KS,12,Quality Insights,NO
+"Jewell, KS",20089,Jewell,KS,12,Quality Insights,NO
+"Johnson, KS",20091,Johnson,KS,12,Quality Insights,YES
+"Kearny, KS",20093,Kearny,KS,12,Quality Insights,NO
+"Kingman, KS",20095,Kingman,KS,12,Quality Insights,NO
+"Kiowa, KS",20097,Kiowa,KS,12,Quality Insights,NO
+"Labette, KS",20099,Labette,KS,12,Quality Insights,YES
+"Lane, KS",20101,Lane,KS,12,Quality Insights,NO
+"Leavenworth, KS",20103,Leavenworth,KS,12,Quality Insights,YES
+"Lincoln, KS",20105,Lincoln,KS,12,Quality Insights,NO
+"Linn, KS",20107,Linn,KS,12,Quality Insights,NO
+"Logan, KS",20109,Logan,KS,12,Quality Insights,NO
+"Lyon, KS",20111,Lyon,KS,12,Quality Insights,YES
+"Marion, KS",20115,Marion,KS,12,Quality Insights,NO
+"Marshall, KS",20117,Marshall,KS,12,Quality Insights,YES
+"McPherson, KS",20113,McPherson,KS,12,Quality Insights,NO
+"Meade, KS",20119,Meade,KS,12,Quality Insights,NO
+"Miami, KS",20121,Miami,KS,12,Quality Insights,NO
+"Mitchell, KS",20123,Mitchell,KS,12,Quality Insights,NO
+"Montgomery, KS",20125,Montgomery,KS,12,Quality Insights,YES
+"Morris, KS",20127,Morris,KS,12,Quality Insights,NO
+"Morton, KS",20129,Morton,KS,12,Quality Insights,NO
+"Nemaha, KS",20131,Nemaha,KS,12,Quality Insights,YES
+"Neosho, KS",20133,Neosho,KS,12,Quality Insights,YES
+"Ness, KS",20135,Ness,KS,12,Quality Insights,NO
+"Norton, KS",20137,Norton,KS,12,Quality Insights,NO
+"Osage, KS",20139,Osage,KS,12,Quality Insights,NO
+"Osborne, KS",20141,Osborne,KS,12,Quality Insights,NO
+"Ottawa, KS",20143,Ottawa,KS,12,Quality Insights,NO
+"Pawnee, KS",20145,Pawnee,KS,12,Quality Insights,NO
+"Phillips, KS",20147,Phillips,KS,12,Quality Insights,NO
+"Pottawatomie, KS",20149,Pottawatomie,KS,12,Quality Insights,NO
+"Pratt, KS",20151,Pratt,KS,12,Quality Insights,NO
+"Rawlins, KS",20153,Rawlins,KS,12,Quality Insights,NO
+"Reno, KS",20155,Reno,KS,12,Quality Insights,YES
+"Republic, KS",20157,Republic,KS,12,Quality Insights,NO
+"Rice, KS",20159,Rice,KS,12,Quality Insights,NO
+"Riley, KS",20161,Riley,KS,12,Quality Insights,YES
+"Rooks, KS",20163,Rooks,KS,12,Quality Insights,NO
+"Rush, KS",20165,Rush,KS,12,Quality Insights,NO
+"Russell, KS",20167,Russell,KS,12,Quality Insights,NO
+"Saline, KS",20169,Saline,KS,12,Quality Insights,YES
+"Scott, KS",20171,Scott,KS,12,Quality Insights,NO
+"Sedgwick, KS",20173,Sedgwick,KS,12,Quality Insights,YES
+"Seward, KS",20175,Seward,KS,12,Quality Insights,YES
+"Shawnee, KS",20177,Shawnee,KS,12,Quality Insights,YES
+"Sheridan, KS",20179,Sheridan,KS,12,Quality Insights,NO
+"Sherman, KS",20181,Sherman,KS,12,Quality Insights,NO
+"Smith, KS",20183,Smith,KS,12,Quality Insights,NO
+"Stafford, KS",20185,Stafford,KS,12,Quality Insights,NO
+"Stanton, KS",20187,Stanton,KS,12,Quality Insights,NO
+"Stevens, KS",20189,Stevens,KS,12,Quality Insights,NO
+"Sumner, KS",20191,Sumner,KS,12,Quality Insights,NO
+"Thomas, KS",20193,Thomas,KS,12,Quality Insights,NO
+"Trego, KS",20195,Trego,KS,12,Quality Insights,NO
+"Wabaunsee, KS",20197,Wabaunsee,KS,12,Quality Insights,NO
+"Wallace, KS",20199,Wallace,KS,12,Quality Insights,NO
+"Washington, KS",20201,Washington,KS,12,Quality Insights,NO
+"Wichita, KS",20203,Wichita,KS,12,Quality Insights,NO
+"Wilson, KS",20205,Wilson,KS,12,Quality Insights,NO
+"Woodson, KS",20207,Woodson,KS,12,Quality Insights,NO
+"Wyandotte, KS",20209,Wyandotte,KS,12,Quality Insights,YES
+"Adair, MO",29001,Adair,MO,12,Quality Insights,YES
+"Andrew, MO",29003,Andrew,MO,12,Quality Insights,NO
+"Atchison, MO",29005,Atchison,MO,12,Quality Insights,NO
+"Audrain, MO",29007,Audrain,MO,12,Quality Insights,YES
+"Barry, MO",29009,Barry,MO,12,Quality Insights,YES
+"Barton, MO",29011,Barton,MO,12,Quality Insights,NO
+"Bates, MO",29013,Bates,MO,12,Quality Insights,NO
+"Benton, MO",29015,Benton,MO,12,Quality Insights,NO
+"Bollinger, MO",29017,Bollinger,MO,12,Quality Insights,NO
+"Boone, MO",29019,Boone,MO,12,Quality Insights,YES
+"Buchanan, MO",29021,Buchanan,MO,12,Quality Insights,YES
+"Butler, MO",29023,Butler,MO,12,Quality Insights,YES
+"Caldwell, MO",29025,Caldwell,MO,12,Quality Insights,NO
+"Callaway, MO",29027,Callaway,MO,12,Quality Insights,YES
+"Camden, MO",29029,Camden,MO,12,Quality Insights,YES
+"Cape Girardeau, MO",29031,Cape Girardeau,MO,12,Quality Insights,YES
+"Carroll, MO",29033,Carroll,MO,12,Quality Insights,NO
+"Carter, MO",29035,Carter,MO,12,Quality Insights,NO
+"Cass, MO",29037,Cass,MO,12,Quality Insights,YES
+"Cedar, MO",29039,Cedar,MO,12,Quality Insights,NO
+"Chariton, MO",29041,Chariton,MO,12,Quality Insights,NO
+"Christian, MO",29043,Christian,MO,12,Quality Insights,YES
+"Clark, MO",29045,Clark,MO,12,Quality Insights,NO
+"Clay, MO",29047,Clay,MO,12,Quality Insights,YES
+"Clinton, MO",29049,Clinton,MO,12,Quality Insights,YES
+"Cole, MO",29051,Cole,MO,12,Quality Insights,YES
+"Cooper, MO",29053,Cooper,MO,12,Quality Insights,YES
+"Crawford, MO",29055,Crawford,MO,12,Quality Insights,NO
+"Dade, MO",29057,Dade,MO,12,Quality Insights,NO
+"Dallas, MO",29059,Dallas,MO,12,Quality Insights,NO
+"Daviess, MO",29061,Daviess,MO,12,Quality Insights,NO
+"DeKalb, MO",29063,DeKalb,MO,12,Quality Insights,NO
+"Dent, MO",29065,Dent,MO,12,Quality Insights,NO
+"Douglas, MO",29067,Douglas,MO,12,Quality Insights,NO
+"Dunklin, MO",29069,Dunklin,MO,12,Quality Insights,YES
+"Franklin, MO",29071,Franklin,MO,12,Quality Insights,YES
+"Gasconade, MO",29073,Gasconade,MO,12,Quality Insights,NO
+"Gentry, MO",29075,Gentry,MO,12,Quality Insights,NO
+"Greene, MO",29077,Greene,MO,12,Quality Insights,YES
+"Grundy, MO",29079,Grundy,MO,12,Quality Insights,NO
+"Harrison, MO",29081,Harrison,MO,12,Quality Insights,YES
+"Henry, MO",29083,Henry,MO,12,Quality Insights,YES
+"Hickory, MO",29085,Hickory,MO,12,Quality Insights,NO
+"Holt, MO",29087,Holt,MO,12,Quality Insights,NO
+"Howard, MO",29089,Howard,MO,12,Quality Insights,NO
+"Howell, MO",29091,Howell,MO,12,Quality Insights,YES
+"Iron, MO",29093,Iron,MO,12,Quality Insights,NO
+"Jackson, MO",29095,Jackson,MO,12,Quality Insights,YES
+"Jasper, MO",29097,Jasper,MO,12,Quality Insights,YES
+"Jefferson, MO",29099,Jefferson,MO,12,Quality Insights,YES
+"Johnson, MO",29101,Johnson,MO,12,Quality Insights,YES
+"Knox, MO",29103,Knox,MO,12,Quality Insights,NO
+"Laclede, MO",29105,Laclede,MO,12,Quality Insights,YES
+"Lafayette, MO",29107,Lafayette,MO,12,Quality Insights,NO
+"Lawrence, MO",29109,Lawrence,MO,12,Quality Insights,NO
+"Lewis, MO",29111,Lewis,MO,12,Quality Insights,NO
+"Lincoln, MO",29113,Lincoln,MO,12,Quality Insights,YES
+"Linn, MO",29115,Linn,MO,12,Quality Insights,NO
+"Livingston, MO",29117,Livingston,MO,12,Quality Insights,YES
+"Macon, MO",29121,Macon,MO,12,Quality Insights,YES
+"Madison, MO",29123,Madison,MO,12,Quality Insights,NO
+"Maries, MO",29125,Maries,MO,12,Quality Insights,NO
+"Marion, MO",29127,Marion,MO,12,Quality Insights,YES
+"McDonald, MO",29119,McDonald,MO,12,Quality Insights,NO
+"Mercer, MO",29129,Mercer,MO,12,Quality Insights,NO
+"Miller, MO",29131,Miller,MO,12,Quality Insights,NO
+"Mississippi, MO",29133,Mississippi,MO,12,Quality Insights,YES
+"Moniteau, MO",29135,Moniteau,MO,12,Quality Insights,NO
+"Monroe, MO",29137,Monroe,MO,12,Quality Insights,NO
+"Montgomery, MO",29139,Montgomery,MO,12,Quality Insights,NO
+"Morgan, MO",29141,Morgan,MO,12,Quality Insights,NO
+"New Madrid, MO",29143,New Madrid,MO,12,Quality Insights,NO
+"Newton, MO",29145,Newton,MO,12,Quality Insights,YES
+"Nodaway, MO",29147,Nodaway,MO,12,Quality Insights,NO
+"Oregon, MO",29149,Oregon,MO,12,Quality Insights,NO
+"Osage, MO",29151,Osage,MO,12,Quality Insights,NO
+"Ozark, MO",29153,Ozark,MO,12,Quality Insights,NO
+"Pemiscot, MO",29155,Pemiscot,MO,12,Quality Insights,NO
+"Perry, MO",29157,Perry,MO,12,Quality Insights,NO
+"Pettis, MO",29159,Pettis,MO,12,Quality Insights,YES
+"Phelps, MO",29161,Phelps,MO,12,Quality Insights,YES
+"Pike, MO",29163,Pike,MO,12,Quality Insights,YES
+"Platte, MO",29165,Platte,MO,12,Quality Insights,YES
+"Polk, MO",29167,Polk,MO,12,Quality Insights,YES
+"Pulaski, MO",29169,Pulaski,MO,12,Quality Insights,NO
+"Putnam, MO",29171,Putnam,MO,12,Quality Insights,NO
+"Ralls, MO",29173,Ralls,MO,12,Quality Insights,NO
+"Randolph, MO",29175,Randolph,MO,12,Quality Insights,YES
+"Ray, MO",29177,Ray,MO,12,Quality Insights,YES
+"Reynolds, MO",29179,Reynolds,MO,12,Quality Insights,NO
+"Ripley, MO",29181,Ripley,MO,12,Quality Insights,NO
+"Saint Charles, MO",29183,Saint Charles,MO,12,Quality Insights,YES
+"Saint Clair, MO",29185,Saint Clair,MO,12,Quality Insights,NO
+"Saint Francois, MO",29187,Saint Francois,MO,12,Quality Insights,YES
+"Saint Louis city, MO",29510,Saint Louis city,MO,12,Quality Insights,YES
+"Saint Louis, MO",29189,Saint Louis,MO,12,Quality Insights,YES
+"Saline, MO",29195,Saline,MO,12,Quality Insights,YES
+"Schuyler, MO",29197,Schuyler,MO,12,Quality Insights,NO
+"Scotland, MO",29199,Scotland,MO,12,Quality Insights,NO
+"Scott, MO",29201,Scott,MO,12,Quality Insights,YES
+"Shannon, MO",29203,Shannon,MO,12,Quality Insights,NO
+"Shelby, MO",29205,Shelby,MO,12,Quality Insights,NO
+"Ste. Genevieve, MO",29186,Ste. Genevieve,MO,12,Quality Insights,NO
+"Stoddard, MO",29207,Stoddard,MO,12,Quality Insights,YES
+"Stone, MO",29209,Stone,MO,12,Quality Insights,YES
+"Sullivan, MO",29211,Sullivan,MO,12,Quality Insights,NO
+"Taney, MO",29213,Taney,MO,12,Quality Insights,YES
+"Texas, MO",29215,Texas,MO,12,Quality Insights,NO
+"Vernon, MO",29217,Vernon,MO,12,Quality Insights,YES
+"Warren, MO",29219,Warren,MO,12,Quality Insights,NO
+"Washington, MO",29221,Washington,MO,12,Quality Insights,YES
+"Wayne, MO",29223,Wayne,MO,12,Quality Insights,NO
+"Webster, MO",29225,Webster,MO,12,Quality Insights,NO
+"Worth, MO",29227,Worth,MO,12,Quality Insights,NO
+"Wright, MO",29229,Wright,MO,12,Quality Insights,YES
+"Adams, NE",31001,Adams,NE,12,Quality Insights,YES
+"Antelope, NE",31003,Antelope,NE,12,Quality Insights,NO
+"Arthur, NE",31005,Arthur,NE,12,Quality Insights,NO
+"Banner, NE",31007,Banner,NE,12,Quality Insights,NO
+"Blaine, NE",31009,Blaine,NE,12,Quality Insights,NO
+"Boone, NE",31011,Boone,NE,12,Quality Insights,NO
+"Box Butte, NE",31013,Box Butte,NE,12,Quality Insights,YES
+"Boyd, NE",31015,Boyd,NE,12,Quality Insights,NO
+"Brown, NE",31017,Brown,NE,12,Quality Insights,NO
+"Buffalo, NE",31019,Buffalo,NE,12,Quality Insights,YES
+"Burt, NE",31021,Burt,NE,12,Quality Insights,NO
+"Butler, NE",31023,Butler,NE,12,Quality Insights,NO
+"Cass, NE",31025,Cass,NE,12,Quality Insights,NO
+"Cedar, NE",31027,Cedar,NE,12,Quality Insights,NO
+"Chase, NE",31029,Chase,NE,12,Quality Insights,NO
+"Cherry, NE",31031,Cherry,NE,12,Quality Insights,YES
+"Cheyenne, NE",31033,Cheyenne,NE,12,Quality Insights,NO
+"Clay, NE",31035,Clay,NE,12,Quality Insights,NO
+"Colfax, NE",31037,Colfax,NE,12,Quality Insights,NO
+"Cuming, NE",31039,Cuming,NE,12,Quality Insights,NO
+"Custer, NE",31041,Custer,NE,12,Quality Insights,NO
+"Dakota, NE",31043,Dakota,NE,12,Quality Insights,NO
+"Dawes, NE",31045,Dawes,NE,12,Quality Insights,NO
+"Dawson, NE",31047,Dawson,NE,12,Quality Insights,NO
+"Deuel, NE",31049,Deuel,NE,12,Quality Insights,NO
+"Dixon, NE",31051,Dixon,NE,12,Quality Insights,NO
+"Dodge, NE",31053,Dodge,NE,12,Quality Insights,YES
+"Douglas, NE",31055,Douglas,NE,12,Quality Insights,YES
+"Dundy, NE",31057,Dundy,NE,12,Quality Insights,NO
+"Fillmore, NE",31059,Fillmore,NE,12,Quality Insights,NO
+"Franklin, NE",31061,Franklin,NE,12,Quality Insights,NO
+"Frontier, NE",31063,Frontier,NE,12,Quality Insights,NO
+"Furnas, NE",31065,Furnas,NE,12,Quality Insights,NO
+"Gage, NE",31067,Gage,NE,12,Quality Insights,YES
+"Garden, NE",31069,Garden,NE,12,Quality Insights,NO
+"Garfield, NE",31071,Garfield,NE,12,Quality Insights,NO
+"Gosper, NE",31073,Gosper,NE,12,Quality Insights,NO
+"Grant, NE",31075,Grant,NE,12,Quality Insights,NO
+"Greeley, NE",31077,Greeley,NE,12,Quality Insights,NO
+"Hall, NE",31079,Hall,NE,12,Quality Insights,YES
+"Hamilton, NE",31081,Hamilton,NE,12,Quality Insights,NO
+"Harlan, NE",31083,Harlan,NE,12,Quality Insights,NO
+"Hayes, NE",31085,Hayes,NE,12,Quality Insights,NO
+"Hitchcock, NE",31087,Hitchcock,NE,12,Quality Insights,NO
+"Holt, NE",31089,Holt,NE,12,Quality Insights,YES
+"Hooker, NE",31091,Hooker,NE,12,Quality Insights,NO
+"Howard, NE",31093,Howard,NE,12,Quality Insights,NO
+"Jefferson, NE",31095,Jefferson,NE,12,Quality Insights,NO
+"Johnson, NE",31097,Johnson,NE,12,Quality Insights,NO
+"Kearney, NE",31099,Kearney,NE,12,Quality Insights,NO
+"Keith, NE",31101,Keith,NE,12,Quality Insights,NO
+"Keya Paha, NE",31103,Keya Paha,NE,12,Quality Insights,NO
+"Kimball, NE",31105,Kimball,NE,12,Quality Insights,NO
+"Knox, NE",31107,Knox,NE,12,Quality Insights,NO
+"Lancaster, NE",31109,Lancaster,NE,12,Quality Insights,YES
+"Lincoln, NE",31111,Lincoln,NE,12,Quality Insights,YES
+"Logan, NE",31113,Logan,NE,12,Quality Insights,NO
+"Loup, NE",31115,Loup,NE,12,Quality Insights,NO
+"Madison, NE",31119,Madison,NE,12,Quality Insights,YES
+"McPherson, NE",31117,McPherson,NE,12,Quality Insights,NO
+"Merrick, NE",31121,Merrick,NE,12,Quality Insights,NO
+"Morrill, NE",31123,Morrill,NE,12,Quality Insights,NO
+"Nance, NE",31125,Nance,NE,12,Quality Insights,NO
+"Nemaha, NE",31127,Nemaha,NE,12,Quality Insights,NO
+"Nuckolls, NE",31129,Nuckolls,NE,12,Quality Insights,NO
+"Otoe, NE",31131,Otoe,NE,12,Quality Insights,NO
+"Pawnee, NE",31133,Pawnee,NE,12,Quality Insights,NO
+"Perkins, NE",31135,Perkins,NE,12,Quality Insights,NO
+"Phelps, NE",31137,Phelps,NE,12,Quality Insights,NO
+"Pierce, NE",31139,Pierce,NE,12,Quality Insights,NO
+"Platte, NE",31141,Platte,NE,12,Quality Insights,NO
+"Polk, NE",31143,Polk,NE,12,Quality Insights,NO
+"Red Willow, NE",31145,Red Willow,NE,12,Quality Insights,YES
+"Richardson, NE",31147,Richardson,NE,12,Quality Insights,NO
+"Rock, NE",31149,Rock,NE,12,Quality Insights,NO
+"Saline, NE",31151,Saline,NE,12,Quality Insights,NO
+"Sarpy, NE",31153,Sarpy,NE,12,Quality Insights,YES
+"Saunders, NE",31155,Saunders,NE,12,Quality Insights,NO
+"Scotts Bluff, NE",31157,Scotts Bluff,NE,12,Quality Insights,YES
+"Seward, NE",31159,Seward,NE,12,Quality Insights,NO
+"Sheridan, NE",31161,Sheridan,NE,12,Quality Insights,NO
+"Sherman, NE",31163,Sherman,NE,12,Quality Insights,NO
+"Sioux, NE",31165,Sioux,NE,12,Quality Insights,NO
+"Stanton, NE",31167,Stanton,NE,12,Quality Insights,NO
+"Thayer, NE",31169,Thayer,NE,12,Quality Insights,NO
+"Thomas, NE",31171,Thomas,NE,12,Quality Insights,NO
+"Thurston, NE",31173,Thurston,NE,12,Quality Insights,YES
+"Valley, NE",31175,Valley,NE,12,Quality Insights,NO
+"Washington, NE",31177,Washington,NE,12,Quality Insights,NO
+"Wayne, NE",31179,Wayne,NE,12,Quality Insights,NO
+"Webster, NE",31181,Webster,NE,12,Quality Insights,NO
+"Wheeler, NE",31183,Wheeler,NE,12,Quality Insights,NO
+"York, NE",31185,York,NE,12,Quality Insights,YES
+"Arkansas, AR",5001,Arkansas,AR,13,Alliant,YES
+"Ashley, AR",5003,Ashley,AR,13,Alliant,YES
+"Baxter, AR",5005,Baxter,AR,13,Alliant,YES
+"Benton, AR",5007,Benton,AR,13,Alliant,YES
+"Boone, AR",5009,Boone,AR,13,Alliant,YES
+"Bradley, AR",5011,Bradley,AR,13,Alliant,YES
+"Calhoun, AR",5013,Calhoun,AR,13,Alliant,NO
+"Carroll, AR",5015,Carroll,AR,13,Alliant,NO
+"Chicot, AR",5017,Chicot,AR,13,Alliant,YES
+"Clark, AR",5019,Clark,AR,13,Alliant,YES
+"Clay, AR",5021,Clay,AR,13,Alliant,NO
+"Cleburne, AR",5023,Cleburne,AR,13,Alliant,NO
+"Cleveland, AR",5025,Cleveland,AR,13,Alliant,NO
+"Columbia, AR",5027,Columbia,AR,13,Alliant,YES
+"Conway, AR",5029,Conway,AR,13,Alliant,NO
+"Craighead, AR",5031,Craighead,AR,13,Alliant,YES
+"Crawford, AR",5033,Crawford,AR,13,Alliant,YES
+"Crittenden, AR",5035,Crittenden,AR,13,Alliant,YES
+"Cross, AR",5037,Cross,AR,13,Alliant,YES
+"Dallas, AR",5039,Dallas,AR,13,Alliant,NO
+"Desha, AR",5041,Desha,AR,13,Alliant,NO
+"Drew, AR",5043,Drew,AR,13,Alliant,YES
+"Faulkner, AR",5045,Faulkner,AR,13,Alliant,YES
+"Franklin, AR",5047,Franklin,AR,13,Alliant,NO
+"Fulton, AR",5049,Fulton,AR,13,Alliant,NO
+"Garland, AR",5051,Garland,AR,13,Alliant,YES
+"Grant, AR",5053,Grant,AR,13,Alliant,NO
+"Greene, AR",5055,Greene,AR,13,Alliant,YES
+"Hempstead, AR",5057,Hempstead,AR,13,Alliant,YES
+"Hot Spring, AR",5059,Hot Spring,AR,13,Alliant,YES
+"Howard, AR",5061,Howard,AR,13,Alliant,NO
+"Independence, AR",5063,Independence,AR,13,Alliant,YES
+"Izard, AR",5065,Izard,AR,13,Alliant,NO
+"Jackson, AR",5067,Jackson,AR,13,Alliant,YES
+"Jefferson, AR",5069,Jefferson,AR,13,Alliant,YES
+"Johnson, AR",5071,Johnson,AR,13,Alliant,NO
+"Lafayette, AR",5073,Lafayette,AR,13,Alliant,NO
+"Lawrence, AR",5075,Lawrence,AR,13,Alliant,NO
+"Lee, AR",5077,Lee,AR,13,Alliant,NO
+"Lincoln, AR",5079,Lincoln,AR,13,Alliant,NO
+"Little River, AR",5081,Little River,AR,13,Alliant,NO
+"Logan, AR",5083,Logan,AR,13,Alliant,NO
+"Lonoke, AR",5085,Lonoke,AR,13,Alliant,NO
+"Madison, AR",5087,Madison,AR,13,Alliant,NO
+"Marion, AR",5089,Marion,AR,13,Alliant,NO
+"Miller, AR",5091,Miller,AR,13,Alliant,YES
+"Mississippi, AR",5093,Mississippi,AR,13,Alliant,YES
+"Monroe, AR",5095,Monroe,AR,13,Alliant,NO
+"Montgomery, AR",5097,Montgomery,AR,13,Alliant,NO
+"Nevada, AR",5099,Nevada,AR,13,Alliant,NO
+"Newton, AR",5101,Newton,AR,13,Alliant,NO
+"Ouachita, AR",5103,Ouachita,AR,13,Alliant,YES
+"Perry, AR",5105,Perry,AR,13,Alliant,NO
+"Phillips, AR",5107,Phillips,AR,13,Alliant,YES
+"Pike, AR",5109,Pike,AR,13,Alliant,NO
+"Poinsett, AR",5111,Poinsett,AR,13,Alliant,NO
+"Polk, AR",5113,Polk,AR,13,Alliant,YES
+"Pope, AR",5115,Pope,AR,13,Alliant,YES
+"Prairie, AR",5117,Prairie,AR,13,Alliant,NO
+"Pulaski, AR",5119,Pulaski,AR,13,Alliant,YES
+"Randolph, AR",5121,Randolph,AR,13,Alliant,YES
+"Saint Francis, AR",5123,Saint Francis,AR,13,Alliant,YES
+"Saline, AR",5125,Saline,AR,13,Alliant,YES
+"Scott, AR",5127,Scott,AR,13,Alliant,NO
+"Searcy, AR",5129,Searcy,AR,13,Alliant,NO
+"Sebastian, AR",5131,Sebastian,AR,13,Alliant,YES
+"Sevier, AR",5133,Sevier,AR,13,Alliant,NO
+"Sharp, AR",5135,Sharp,AR,13,Alliant,NO
+"Stone, AR",5137,Stone,AR,13,Alliant,NO
+"Union, AR",5139,Union,AR,13,Alliant,YES
+"Van Buren, AR",5141,Van Buren,AR,13,Alliant,NO
+"Washington, AR",5143,Washington,AR,13,Alliant,YES
+"White, AR",5145,White,AR,13,Alliant,YES
+"Woodruff, AR",5147,Woodruff,AR,13,Alliant,YES
+"Yell, AR",5149,Yell,AR,13,Alliant,NO
+"Acadia, LA",22001,Acadia,LA,13,Alliant,YES
+"Allen, LA",22003,Allen,LA,13,Alliant,NO
+"Ascension, LA",22005,Ascension,LA,13,Alliant,YES
+"Assumption, LA",22007,Assumption,LA,13,Alliant,NO
+"Avoyelles, LA",22009,Avoyelles,LA,13,Alliant,YES
+"Beauregard, LA",22011,Beauregard,LA,13,Alliant,YES
+"Bienville, LA",22013,Bienville,LA,13,Alliant,NO
+"Bossier, LA",22015,Bossier,LA,13,Alliant,YES
+"Caddo, LA",22017,Caddo,LA,13,Alliant,YES
+"Calcasieu, LA",22019,Calcasieu,LA,13,Alliant,YES
+"Caldwell, LA",22021,Caldwell,LA,13,Alliant,YES
+"Cameron, LA",22023,Cameron,LA,13,Alliant,NO
+"Catahoula, LA",22025,Catahoula,LA,13,Alliant,NO
+"Claiborne, LA",22027,Claiborne,LA,13,Alliant,YES
+"Concordia, LA",22029,Concordia,LA,13,Alliant,YES
+"De Soto, LA",22031,De Soto,LA,13,Alliant,YES
+"East Baton Rouge, LA",22033,East Baton Rouge,LA,13,Alliant,YES
+"East Carroll, LA",22035,East Carroll,LA,13,Alliant,NO
+"East Feliciana, LA",22037,East Feliciana,LA,13,Alliant,YES
+"Evangeline, LA",22039,Evangeline,LA,13,Alliant,YES
+"Franklin, LA",22041,Franklin,LA,13,Alliant,YES
+"Grant, LA",22043,Grant,LA,13,Alliant,NO
+"Iberia, LA",22045,Iberia,LA,13,Alliant,YES
+"Iberville, LA",22047,Iberville,LA,13,Alliant,YES
+"Jackson, LA",22049,Jackson,LA,13,Alliant,NO
+"Jefferson Davis, LA",22053,Jefferson Davis,LA,13,Alliant,YES
+"Jefferson, LA",22051,Jefferson,LA,13,Alliant,YES
+"Lafayette, LA",22055,Lafayette,LA,13,Alliant,YES
+"Lafourche, LA",22057,Lafourche,LA,13,Alliant,YES
+"LaSalle, LA",22059,LaSalle,LA,13,Alliant,YES
+"Lincoln, LA",22061,Lincoln,LA,13,Alliant,YES
+"Livingston, LA",22063,Livingston,LA,13,Alliant,YES
+"Madison, LA",22065,Madison,LA,13,Alliant,YES
+"Morehouse, LA",22067,Morehouse,LA,13,Alliant,YES
+"Natchitoches, LA",22069,Natchitoches,LA,13,Alliant,YES
+"Orleans, LA",22071,Orleans,LA,13,Alliant,YES
+"Ouachita, LA",22073,Ouachita,LA,13,Alliant,YES
+"Plaquemines, LA",22075,Plaquemines,LA,13,Alliant,NO
+"Pointe Coupee, LA",22077,Pointe Coupee,LA,13,Alliant,YES
+"Rapides, LA",22079,Rapides,LA,13,Alliant,YES
+"Red River, LA",22081,Red River,LA,13,Alliant,YES
+"Richland, LA",22083,Richland,LA,13,Alliant,YES
+"Sabine, LA",22085,Sabine,LA,13,Alliant,YES
+"Saint Bernard, LA",22087,Saint Bernard,LA,13,Alliant,YES
+"Saint Charles, LA",22089,Saint Charles,LA,13,Alliant,YES
+"Saint Helena, LA",22091,Saint Helena,LA,13,Alliant,NO
+"Saint James, LA",22093,Saint James,LA,13,Alliant,YES
+"Saint Landry, LA",22097,Saint Landry,LA,13,Alliant,YES
+"Saint Martin, LA",22099,Saint Martin,LA,13,Alliant,YES
+"Saint Mary, LA",22101,Saint Mary,LA,13,Alliant,YES
+"Saint Tammany, LA",22103,Saint Tammany,LA,13,Alliant,YES
+"St John the Baptist, LA",22095,St John the Baptist,LA,13,Alliant,YES
+"Tangipahoa, LA",22105,Tangipahoa,LA,13,Alliant,YES
+"Tensas, LA",22107,Tensas,LA,13,Alliant,NO
+"Terrebonne, LA",22109,Terrebonne,LA,13,Alliant,YES
+"Union, LA",22111,Union,LA,13,Alliant,YES
+"Vermilion, LA",22113,Vermilion,LA,13,Alliant,YES
+"Vernon, LA",22115,Vernon,LA,13,Alliant,YES
+"Washington, LA",22117,Washington,LA,13,Alliant,YES
+"Webster, LA",22119,Webster,LA,13,Alliant,YES
+"West Baton Rouge, LA",22121,West Baton Rouge,LA,13,Alliant,YES
+"West Carroll, LA",22123,West Carroll,LA,13,Alliant,YES
+"West Feliciana, LA",22125,West Feliciana,LA,13,Alliant,NO
+"Winn, LA",22127,Winn,LA,13,Alliant,YES
+"Adair, OK",40001,Adair,OK,13,Alliant,YES
+"Alfalfa, OK",40003,Alfalfa,OK,13,Alliant,NO
+"Atoka, OK",40005,Atoka,OK,13,Alliant,NO
+"Beaver, OK",40007,Beaver,OK,13,Alliant,NO
+"Beckham, OK",40009,Beckham,OK,13,Alliant,YES
+"Blaine, OK",40011,Blaine,OK,13,Alliant,NO
+"Bryan, OK",40013,Bryan,OK,13,Alliant,YES
+"Caddo, OK",40015,Caddo,OK,13,Alliant,YES
+"Canadian, OK",40017,Canadian,OK,13,Alliant,YES
+"Carter, OK",40019,Carter,OK,13,Alliant,YES
+"Cherokee, OK",40021,Cherokee,OK,13,Alliant,YES
+"Choctaw, OK",40023,Choctaw,OK,13,Alliant,NO
+"Cimarron, OK",40025,Cimarron,OK,13,Alliant,NO
+"Cleveland, OK",40027,Cleveland,OK,13,Alliant,YES
+"Coal, OK",40029,Coal,OK,13,Alliant,NO
+"Comanche, OK",40031,Comanche,OK,13,Alliant,YES
+"Cotton, OK",40033,Cotton,OK,13,Alliant,NO
+"Craig, OK",40035,Craig,OK,13,Alliant,NO
+"Creek, OK",40037,Creek,OK,13,Alliant,YES
+"Custer, OK",40039,Custer,OK,13,Alliant,YES
+"Delaware, OK",40041,Delaware,OK,13,Alliant,NO
+"Dewey, OK",40043,Dewey,OK,13,Alliant,NO
+"Ellis, OK",40045,Ellis,OK,13,Alliant,NO
+"Garfield, OK",40047,Garfield,OK,13,Alliant,YES
+"Garvin, OK",40049,Garvin,OK,13,Alliant,NO
+"Grady, OK",40051,Grady,OK,13,Alliant,YES
+"Grant, OK",40053,Grant,OK,13,Alliant,NO
+"Greer, OK",40055,Greer,OK,13,Alliant,NO
+"Harmon, OK",40057,Harmon,OK,13,Alliant,NO
+"Harper, OK",40059,Harper,OK,13,Alliant,NO
+"Haskell, OK",40061,Haskell,OK,13,Alliant,NO
+"Hughes, OK",40063,Hughes,OK,13,Alliant,YES
+"Jackson, OK",40065,Jackson,OK,13,Alliant,YES
+"Jefferson, OK",40067,Jefferson,OK,13,Alliant,NO
+"Johnston, OK",40069,Johnston,OK,13,Alliant,NO
+"Kay, OK",40071,Kay,OK,13,Alliant,YES
+"Kingfisher, OK",40073,Kingfisher,OK,13,Alliant,NO
+"Kiowa, OK",40075,Kiowa,OK,13,Alliant,NO
+"Latimer, OK",40077,Latimer,OK,13,Alliant,NO
+"Leflore, OK",40079,Leflore,OK,13,Alliant,YES
+"Lincoln, OK",40081,Lincoln,OK,13,Alliant,NO
+"Logan, OK",40083,Logan,OK,13,Alliant,NO
+"Love, OK",40085,Love,OK,13,Alliant,NO
+"Major, OK",40093,Major,OK,13,Alliant,NO
+"Marshall, OK",40095,Marshall,OK,13,Alliant,NO
+"Mayes, OK",40097,Mayes,OK,13,Alliant,YES
+"McClain, OK",40087,McClain,OK,13,Alliant,NO
+"McCurtain, OK",40089,McCurtain,OK,13,Alliant,YES
+"McIntosh, OK",40091,McIntosh,OK,13,Alliant,YES
+"Murray, OK",40099,Murray,OK,13,Alliant,NO
+"Muskogee, OK",40101,Muskogee,OK,13,Alliant,YES
+"Noble, OK",40103,Noble,OK,13,Alliant,NO
+"Nowata, OK",40105,Nowata,OK,13,Alliant,NO
+"Okfuskee, OK",40107,Okfuskee,OK,13,Alliant,NO
+"Oklahoma, OK",40109,Oklahoma,OK,13,Alliant,YES
+"Okmulgee, OK",40111,Okmulgee,OK,13,Alliant,YES
+"Osage, OK",40113,Osage,OK,13,Alliant,NO
+"Ottawa, OK",40115,Ottawa,OK,13,Alliant,YES
+"Pawnee, OK",40117,Pawnee,OK,13,Alliant,NO
+"Payne, OK",40119,Payne,OK,13,Alliant,YES
+"Pittsburg, OK",40121,Pittsburg,OK,13,Alliant,YES
+"Pontotoc, OK",40123,Pontotoc,OK,13,Alliant,YES
+"Pottawatomie, OK",40125,Pottawatomie,OK,13,Alliant,YES
+"Pushmataha, OK",40127,Pushmataha,OK,13,Alliant,NO
+"Roger Mills, OK",40129,Roger Mills,OK,13,Alliant,NO
+"Rogers, OK",40131,Rogers,OK,13,Alliant,YES
+"Seminole, OK",40133,Seminole,OK,13,Alliant,NO
+"Sequoyah, OK",40135,Sequoyah,OK,13,Alliant,YES
+"Stephens, OK",40137,Stephens,OK,13,Alliant,YES
+"Texas, OK",40139,Texas,OK,13,Alliant,NO
+"Tillman, OK",40141,Tillman,OK,13,Alliant,NO
+"Tulsa, OK",40143,Tulsa,OK,13,Alliant,YES
+"Wagoner, OK",40145,Wagoner,OK,13,Alliant,YES
+"Washington, OK",40147,Washington,OK,13,Alliant,YES
+"Washita, OK",40149,Washita,OK,13,Alliant,NO
+"Woods, OK",40151,Woods,OK,13,Alliant,NO
+"Woodward, OK",40153,Woodward,OK,13,Alliant,YES
+"Anderson, TX",48001,Anderson,TX,14,Alliant,YES
+"Andrews, TX",48003,Andrews,TX,14,Alliant,YES
+"Angelina, TX",48005,Angelina,TX,14,Alliant,YES
+"Aransas, TX",48007,Aransas,TX,14,Alliant,YES
+"Archer, TX",48009,Archer,TX,14,Alliant,NO
+"Armstrong, TX",48011,Armstrong,TX,14,Alliant,NO
+"Atascosa, TX",48013,Atascosa,TX,14,Alliant,YES
+"Austin, TX",48015,Austin,TX,14,Alliant,YES
+"Bailey, TX",48017,Bailey,TX,14,Alliant,NO
+"Bandera, TX",48019,Bandera,TX,14,Alliant,NO
+"Bastrop, TX",48021,Bastrop,TX,14,Alliant,YES
+"Baylor, TX",48023,Baylor,TX,14,Alliant,NO
+"Bee, TX",48025,Bee,TX,14,Alliant,YES
+"Bell, TX",48027,Bell,TX,14,Alliant,YES
+"Bexar, TX",48029,Bexar,TX,14,Alliant,YES
+"Blanco, TX",48031,Blanco,TX,14,Alliant,NO
+"Borden, TX",48033,Borden,TX,14,Alliant,NO
+"Bosque, TX",48035,Bosque,TX,14,Alliant,NO
+"Bowie, TX",48037,Bowie,TX,14,Alliant,YES
+"Brazoria, TX",48039,Brazoria,TX,14,Alliant,YES
+"Brazos, TX",48041,Brazos,TX,14,Alliant,YES
+"Brewster, TX",48043,Brewster,TX,14,Alliant,NO
+"Briscoe, TX",48045,Briscoe,TX,14,Alliant,NO
+"Brooks, TX",48047,Brooks,TX,14,Alliant,YES
+"Brown, TX",48049,Brown,TX,14,Alliant,YES
+"Burleson, TX",48051,Burleson,TX,14,Alliant,NO
+"Burnet, TX",48053,Burnet,TX,14,Alliant,YES
+"Caldwell, TX",48055,Caldwell,TX,14,Alliant,YES
+"Calhoun, TX",48057,Calhoun,TX,14,Alliant,YES
+"Callahan, TX",48059,Callahan,TX,14,Alliant,NO
+"Cameron, TX",48061,Cameron,TX,14,Alliant,YES
+"Camp, TX",48063,Camp,TX,14,Alliant,NO
+"Carson, TX",48065,Carson,TX,14,Alliant,NO
+"Cass, TX",48067,Cass,TX,14,Alliant,YES
+"Castro, TX",48069,Castro,TX,14,Alliant,NO
+"Chambers, TX",48071,Chambers,TX,14,Alliant,YES
+"Cherokee, TX",48073,Cherokee,TX,14,Alliant,YES
+"Childress, TX",48075,Childress,TX,14,Alliant,YES
+"Clay, TX",48077,Clay,TX,14,Alliant,NO
+"Cochran, TX",48079,Cochran,TX,14,Alliant,NO
+"Coke, TX",48081,Coke,TX,14,Alliant,NO
+"Coleman, TX",48083,Coleman,TX,14,Alliant,NO
+"Collin, TX",48085,Collin,TX,14,Alliant,YES
+"Collingsworth, TX",48087,Collingsworth,TX,14,Alliant,NO
+"Colorado, TX",48089,Colorado,TX,14,Alliant,NO
+"Comal, TX",48091,Comal,TX,14,Alliant,YES
+"Comanche, TX",48093,Comanche,TX,14,Alliant,NO
+"Concho, TX",48095,Concho,TX,14,Alliant,NO
+"Cooke, TX",48097,Cooke,TX,14,Alliant,YES
+"Coryell, TX",48099,Coryell,TX,14,Alliant,YES
+"Cottle, TX",48101,Cottle,TX,14,Alliant,NO
+"Crane, TX",48103,Crane,TX,14,Alliant,NO
+"Crockett, TX",48105,Crockett,TX,14,Alliant,NO
+"Crosby, TX",48107,Crosby,TX,14,Alliant,NO
+"Culberson, TX",48109,Culberson,TX,14,Alliant,NO
+"Dallam, TX",48111,Dallam,TX,14,Alliant,NO
+"Dallas, TX",48113,Dallas,TX,14,Alliant,YES
+"Dawson, TX",48115,Dawson,TX,14,Alliant,YES
+"Deaf Smith, TX",48117,Deaf Smith,TX,14,Alliant,YES
+"Delta, TX",48119,Delta,TX,14,Alliant,NO
+"Denton, TX",48121,Denton,TX,14,Alliant,YES
+"DeWitt, TX",48123,DeWitt,TX,14,Alliant,YES
+"Dickens, TX",48125,Dickens,TX,14,Alliant,NO
+"Dimmit, TX",48127,Dimmit,TX,14,Alliant,YES
+"Donley, TX",48129,Donley,TX,14,Alliant,NO
+"Duval, TX",48131,Duval,TX,14,Alliant,NO
+"Eastland, TX",48133,Eastland,TX,14,Alliant,YES
+"Ector, TX",48135,Ector,TX,14,Alliant,YES
+"Edwards, TX",48137,Edwards,TX,14,Alliant,NO
+"El Paso, TX",48141,El Paso,TX,14,Alliant,YES
+"Ellis, TX",48139,Ellis,TX,14,Alliant,YES
+"Erath, TX",48143,Erath,TX,14,Alliant,YES
+"Falls, TX",48145,Falls,TX,14,Alliant,YES
+"Fannin, TX",48147,Fannin,TX,14,Alliant,NO
+"Fayette, TX",48149,Fayette,TX,14,Alliant,NO
+"Fisher, TX",48151,Fisher,TX,14,Alliant,NO
+"Floyd, TX",48153,Floyd,TX,14,Alliant,NO
+"Foard, TX",48155,Foard,TX,14,Alliant,NO
+"Fort Bend, TX",48157,Fort Bend,TX,14,Alliant,YES
+"Franklin, TX",48159,Franklin,TX,14,Alliant,NO
+"Freestone, TX",48161,Freestone,TX,14,Alliant,NO
+"Frio, TX",48163,Frio,TX,14,Alliant,YES
+"Gaines, TX",48165,Gaines,TX,14,Alliant,NO
+"Galveston, TX",48167,Galveston,TX,14,Alliant,YES
+"Garza, TX",48169,Garza,TX,14,Alliant,NO
+"Gillespie, TX",48171,Gillespie,TX,14,Alliant,NO
+"Glasscock, TX",48173,Glasscock,TX,14,Alliant,NO
+"Goliad, TX",48175,Goliad,TX,14,Alliant,NO
+"Gonzales, TX",48177,Gonzales,TX,14,Alliant,YES
+"Gray, TX",48179,Gray,TX,14,Alliant,YES
+"Grayson, TX",48181,Grayson,TX,14,Alliant,YES
+"Gregg, TX",48183,Gregg,TX,14,Alliant,YES
+"Grimes, TX",48185,Grimes,TX,14,Alliant,NO
+"Guadalupe, TX",48187,Guadalupe,TX,14,Alliant,YES
+"Hale, TX",48189,Hale,TX,14,Alliant,YES
+"Hall, TX",48191,Hall,TX,14,Alliant,NO
+"Hamilton, TX",48193,Hamilton,TX,14,Alliant,NO
+"Hansford, TX",48195,Hansford,TX,14,Alliant,NO
+"Hardeman, TX",48197,Hardeman,TX,14,Alliant,NO
+"Hardin, TX",48199,Hardin,TX,14,Alliant,NO
+"Harris, TX",48201,Harris,TX,14,Alliant,YES
+"Harrison, TX",48203,Harrison,TX,14,Alliant,YES
+"Hartley, TX",48205,Hartley,TX,14,Alliant,NO
+"Haskell, TX",48207,Haskell,TX,14,Alliant,NO
+"Hays, TX",48209,Hays,TX,14,Alliant,YES
+"Hemphill, TX",48211,Hemphill,TX,14,Alliant,NO
+"Henderson, TX",48213,Henderson,TX,14,Alliant,YES
+"Hidalgo, TX",48215,Hidalgo,TX,14,Alliant,YES
+"Hill, TX",48217,Hill,TX,14,Alliant,YES
+"Hockley, TX",48219,Hockley,TX,14,Alliant,NO
+"Hood, TX",48221,Hood,TX,14,Alliant,YES
+"Hopkins, TX",48223,Hopkins,TX,14,Alliant,YES
+"Houston, TX",48225,Houston,TX,14,Alliant,YES
+"Howard, TX",48227,Howard,TX,14,Alliant,YES
+"Hudspeth, TX",48229,Hudspeth,TX,14,Alliant,NO
+"Hunt, TX",48231,Hunt,TX,14,Alliant,YES
+"Hutchinson, TX",48233,Hutchinson,TX,14,Alliant,NO
+"Irion, TX",48235,Irion,TX,14,Alliant,NO
+"Jack, TX",48237,Jack,TX,14,Alliant,NO
+"Jackson, TX",48239,Jackson,TX,14,Alliant,NO
+"Jasper, TX",48241,Jasper,TX,14,Alliant,YES
+"Jeff Davis, TX",48243,Jeff Davis,TX,14,Alliant,NO
+"Jefferson, TX",48245,Jefferson,TX,14,Alliant,YES
+"Jim Hogg, TX",48247,Jim Hogg,TX,14,Alliant,NO
+"Jim Wells, TX",48249,Jim Wells,TX,14,Alliant,YES
+"Johnson, TX",48251,Johnson,TX,14,Alliant,YES
+"Jones, TX",48253,Jones,TX,14,Alliant,NO
+"Karnes, TX",48255,Karnes,TX,14,Alliant,NO
+"Kaufman, TX",48257,Kaufman,TX,14,Alliant,YES
+"Kendall, TX",48259,Kendall,TX,14,Alliant,YES
+"Kenedy, TX",48261,Kenedy,TX,14,Alliant,NO
+"Kent, TX",48263,Kent,TX,14,Alliant,NO
+"Kerr, TX",48265,Kerr,TX,14,Alliant,YES
+"Kimble, TX",48267,Kimble,TX,14,Alliant,NO
+"King, TX",48269,King,TX,14,Alliant,NO
+"Kinney, TX",48271,Kinney,TX,14,Alliant,NO
+"Kleberg, TX",48273,Kleberg,TX,14,Alliant,YES
+"Knox, TX",48275,Knox,TX,14,Alliant,NO
+"La Salle, TX",48283,La Salle,TX,14,Alliant,YES
+"Lamar, TX",48277,Lamar,TX,14,Alliant,YES
+"Lamb, TX",48279,Lamb,TX,14,Alliant,NO
+"Lampasas, TX",48281,Lampasas,TX,14,Alliant,YES
+"Lavaca, TX",48285,Lavaca,TX,14,Alliant,NO
+"Lee, TX",48287,Lee,TX,14,Alliant,NO
+"Leon, TX",48289,Leon,TX,14,Alliant,NO
+"Liberty, TX",48291,Liberty,TX,14,Alliant,YES
+"Limestone, TX",48293,Limestone,TX,14,Alliant,NO
+"Lipscomb, TX",48295,Lipscomb,TX,14,Alliant,NO
+"Live Oak, TX",48297,Live Oak,TX,14,Alliant,NO
+"Llano, TX",48299,Llano,TX,14,Alliant,NO
+"Loving, TX",48301,Loving,TX,14,Alliant,NO
+"Lubbock, TX",48303,Lubbock,TX,14,Alliant,YES
+"Lynn, TX",48305,Lynn,TX,14,Alliant,NO
+"Madison, TX",48313,Madison,TX,14,Alliant,NO
+"Marion, TX",48315,Marion,TX,14,Alliant,NO
+"Martin, TX",48317,Martin,TX,14,Alliant,NO
+"Mason, TX",48319,Mason,TX,14,Alliant,NO
+"Matagorda, TX",48321,Matagorda,TX,14,Alliant,YES
+"Maverick, TX",48323,Maverick,TX,14,Alliant,YES
+"McCulloch, TX",48307,McCulloch,TX,14,Alliant,NO
+"McLennan, TX",48309,McLennan,TX,14,Alliant,YES
+"McMullen, TX",48311,McMullen,TX,14,Alliant,NO
+"Medina, TX",48325,Medina,TX,14,Alliant,YES
+"Menard, TX",48327,Menard,TX,14,Alliant,NO
+"Midland, TX",48329,Midland,TX,14,Alliant,YES
+"Milam, TX",48331,Milam,TX,14,Alliant,NO
+"Mills, TX",48333,Mills,TX,14,Alliant,NO
+"Mitchell, TX",48335,Mitchell,TX,14,Alliant,NO
+"Montague, TX",48337,Montague,TX,14,Alliant,NO
+"Montgomery, TX",48339,Montgomery,TX,14,Alliant,YES
+"Moore, TX",48341,Moore,TX,14,Alliant,YES
+"Morris, TX",48343,Morris,TX,14,Alliant,NO
+"Motley, TX",48345,Motley,TX,14,Alliant,NO
+"Nacogdoches, TX",48347,Nacogdoches,TX,14,Alliant,YES
+"Navarro, TX",48349,Navarro,TX,14,Alliant,YES
+"Newton, TX",48351,Newton,TX,14,Alliant,NO
+"Nolan, TX",48353,Nolan,TX,14,Alliant,YES
+"Nueces, TX",48355,Nueces,TX,14,Alliant,YES
+"Ochiltree, TX",48357,Ochiltree,TX,14,Alliant,NO
+"Oldham, TX",48359,Oldham,TX,14,Alliant,NO
+"Orange, TX",48361,Orange,TX,14,Alliant,YES
+"Palo Pinto, TX",48363,Palo Pinto,TX,14,Alliant,NO
+"Panola, TX",48365,Panola,TX,14,Alliant,YES
+"Parker, TX",48367,Parker,TX,14,Alliant,YES
+"Parmer, TX",48369,Parmer,TX,14,Alliant,NO
+"Pecos, TX",48371,Pecos,TX,14,Alliant,YES
+"Polk, TX",48373,Polk,TX,14,Alliant,YES
+"Potter, TX",48375,Potter,TX,14,Alliant,YES
+"Presidio, TX",48377,Presidio,TX,14,Alliant,NO
+"Rains, TX",48379,Rains,TX,14,Alliant,NO
+"Randall, TX",48381,Randall,TX,14,Alliant,YES
+"Reagan, TX",48383,Reagan,TX,14,Alliant,NO
+"Real, TX",48385,Real,TX,14,Alliant,NO
+"Red River, TX",48387,Red River,TX,14,Alliant,NO
+"Reeves, TX",48389,Reeves,TX,14,Alliant,YES
+"Refugio, TX",48391,Refugio,TX,14,Alliant,NO
+"Roberts, TX",48393,Roberts,TX,14,Alliant,NO
+"Robertson, TX",48395,Robertson,TX,14,Alliant,NO
+"Rockwall, TX",48397,Rockwall,TX,14,Alliant,YES
+"Runnels, TX",48399,Runnels,TX,14,Alliant,NO
+"Rusk, TX",48401,Rusk,TX,14,Alliant,YES
+"Sabine, TX",48403,Sabine,TX,14,Alliant,NO
+"San Augustine, TX",48405,San Augustine,TX,14,Alliant,YES
+"San Jacinto, TX",48407,San Jacinto,TX,14,Alliant,NO
+"San Patricio, TX",48409,San Patricio,TX,14,Alliant,YES
+"San Saba, TX",48411,San Saba,TX,14,Alliant,NO
+"Schleicher, TX",48413,Schleicher,TX,14,Alliant,NO
+"Scurry, TX",48415,Scurry,TX,14,Alliant,NO
+"Shackelford, TX",48417,Shackelford,TX,14,Alliant,NO
+"Shelby, TX",48419,Shelby,TX,14,Alliant,YES
+"Sherman, TX",48421,Sherman,TX,14,Alliant,NO
+"Smith, TX",48423,Smith,TX,14,Alliant,YES
+"Somervell, TX",48425,Somervell,TX,14,Alliant,NO
+"Starr, TX",48427,Starr,TX,14,Alliant,YES
+"Stephens, TX",48429,Stephens,TX,14,Alliant,NO
+"Sterling, TX",48431,Sterling,TX,14,Alliant,NO
+"Stonewall, TX",48433,Stonewall,TX,14,Alliant,NO
+"Sutton, TX",48435,Sutton,TX,14,Alliant,NO
+"Swisher, TX",48437,Swisher,TX,14,Alliant,NO
+"Tarrant, TX",48439,Tarrant,TX,14,Alliant,YES
+"Taylor, TX",48441,Taylor,TX,14,Alliant,YES
+"Terrell, TX",48443,Terrell,TX,14,Alliant,NO
+"Terry, TX",48445,Terry,TX,14,Alliant,YES
+"Throckmorton, TX",48447,Throckmorton,TX,14,Alliant,NO
+"Titus, TX",48449,Titus,TX,14,Alliant,YES
+"Tom Green, TX",48451,Tom Green,TX,14,Alliant,YES
+"Travis, TX",48453,Travis,TX,14,Alliant,YES
+"Trinity, TX",48455,Trinity,TX,14,Alliant,NO
+"Tyler, TX",48457,Tyler,TX,14,Alliant,NO
+"Upshur, TX",48459,Upshur,TX,14,Alliant,YES
+"Upton, TX",48461,Upton,TX,14,Alliant,NO
+"Uvalde, TX",48463,Uvalde,TX,14,Alliant,YES
+"Val Verde, TX",48465,Val Verde,TX,14,Alliant,YES
+"Van Zandt, TX",48467,Van Zandt,TX,14,Alliant,YES
+"Victoria, TX",48469,Victoria,TX,14,Alliant,YES
+"Walker, TX",48471,Walker,TX,14,Alliant,YES
+"Waller, TX",48473,Waller,TX,14,Alliant,YES
+"Ward, TX",48475,Ward,TX,14,Alliant,NO
+"Washington, TX",48477,Washington,TX,14,Alliant,YES
+"Webb, TX",48479,Webb,TX,14,Alliant,YES
+"Wharton, TX",48481,Wharton,TX,14,Alliant,YES
+"Wheeler, TX",48483,Wheeler,TX,14,Alliant,NO
+"Wichita, TX",48485,Wichita,TX,14,Alliant,YES
+"Wilbarger, TX",48487,Wilbarger,TX,14,Alliant,YES
+"Willacy, TX",48489,Willacy,TX,14,Alliant,YES
+"Williamson, TX",48491,Williamson,TX,14,Alliant,YES
+"Wilson, TX",48493,Wilson,TX,14,Alliant,YES
+"Winkler, TX",48495,Winkler,TX,14,Alliant,NO
+"Wise, TX",48497,Wise,TX,14,Alliant,YES
+"Wood, TX",48499,Wood,TX,14,Alliant,YES
+"Yoakum, TX",48501,Yoakum,TX,14,Alliant,YES
+"Young, TX",48503,Young,TX,14,Alliant,YES
+"Zapata, TX",48505,Zapata,TX,14,Alliant,YES
+"Zavala, TX",48507,Zavala,TX,14,Alliant,YES
+"Apache, AZ",4001,Apache,AZ,15,Comagine,YES
+"Cochise, AZ",4003,Cochise,AZ,15,Comagine,YES
+"Coconino, AZ",4005,Coconino,AZ,15,Comagine,YES
+"Gila, AZ",4007,Gila,AZ,15,Comagine,YES
+"Graham, AZ",4009,Graham,AZ,15,Comagine,YES
+"Greenlee, AZ",4011,Greenlee,AZ,15,Comagine,NO
+"La Paz, AZ",4012,La Paz,AZ,15,Comagine,YES
+"Maricopa, AZ",4013,Maricopa,AZ,15,Comagine,YES
+"Mohave, AZ",4015,Mohave,AZ,15,Comagine,YES
+"Navajo, AZ",4017,Navajo,AZ,15,Comagine,YES
+"Pima, AZ",4019,Pima,AZ,15,Comagine,YES
+"Pinal, AZ",4021,Pinal,AZ,15,Comagine,YES
+"Santa Cruz, AZ",4023,Santa Cruz,AZ,15,Comagine,YES
+"Yavapai, AZ",4025,Yavapai,AZ,15,Comagine,YES
+"Yuma, AZ",4027,Yuma,AZ,15,Comagine,YES
+"Adams, CO",8001,Adams,CO,15,Comagine,YES
+"Alamosa, CO",8003,Alamosa,CO,15,Comagine,YES
+"Arapahoe, CO",8005,Arapahoe,CO,15,Comagine,YES
+"Archuleta, CO",8007,Archuleta,CO,15,Comagine,NO
+"Baca, CO",8009,Baca,CO,15,Comagine,NO
+"Bent, CO",8011,Bent,CO,15,Comagine,NO
+"Boulder, CO",8013,Boulder,CO,15,Comagine,YES
+"Broomfield, CO",8014,Broomfield,CO,15,Comagine,NO
+"Chaffee, CO",8015,Chaffee,CO,15,Comagine,YES
+"Cheyenne, CO",8017,Cheyenne,CO,15,Comagine,NO
+"Clear Creek, CO",8019,Clear Creek,CO,15,Comagine,NO
+"Conejos, CO",8021,Conejos,CO,15,Comagine,NO
+"Costilla, CO",8023,Costilla,CO,15,Comagine,NO
+"Crowley, CO",8025,Crowley,CO,15,Comagine,NO
+"Custer, CO",8027,Custer,CO,15,Comagine,NO
+"Delta, CO",8029,Delta,CO,15,Comagine,NO
+"Denver, CO",8031,Denver,CO,15,Comagine,YES
+"Dolores, CO",8033,Dolores,CO,15,Comagine,NO
+"Douglas, CO",8035,Douglas,CO,15,Comagine,YES
+"Eagle, CO",8037,Eagle,CO,15,Comagine,YES
+"El Paso, CO",8041,El Paso,CO,15,Comagine,YES
+"Elbert, CO",8039,Elbert,CO,15,Comagine,NO
+"Fremont, CO",8043,Fremont,CO,15,Comagine,NO
+"Garfield, CO",8045,Garfield,CO,15,Comagine,NO
+"Gilpin, CO",8047,Gilpin,CO,15,Comagine,NO
+"Grand, CO",8049,Grand,CO,15,Comagine,NO
+"Gunnison, CO",8051,Gunnison,CO,15,Comagine,NO
+"Hinsdale, CO",8053,Hinsdale,CO,15,Comagine,NO
+"Huerfano, CO",8055,Huerfano,CO,15,Comagine,YES
+"Jackson, CO",8057,Jackson,CO,15,Comagine,NO
+"Jefferson, CO",8059,Jefferson,CO,15,Comagine,YES
+"Kiowa, CO",8061,Kiowa,CO,15,Comagine,NO
+"Kit Carson, CO",8063,Kit Carson,CO,15,Comagine,NO
+"La Plata, CO",8067,La Plata,CO,15,Comagine,YES
+"Lake, CO",8065,Lake,CO,15,Comagine,NO
+"Larimer, CO",8069,Larimer,CO,15,Comagine,YES
+"Las Animas, CO",8071,Las Animas,CO,15,Comagine,NO
+"Lincoln, CO",8073,Lincoln,CO,15,Comagine,NO
+"Logan, CO",8075,Logan,CO,15,Comagine,YES
+"Mesa, CO",8077,Mesa,CO,15,Comagine,YES
+"Mineral, CO",8079,Mineral,CO,15,Comagine,NO
+"Moffat, CO",8081,Moffat,CO,15,Comagine,NO
+"Montezuma, CO",8083,Montezuma,CO,15,Comagine,YES
+"Montrose, CO",8085,Montrose,CO,15,Comagine,YES
+"Morgan, CO",8087,Morgan,CO,15,Comagine,NO
+"Otero, CO",8089,Otero,CO,15,Comagine,YES
+"Ouray, CO",8091,Ouray,CO,15,Comagine,NO
+"Park, CO",8093,Park,CO,15,Comagine,NO
+"Phillips, CO",8095,Phillips,CO,15,Comagine,NO
+"Pitkin, CO",8097,Pitkin,CO,15,Comagine,NO
+"Prowers, CO",8099,Prowers,CO,15,Comagine,YES
+"Pueblo, CO",8101,Pueblo,CO,15,Comagine,YES
+"Rio Blanco, CO",8103,Rio Blanco,CO,15,Comagine,NO
+"Rio Grande, CO",8105,Rio Grande,CO,15,Comagine,NO
+"Routt, CO",8107,Routt,CO,15,Comagine,NO
+"Saguache, CO",8109,Saguache,CO,15,Comagine,NO
+"San Juan, CO",8111,San Juan,CO,15,Comagine,NO
+"San Miguel, CO",8113,San Miguel,CO,15,Comagine,NO
+"Sedgwick, CO",8115,Sedgwick,CO,15,Comagine,NO
+"Summit, CO",8117,Summit,CO,15,Comagine,NO
+"Teller, CO",8119,Teller,CO,15,Comagine,NO
+"Washington, CO",8121,Washington,CO,15,Comagine,NO
+"Weld, CO",8123,Weld,CO,15,Comagine,YES
+"Yuma, CO",8125,Yuma,CO,15,Comagine,NO
+"Bernalillo, NM",35001,Bernalillo,NM,15,Comagine,YES
+"Catron, NM",35003,Catron,NM,15,Comagine,NO
+"Chaves, NM",35005,Chaves,NM,15,Comagine,YES
+"Cibola, NM",35006,Cibola,NM,15,Comagine,YES
+"Colfax, NM",35007,Colfax,NM,15,Comagine,YES
+"Curry, NM",35009,Curry,NM,15,Comagine,YES
+"De Baca, NM",35011,De Baca,NM,15,Comagine,NO
+"Dona Ana, NM",35013,Dona Ana,NM,15,Comagine,YES
+"Eddy, NM",35015,Eddy,NM,15,Comagine,YES
+"Grant, NM",35017,Grant,NM,15,Comagine,YES
+"Guadalupe, NM",35019,Guadalupe,NM,15,Comagine,NO
+"Harding, NM",35021,Harding,NM,15,Comagine,NO
+"Hidalgo, NM",35023,Hidalgo,NM,15,Comagine,NO
+"Lea, NM",35025,Lea,NM,15,Comagine,YES
+"Lincoln, NM",35027,Lincoln,NM,15,Comagine,NO
+"Los Alamos, NM",35028,Los Alamos,NM,15,Comagine,NO
+"Luna, NM",35029,Luna,NM,15,Comagine,YES
+"McKinley, NM",35031,McKinley,NM,15,Comagine,YES
+"Mora, NM",35033,Mora,NM,15,Comagine,NO
+"Otero, NM",35035,Otero,NM,15,Comagine,YES
+"Quay, NM",35037,Quay,NM,15,Comagine,NO
+"Rio Arriba, NM",35039,Rio Arriba,NM,15,Comagine,YES
+"Roosevelt, NM",35041,Roosevelt,NM,15,Comagine,NO
+"San Juan, NM",35045,San Juan,NM,15,Comagine,YES
+"San Miguel, NM",35047,San Miguel,NM,15,Comagine,YES
+"Sandoval, NM",35043,Sandoval,NM,15,Comagine,YES
+"Santa Fe, NM",35049,Santa Fe,NM,15,Comagine,YES
+"Sierra, NM",35051,Sierra,NM,15,Comagine,NO
+"Socorro, NM",35053,Socorro,NM,15,Comagine,YES
+"Taos, NM",35055,Taos,NM,15,Comagine,YES
+"Torrance, NM",35057,Torrance,NM,15,Comagine,NO
+"Union, NM",35059,Union,NM,15,Comagine,NO
+"Valencia, NM",35061,Valencia,NM,15,Comagine,YES
+"Carson City, NV",32510,Carson City,NV,15,Comagine,YES
+"Churchill, NV",32001,Churchill,NV,15,Comagine,YES
+"Clark, NV",32003,Clark,NV,15,Comagine,YES
+"Douglas, NV",32005,Douglas,NV,15,Comagine,YES
+"Elko, NV",32007,Elko,NV,15,Comagine,YES
+"Esmeralda, NV",32009,Esmeralda,NV,15,Comagine,NO
+"Eureka, NV",32011,Eureka,NV,15,Comagine,NO
+"Humboldt, NV",32013,Humboldt,NV,15,Comagine,NO
+"Lander, NV",32015,Lander,NV,15,Comagine,NO
+"Lincoln, NV",32017,Lincoln,NV,15,Comagine,NO
+"Lyon, NV",32019,Lyon,NV,15,Comagine,NO
+"Mineral, NV",32021,Mineral,NV,15,Comagine,NO
+"Nye, NV",32023,Nye,NV,15,Comagine,YES
+"Pershing, NV",32027,Pershing,NV,15,Comagine,NO
+"Storey, NV",32029,Storey,NV,15,Comagine,NO
+"Washoe, NV",32031,Washoe,NV,15,Comagine,YES
+"White Pine, NV",32033,White Pine,NV,15,Comagine,YES
+"Beaver, UT",49001,Beaver,UT,15,Comagine,NO
+"Box Elder, UT",49003,Box Elder,UT,15,Comagine,NO
+"Cache, UT",49005,Cache,UT,15,Comagine,YES
+"Carbon, UT",49007,Carbon,UT,15,Comagine,YES
+"Daggett, UT",49009,Daggett,UT,15,Comagine,NO
+"Davis, UT",49011,Davis,UT,15,Comagine,YES
+"Duchesne, UT",49013,Duchesne,UT,15,Comagine,YES
+"Emery, UT",49015,Emery,UT,15,Comagine,NO
+"Garfield, UT",49017,Garfield,UT,15,Comagine,NO
+"Grand, UT",49019,Grand,UT,15,Comagine,NO
+"Iron, UT",49021,Iron,UT,15,Comagine,YES
+"Juab, UT",49023,Juab,UT,15,Comagine,NO
+"Kane, UT",49025,Kane,UT,15,Comagine,NO
+"Millard, UT",49027,Millard,UT,15,Comagine,NO
+"Morgan, UT",49029,Morgan,UT,15,Comagine,NO
+"Piute, UT",49031,Piute,UT,15,Comagine,NO
+"Rich, UT",49033,Rich,UT,15,Comagine,NO
+"Salt Lake, UT",49035,Salt Lake,UT,15,Comagine,YES
+"San Juan, UT",49037,San Juan,UT,15,Comagine,YES
+"Sanpete, UT",49039,Sanpete,UT,15,Comagine,NO
+"Sevier, UT",49041,Sevier,UT,15,Comagine,YES
+"Summit, UT",49043,Summit,UT,15,Comagine,NO
+"Tooele, UT",49045,Tooele,UT,15,Comagine,YES
+"Uintah, UT",49047,Uintah,UT,15,Comagine,YES
+"Utah, UT",49049,Utah,UT,15,Comagine,YES
+"Wasatch, UT",49051,Wasatch,UT,15,Comagine,YES
+"Washington, UT",49053,Washington,UT,15,Comagine,YES
+"Wayne, UT",49055,Wayne,UT,15,Comagine,NO
+"Weber, UT",49057,Weber,UT,15,Comagine,YES
+"Albany, WY",56001,Albany,WY,15,Comagine,YES
+"Big Horn, WY",56003,Big Horn,WY,15,Comagine,NO
+"Campbell, WY",56005,Campbell,WY,15,Comagine,YES
+"Carbon, WY",56007,Carbon,WY,15,Comagine,NO
+"Converse, WY",56009,Converse,WY,15,Comagine,NO
+"Crook, WY",56011,Crook,WY,15,Comagine,NO
+"Fremont, WY",56013,Fremont,WY,15,Comagine,YES
+"Goshen, WY",56015,Goshen,WY,15,Comagine,NO
+"Hot Springs, WY",56017,Hot Springs,WY,15,Comagine,NO
+"Johnson, WY",56019,Johnson,WY,15,Comagine,NO
+"Laramie, WY",56021,Laramie,WY,15,Comagine,YES
+"Lincoln, WY",56023,Lincoln,WY,15,Comagine,NO
+"Natrona, WY",56025,Natrona,WY,15,Comagine,YES
+"Niobrara, WY",56027,Niobrara,WY,15,Comagine,NO
+"Park, WY",56029,Park,WY,15,Comagine,YES
+"Platte, WY",56031,Platte,WY,15,Comagine,NO
+"Sheridan, WY",56033,Sheridan,WY,15,Comagine,YES
+"Sublette, WY",56035,Sublette,WY,15,Comagine,NO
+"Sweetwater, WY",56037,Sweetwater,WY,15,Comagine,YES
+"Teton, WY",56039,Teton,WY,15,Comagine,NO
+"Uinta, WY",56041,Uinta,WY,15,Comagine,YES
+"Washakie, WY",56043,Washakie,WY,15,Comagine,NO
+"Weston, WY",56045,Weston,WY,15,Comagine,NO
+"Aleutians East, AK",2013,Aleutians East,AK,16,Qsource,NO
+"Aleutians West, AK",2016,Aleutians West,AK,16,Qsource,NO
+"Anchorage, AK",2020,Anchorage,AK,16,Qsource,YES
+"Bethel, AK",2050,Bethel,AK,16,Qsource,NO
+"Bristol Bay, AK",2060,Bristol Bay,AK,16,Qsource,NO
+"Denali, AK",2068,Denali,AK,16,Qsource,NO
+"Dillingham, AK",2070,Dillingham,AK,16,Qsource,NO
+"Fairbanks North Star, AK",2090,Fairbanks North Star,AK,16,Qsource,YES
+"Haines, AK",2100,Haines,AK,16,Qsource,NO
+"Hoonah-Angoon, AK",2105,Hoonah-Angoon,AK,16,Qsource,NO
+"Juneau, AK",2110,Juneau,AK,16,Qsource,YES
+"Kenai Peninsula, AK",2122,Kenai Peninsula,AK,16,Qsource,YES
+"Ketchikan Gateway, AK",2130,Ketchikan Gateway,AK,16,Qsource,NO
+"Kodiak Island, AK",2150,Kodiak Island,AK,16,Qsource,NO
+"Lake and Peninsula, AK",2164,Lake and Peninsula,AK,16,Qsource,NO
+"Matanuska-Susitna, AK",2170,Matanuska-Susitna,AK,16,Qsource,YES
+"Nome, AK",2180,Nome,AK,16,Qsource,NO
+"North Slope, AK",2185,North Slope,AK,16,Qsource,NO
+"Northwest Arctic, AK",2188,Northwest Arctic,AK,16,Qsource,NO
+"Petersburg, AK",2195,Petersburg,AK,16,Qsource,NO
+"Prince of Wales-Hyder, AK",2198,Prince of Wales-Hyder,AK,16,Qsource,NO
+"Sitka, AK",2220,Sitka,AK,16,Qsource,NO
+"Skagway, AK",2230,Skagway,AK,16,Qsource,NO
+"Southeast Fairbanks, AK",2240,Southeast Fairbanks,AK,16,Qsource,NO
+"Valdez-Cordova, AK",2261,Valdez-Cordova,AK,16,Qsource,NO
+"Wade Hampton, AK",2270,Wade Hampton,AK,16,Qsource,NO
+"Wrangell, AK",2275,Wrangell,AK,16,Qsource,NO
+"Yakutat, AK",2282,Yakutat,AK,16,Qsource,NO
+"Yukon-Koyukuk, AK",2290,Yukon-Koyukuk,AK,16,Qsource,NO
+"Ada, ID",16001,Ada,ID,16,Qsource,YES
+"Adams, ID",16003,Adams,ID,16,Qsource,NO
+"Bannock, ID",16005,Bannock,ID,16,Qsource,YES
+"Bear Lake, ID",16007,Bear Lake,ID,16,Qsource,YES
+"Benewah, ID",16009,Benewah,ID,16,Qsource,NO
+"Bingham, ID",16011,Bingham,ID,16,Qsource,YES
+"Blaine, ID",16013,Blaine,ID,16,Qsource,NO
+"Boise, ID",16015,Boise,ID,16,Qsource,NO
+"Bonner, ID",16017,Bonner,ID,16,Qsource,YES
+"Bonneville, ID",16019,Bonneville,ID,16,Qsource,YES
+"Boundary, ID",16021,Boundary,ID,16,Qsource,NO
+"Butte, ID",16023,Butte,ID,16,Qsource,NO
+"Camas, ID",16025,Camas,ID,16,Qsource,NO
+"Canyon, ID",16027,Canyon,ID,16,Qsource,YES
+"Caribou, ID",16029,Caribou,ID,16,Qsource,NO
+"Cassia, ID",16031,Cassia,ID,16,Qsource,YES
+"Clark, ID",16033,Clark,ID,16,Qsource,NO
+"Clearwater, ID",16035,Clearwater,ID,16,Qsource,NO
+"Custer, ID",16037,Custer,ID,16,Qsource,NO
+"Elmore, ID",16039,Elmore,ID,16,Qsource,NO
+"Franklin, ID",16041,Franklin,ID,16,Qsource,NO
+"Fremont, ID",16043,Fremont,ID,16,Qsource,NO
+"Gem, ID",16045,Gem,ID,16,Qsource,NO
+"Gooding, ID",16047,Gooding,ID,16,Qsource,NO
+"Idaho, ID",16049,Idaho,ID,16,Qsource,NO
+"Jefferson, ID",16051,Jefferson,ID,16,Qsource,NO
+"Jerome, ID",16053,Jerome,ID,16,Qsource,NO
+"Kootenai, ID",16055,Kootenai,ID,16,Qsource,YES
+"Latah, ID",16057,Latah,ID,16,Qsource,YES
+"Lemhi, ID",16059,Lemhi,ID,16,Qsource,NO
+"Lewis, ID",16061,Lewis,ID,16,Qsource,NO
+"Lincoln, ID",16063,Lincoln,ID,16,Qsource,NO
+"Madison, ID",16065,Madison,ID,16,Qsource,NO
+"Minidoka, ID",16067,Minidoka,ID,16,Qsource,NO
+"Nez Perce, ID",16069,Nez Perce,ID,16,Qsource,YES
+"Oneida, ID",16071,Oneida,ID,16,Qsource,NO
+"Owyhee, ID",16073,Owyhee,ID,16,Qsource,NO
+"Payette, ID",16075,Payette,ID,16,Qsource,YES
+"Power, ID",16077,Power,ID,16,Qsource,NO
+"Shoshone, ID",16079,Shoshone,ID,16,Qsource,NO
+"Teton, ID",16081,Teton,ID,16,Qsource,NO
+"Twin Falls, ID",16083,Twin Falls,ID,16,Qsource,YES
+"Valley, ID",16085,Valley,ID,16,Qsource,NO
+"Washington, ID",16087,Washington,ID,16,Qsource,NO
+"Beaverhead, MT",30001,Beaverhead,MT,16,Qsource,NO
+"Big Horn, MT",30003,Big Horn,MT,16,Qsource,NO
+"Blaine, MT",30005,Blaine,MT,16,Qsource,NO
+"Broadwater, MT",30007,Broadwater,MT,16,Qsource,NO
+"Carbon, MT",30009,Carbon,MT,16,Qsource,NO
+"Carter, MT",30011,Carter,MT,16,Qsource,NO
+"Cascade, MT",30013,Cascade,MT,16,Qsource,YES
+"Chouteau, MT",30015,Chouteau,MT,16,Qsource,NO
+"Custer, MT",30017,Custer,MT,16,Qsource,YES
+"Daniels, MT",30019,Daniels,MT,16,Qsource,NO
+"Dawson, MT",30021,Dawson,MT,16,Qsource,NO
+"Deer Lodge, MT",30023,Deer Lodge,MT,16,Qsource,NO
+"Fallon, MT",30025,Fallon,MT,16,Qsource,NO
+"Fergus, MT",30027,Fergus,MT,16,Qsource,NO
+"Flathead, MT",30029,Flathead,MT,16,Qsource,YES
+"Gallatin, MT",30031,Gallatin,MT,16,Qsource,YES
+"Garfield, MT",30033,Garfield,MT,16,Qsource,NO
+"Glacier, MT",30035,Glacier,MT,16,Qsource,YES
+"Golden Valley, MT",30037,Golden Valley,MT,16,Qsource,NO
+"Granite, MT",30039,Granite,MT,16,Qsource,NO
+"Hill, MT",30041,Hill,MT,16,Qsource,YES
+"Jefferson, MT",30043,Jefferson,MT,16,Qsource,NO
+"Judith Basin, MT",30045,Judith Basin,MT,16,Qsource,NO
+"Lake, MT",30047,Lake,MT,16,Qsource,YES
+"Lewis and Clark, MT",30049,Lewis and Clark,MT,16,Qsource,YES
+"Liberty, MT",30051,Liberty,MT,16,Qsource,NO
+"Lincoln, MT",30053,Lincoln,MT,16,Qsource,YES
+"Madison, MT",30057,Madison,MT,16,Qsource,NO
+"McCone, MT",30055,McCone,MT,16,Qsource,NO
+"Meagher, MT",30059,Meagher,MT,16,Qsource,NO
+"Mineral, MT",30061,Mineral,MT,16,Qsource,NO
+"Missoula, MT",30063,Missoula,MT,16,Qsource,YES
+"Musselshell, MT",30065,Musselshell,MT,16,Qsource,NO
+"Park, MT",30067,Park,MT,16,Qsource,NO
+"Petroleum, MT",30069,Petroleum,MT,16,Qsource,NO
+"Phillips, MT",30071,Phillips,MT,16,Qsource,NO
+"Pondera, MT",30073,Pondera,MT,16,Qsource,NO
+"Powder River, MT",30075,Powder River,MT,16,Qsource,NO
+"Powell, MT",30077,Powell,MT,16,Qsource,NO
+"Prairie, MT",30079,Prairie,MT,16,Qsource,NO
+"Ravalli, MT",30081,Ravalli,MT,16,Qsource,NO
+"Richland, MT",30083,Richland,MT,16,Qsource,NO
+"Roosevelt, MT",30085,Roosevelt,MT,16,Qsource,YES
+"Rosebud, MT",30087,Rosebud,MT,16,Qsource,NO
+"Sanders, MT",30089,Sanders,MT,16,Qsource,NO
+"Sheridan, MT",30091,Sheridan,MT,16,Qsource,NO
+"Silver Bow, MT",30093,Silver Bow,MT,16,Qsource,YES
+"Stillwater, MT",30095,Stillwater,MT,16,Qsource,NO
+"Sweet Grass, MT",30097,Sweet Grass,MT,16,Qsource,NO
+"Teton, MT",30099,Teton,MT,16,Qsource,NO
+"Toole, MT",30101,Toole,MT,16,Qsource,NO
+"Treasure, MT",30103,Treasure,MT,16,Qsource,NO
+"Valley, MT",30105,Valley,MT,16,Qsource,NO
+"Wheatland, MT",30107,Wheatland,MT,16,Qsource,NO
+"Wibaux, MT",30109,Wibaux,MT,16,Qsource,NO
+"Yellowstone, MT",30111,Yellowstone,MT,16,Qsource,YES
+"Baker, OR",41001,Baker,OR,16,Qsource,NO
+"Benton, OR",41003,Benton,OR,16,Qsource,YES
+"Clackamas, OR",41005,Clackamas,OR,16,Qsource,YES
+"Clatsop, OR",41007,Clatsop,OR,16,Qsource,YES
+"Columbia, OR",41009,Columbia,OR,16,Qsource,YES
+"Coos, OR",41011,Coos,OR,16,Qsource,YES
+"Crook, OR",41013,Crook,OR,16,Qsource,NO
+"Curry, OR",41015,Curry,OR,16,Qsource,NO
+"Deschutes, OR",41017,Deschutes,OR,16,Qsource,YES
+"Douglas, OR",41019,Douglas,OR,16,Qsource,YES
+"Gilliam, OR",41021,Gilliam,OR,16,Qsource,NO
+"Grant, OR",41023,Grant,OR,16,Qsource,NO
+"Harney, OR",41025,Harney,OR,16,Qsource,NO
+"Hood River, OR",41027,Hood River,OR,16,Qsource,YES
+"Jackson, OR",41029,Jackson,OR,16,Qsource,YES
+"Jefferson, OR",41031,Jefferson,OR,16,Qsource,YES
+"Josephine, OR",41033,Josephine,OR,16,Qsource,YES
+"Klamath, OR",41035,Klamath,OR,16,Qsource,YES
+"Lake, OR",41037,Lake,OR,16,Qsource,NO
+"Lane, OR",41039,Lane,OR,16,Qsource,YES
+"Lincoln, OR",41041,Lincoln,OR,16,Qsource,YES
+"Linn, OR",41043,Linn,OR,16,Qsource,YES
+"Malheur, OR",41045,Malheur,OR,16,Qsource,YES
+"Marion, OR",41047,Marion,OR,16,Qsource,YES
+"Morrow, OR",41049,Morrow,OR,16,Qsource,NO
+"Multnomah, OR",41051,Multnomah,OR,16,Qsource,YES
+"Polk, OR",41053,Polk,OR,16,Qsource,YES
+"Sherman, OR",41055,Sherman,OR,16,Qsource,NO
+"Tillamook, OR",41057,Tillamook,OR,16,Qsource,YES
+"Umatilla, OR",41059,Umatilla,OR,16,Qsource,YES
+"Union, OR",41061,Union,OR,16,Qsource,YES
+"Wallowa, OR",41063,Wallowa,OR,16,Qsource,NO
+"Wasco, OR",41065,Wasco,OR,16,Qsource,YES
+"Washington, OR",41067,Washington,OR,16,Qsource,YES
+"Wheeler, OR",41069,Wheeler,OR,16,Qsource,NO
+"Yamhill, OR",41071,Yamhill,OR,16,Qsource,YES
+"Adams, WA",53001,Adams,WA,16,Qsource,YES
+"Asotin, WA",53003,Asotin,WA,16,Qsource,YES
+"Benton, WA",53005,Benton,WA,16,Qsource,YES
+"Chelan, WA",53007,Chelan,WA,16,Qsource,YES
+"Clallam, WA",53009,Clallam,WA,16,Qsource,YES
+"Clark, WA",53011,Clark,WA,16,Qsource,YES
+"Columbia, WA",53013,Columbia,WA,16,Qsource,NO
+"Cowlitz, WA",53015,Cowlitz,WA,16,Qsource,YES
+"Douglas, WA",53017,Douglas,WA,16,Qsource,YES
+"Ferry, WA",53019,Ferry,WA,16,Qsource,NO
+"Franklin, WA",53021,Franklin,WA,16,Qsource,YES
+"Garfield, WA",53023,Garfield,WA,16,Qsource,NO
+"Grant, WA",53025,Grant,WA,16,Qsource,YES
+"Grays Harbor, WA",53027,Grays Harbor,WA,16,Qsource,YES
+"Island, WA",53029,Island,WA,16,Qsource,YES
+"Jefferson, WA",53031,Jefferson,WA,16,Qsource,YES
+"King, WA",53033,King,WA,16,Qsource,YES
+"Kitsap, WA",53035,Kitsap,WA,16,Qsource,YES
+"Kittitas, WA",53037,Kittitas,WA,16,Qsource,YES
+"Klickitat, WA",53039,Klickitat,WA,16,Qsource,NO
+"Lewis, WA",53041,Lewis,WA,16,Qsource,YES
+"Lincoln, WA",53043,Lincoln,WA,16,Qsource,NO
+"Mason, WA",53045,Mason,WA,16,Qsource,YES
+"Okanogan, WA",53047,Okanogan,WA,16,Qsource,YES
+"Pacific, WA",53049,Pacific,WA,16,Qsource,NO
+"Pend Oreille, WA",53051,Pend Oreille,WA,16,Qsource,NO
+"Pierce, WA",53053,Pierce,WA,16,Qsource,YES
+"San Juan, WA",53055,San Juan,WA,16,Qsource,YES
+"Skagit, WA",53057,Skagit,WA,16,Qsource,YES
+"Skamania, WA",53059,Skamania,WA,16,Qsource,NO
+"Snohomish, WA",53061,Snohomish,WA,16,Qsource,YES
+"Spokane, WA",53063,Spokane,WA,16,Qsource,YES
+"Stevens, WA",53065,Stevens,WA,16,Qsource,YES
+"Thurston, WA",53067,Thurston,WA,16,Qsource,YES
+"Wahkiakum, WA",53069,Wahkiakum,WA,16,Qsource,NO
+"Walla Walla, WA",53071,Walla Walla,WA,16,Qsource,YES
+"Whatcom, WA",53073,Whatcom,WA,16,Qsource,YES
+"Whitman, WA",53075,Whitman,WA,16,Qsource,NO
+"Yakima, WA",53077,Yakima,WA,16,Qsource,YES
+"American Samoa, AS",60010,American Samoa,AS,17,Qsource,YES
+"Alameda, CA",6001,Alameda,CA,17,Qsource,YES
+"Alpine, CA",6003,Alpine,CA,17,Qsource,NO
+"Amador, CA",6005,Amador,CA,17,Qsource,YES
+"Butte, CA",6007,Butte,CA,17,Qsource,YES
+"Calaveras, CA",6009,Calaveras,CA,17,Qsource,NO
+"Colusa, CA",6011,Colusa,CA,17,Qsource,NO
+"Contra Costa, CA",6013,Contra Costa,CA,17,Qsource,YES
+"Del Norte, CA",6015,Del Norte,CA,17,Qsource,YES
+"El Dorado, CA",6017,El Dorado,CA,17,Qsource,YES
+"Fresno, CA",6019,Fresno,CA,17,Qsource,YES
+"Glenn, CA",6021,Glenn,CA,17,Qsource,NO
+"Humboldt, CA",6023,Humboldt,CA,17,Qsource,YES
+"Lake, CA",6033,Lake,CA,17,Qsource,YES
+"Lassen, CA",6035,Lassen,CA,17,Qsource,NO
+"Madera, CA",6039,Madera,CA,17,Qsource,YES
+"Marin, CA",6041,Marin,CA,17,Qsource,YES
+"Mariposa, CA",6043,Mariposa,CA,17,Qsource,NO
+"Mendocino, CA",6045,Mendocino,CA,17,Qsource,YES
+"Merced, CA",6047,Merced,CA,17,Qsource,YES
+"Modoc, CA",6049,Modoc,CA,17,Qsource,NO
+"Mono, CA",6051,Mono,CA,17,Qsource,NO
+"Monterey, CA",6053,Monterey,CA,17,Qsource,YES
+"Napa, CA",6055,Napa,CA,17,Qsource,YES
+"Nevada, CA",6057,Nevada,CA,17,Qsource,YES
+"Placer, CA",6061,Placer,CA,17,Qsource,YES
+"Plumas, CA",6063,Plumas,CA,17,Qsource,NO
+"Sacramento, CA",6067,Sacramento,CA,17,Qsource,YES
+"San Benito, CA",6069,San Benito,CA,17,Qsource,YES
+"San Francisco, CA",6075,San Francisco,CA,17,Qsource,YES
+"San Joaquin, CA",6077,San Joaquin,CA,17,Qsource,YES
+"San Mateo, CA",6081,San Mateo,CA,17,Qsource,YES
+"Santa Clara, CA",6085,Santa Clara,CA,17,Qsource,YES
+"Santa Cruz, CA",6087,Santa Cruz,CA,17,Qsource,YES
+"Shasta, CA",6089,Shasta,CA,17,Qsource,YES
+"Sierra, CA",6091,Sierra,CA,17,Qsource,NO
+"Siskiyou, CA",6093,Siskiyou,CA,17,Qsource,NO
+"Solano, CA",6095,Solano,CA,17,Qsource,YES
+"Sonoma, CA",6097,Sonoma,CA,17,Qsource,YES
+"Stanislaus, CA",6099,Stanislaus,CA,17,Qsource,YES
+"Sutter, CA",6101,Sutter,CA,17,Qsource,YES
+"Tehama, CA",6103,Tehama,CA,17,Qsource,YES
+"Trinity, CA",6105,Trinity,CA,17,Qsource,NO
+"Tuolumne, CA",6109,Tuolumne,CA,17,Qsource,YES
+"Yolo, CA",6113,Yolo,CA,17,Qsource,YES
+"Yuba, CA",6115,Yuba,CA,17,Qsource,YES
+"Guam, GU",66010,Guam,GU,17,Qsource,YES
+"Hawaii, HI",15001,Hawaii,HI,17,Qsource,YES
+"Honolulu, HI",15003,Honolulu,HI,17,Qsource,YES
+"Kalawao, HI",15005,Kalawao,HI,17,Qsource,NO
+"Kauai, HI",15007,Kauai,HI,17,Qsource,YES
+"Maui, HI",15009,Maui,HI,17,Qsource,YES
+"Saipan, MP",69110,Saipan,MP,17,Qsource,YES
+"Imperial, CA",6025,Imperial,CA,18,Comagine,YES
+"Inyo, CA",6027,Inyo,CA,18,Comagine,YES
+"Kern, CA",6029,Kern,CA,18,Comagine,YES
+"Kings, CA",6031,Kings,CA,18,Comagine,YES
+"Los Angeles, CA",6037,Los Angeles,CA,18,Comagine,YES
+"Orange, CA",6059,Orange,CA,18,Comagine,YES
+"Riverside, CA",6065,Riverside,CA,18,Comagine,YES
+"San Bernardino, CA",6071,San Bernardino,CA,18,Comagine,YES
+"San Diego, CA",6073,San Diego,CA,18,Comagine,YES
+"San Luis Obispo, CA",6079,San Luis Obispo,CA,18,Comagine,YES
+"Santa Barbara, CA",6083,Santa Barbara,CA,18,Comagine,YES
+"Tulare, CA",6107,Tulare,CA,18,Comagine,YES
+"Ventura, CA",6111,Ventura,CA,18,Comagine,YES
+
